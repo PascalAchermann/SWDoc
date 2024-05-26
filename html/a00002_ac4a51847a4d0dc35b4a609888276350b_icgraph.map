@@ -1,0 +1,15 @@
+<map id="setDAC" name="setDAC">
+<area shape="rect" id="Node000001" title="Set an output Value on the DAC." alt="" coords="517,56,583,83"/>
+<area shape="rect" id="Node000002" href="$a00056.html#abb70ca197206b69b2724a6929e668fb6" title="This Function starts the Load process of the Capacitro array." alt="" coords="357,5,458,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,55,446,35,448,30,503,50"/>
+<area shape="rect" id="Node000003" href="$a00056.html#af4b0e3fe264f62d03d90e0d5eee478f4" title="Timer callback function. It will load the capacitor array for 9ms then wait for 9ms till the array is..." alt="" coords="354,56,461,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="501,72,461,72,461,67,501,67"/>
+<area shape="rect" id="Node000007" href="$a00056.html#aa3d290a31fb048ddd6d42f5c556b79a7" title="This Function stops the Load process of the Capacitro array it stops the timer and set the DAC VAL to..." alt="" coords="346,107,469,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="503,89,448,109,446,104,501,84"/>
+<area shape="rect" id="Node000004" href="$a00056.html#ad2b3dfd69a990b69a69c34b19a0e0d98" title="App Initialization Function." alt="" coords="212,56,298,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="339,72,299,72,299,67,339,67"/>
+<area shape="rect" id="Node000005" href="$a00071.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,56,164,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="196,72,165,72,165,67,196,67"/>
+<area shape="rect" id="Node000006" href="$a00065.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,56,55,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,72,55,72,55,67,87,67"/>
+</map>

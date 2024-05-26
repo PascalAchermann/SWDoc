@@ -1,0 +1,34 @@
+<map id="AnalogUnlock" name="AnalogUnlock">
+<area shape="rect" id="Node000001" title="Analog Value protection Give mutex." alt="" coords="931,81,1032,108"/>
+<area shape="rect" id="Node000002" href="$a00068.html#ad0dd2de65c7f1e42c5be4082be30f1b9" title="This Function copies all Analog values to the dedicated memory it is protected internal with a Mutex ..." alt="" coords="781,5,860,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="940,76,882,46,856,35,858,30,884,42,943,71"/>
+<area shape="rect" id="Node000008" href="$a00068.html#a6e729415fd20492163ea9a6863d2193f" title="This function sets the Channel to the Port and configure the Mode it is protected internal with a Mut..." alt="" coords="781,56,860,83"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="915,87,860,78,861,73,916,82"/>
+<area shape="rect" id="Node000011" href="$a00068.html#a0ebc7563ff4bd7a200e3bd3a503973ac" title="This Function set the channel which should be read. it is protected internal with a Mutex to avoid er..." alt="" coords="772,107,869,133"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="916,108,870,115,869,110,915,102"/>
+<area shape="rect" id="Node000013" href="$a00068.html#a7895452e00cdeba98e547b30f73a1749" title="This Function starts a new measure cycle." alt="" coords="758,157,883,184"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="943,118,884,148,858,159,856,154,882,143,940,113"/>
+<area shape="rect" id="Node000003" href="$a00050.html#a1528aae02dbabff4c98ce28217fd26d6" title=" " alt="" coords="472,7,558,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="765,22,558,22,558,17,765,16"/>
+<area shape="rect" id="Node000004" href="$a00050.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="340,59,412,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="464,42,413,61,412,56,462,37"/>
+<area shape="rect" id="Node000005" href="$a00050.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Reset the Application Queue." alt="" coords="212,60,280,87"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="324,75,281,76,281,70,324,70"/>
+<area shape="rect" id="Node000006" href="$a00071.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,88,164,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="198,88,165,96,164,91,196,83"/>
+<area shape="rect" id="Node000007" href="$a00065.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,88,55,115"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="87,104,55,104,55,99,87,99"/>
+<area shape="rect" id="Node000009" href="$a00050.html#ad666e201336ddb3546436feb7296d21d" title="This function Reads the Flash config for the Port configuration and set the default configuration if ..." alt="" coords="619,56,698,83"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="765,72,698,72,698,67,765,67"/>
+<area shape="rect" id="Node000010" href="$a00050.html#a1094a9e2dc4966d0da3834dd8767e3ec" title="This function read information from the Flash and load the configuration into the modules." alt="" coords="483,59,547,85"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="603,73,547,74,547,69,603,68"/>
+<area shape="poly" id="edge10_Node000010_Node000004" title=" " alt="" coords="468,75,412,75,412,69,468,69"/>
+<area shape="rect" id="Node000012" href="$a00050.html#a5be86edcd7cb419d856d5d881c78fa86" title="This function Reads the Flash config for the Port Measure and set the default configuration if no con..." alt="" coords="606,107,710,133"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="756,123,711,123,711,117,756,117"/>
+<area shape="poly" id="edge13_Node000012_Node000010" title=" " alt="" coords="601,104,546,85,548,80,603,99"/>
+<area shape="rect" id="Node000014" href="$a00068.html#a1c670a1da5230da1982844e03cfde494" title=" " alt="" coords="621,157,695,184"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="743,173,696,173,696,168,743,168"/>
+<area shape="rect" id="Node000015" href="$a00068.html#a32913a2fd3fbc590a2a91763acb95592" title="App Initialization Function." alt="" coords="328,120,424,147"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="605,166,424,142,424,137,606,161"/>
+<area shape="poly" id="edge17_Node000015_Node000006" title=" " alt="" coords="313,128,164,108,165,103,313,122"/>
+</map>

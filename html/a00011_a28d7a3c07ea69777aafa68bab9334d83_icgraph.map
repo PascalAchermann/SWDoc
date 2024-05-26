@@ -1,0 +1,18 @@
+<map id="setCtrlConfig" name="setCtrlConfig">
+<area shape="rect" id="Node000001" title="Set the configuration of the control modul." alt="" coords="719,31,815,57"/>
+<area shape="rect" id="Node000002" href="$a00056.html#ad2b3dfd69a990b69a69c34b19a0e0d98" title="App Initialization Function." alt="" coords="449,5,535,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="703,41,535,25,536,20,704,36"/>
+<area shape="rect" id="Node000005" href="$a00050.html#a08237efe17fe7e21009915154e52c863" title="This function Reads the Flash config for the Port configuration and set the default configuration if ..." alt="" coords="583,56,671,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="704,58,672,64,671,59,703,53"/>
+<area shape="rect" id="Node000003" href="$a00071.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,31,164,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,25,165,45,164,39,433,20"/>
+<area shape="rect" id="Node000004" href="$a00065.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,47,55,47,55,41,87,41"/>
+<area shape="rect" id="Node000006" href="$a00050.html#a1094a9e2dc4966d0da3834dd8767e3ec" title="This function read information from the Flash and load the configuration into the modules." alt="" coords="460,56,524,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="567,72,524,72,524,67,567,67"/>
+<area shape="rect" id="Node000007" href="$a00050.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="328,56,401,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="445,72,401,72,401,67,445,67"/>
+<area shape="rect" id="Node000008" href="$a00050.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Reset the Application Queue." alt="" coords="212,56,280,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="313,72,281,72,281,67,313,67"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="196,61,164,53,165,48,198,56"/>
+</map>

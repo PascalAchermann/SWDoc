@@ -1,0 +1,5 @@
+<map id="stopLoadProcess" name="stopLoadProcess">
+<area shape="rect" id="Node000001" title="This Function stops the Load process of the Capacitro array it stops the timer and set the DAC VAL to..." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="Node000002" href="$a00047.html#ac4a51847a4d0dc35b4a609888276350b" title="Set an output Value on the DAC." alt="" coords="176,5,242,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,16,160,16,160,21,128,21"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="Control_Init" name="Control_Init">
+<area shape="rect" id="Node000001" title="App Initialization Function." alt="" coords="5,56,92,83"/>
+<area shape="rect" id="Node000002" href="$control_8c.html#af4b0e3fe264f62d03d90e0d5eee478f4" title="Timer callback function. It will load the capacitor array for 9ms then wait for 9ms till the array is..." alt="" coords="140,5,246,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,53,138,35,139,40,90,58"/>
+<area shape="rect" id="Node000004" href="$control_8c.html#a6280444563f4376ab0a405e31fb61dd3" title="Resets the hardware blocks and deactivates the output pins for H&#45;Bridges." alt="" coords="159,56,227,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="92,67,143,67,143,72,92,72"/>
+<area shape="rect" id="Node000007" href="$control_8c.html#a96c2fc44f420b191b9700486423e9712" title="Sets the release status of a specified signal." alt="" coords="150,107,236,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="90,81,139,99,138,104,88,86"/>
+<area shape="rect" id="Node000003" href="$analog_8c.html#ac4a51847a4d0dc35b4a609888276350b" title="Set an output Value on the DAC." alt="" coords="309,5,375,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="247,16,293,16,293,21,247,21"/>
+<area shape="rect" id="Node000005" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="304,56,380,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="227,67,288,67,288,72,227,72"/>
+<area shape="rect" id="Node000006" href="$pwm_8c.html#a06cab9bc7173599612154c458f1d7e1f" title="Disable the PWM generation of a all timer and all channel." alt="" coords="294,107,389,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="228,78,286,98,285,104,226,83"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="234,104,288,85,290,90,235,109"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="236,117,278,117,278,123,236,123"/>
+<area shape="rect" id="Node000008" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="303,157,380,184"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="235,131,289,150,287,155,234,136"/>
+</map>

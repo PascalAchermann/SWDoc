@@ -1,0 +1,11 @@
+<map id="stopMotorControlSupply" name="stopMotorControlSupply">
+<area shape="rect" id="Node000001" title="Stop the motor control supply if conditions are met." alt="" coords="5,56,166,83"/>
+<area shape="rect" id="Node000002" href="$control_8c.html#a96c2fc44f420b191b9700486423e9712" title="Sets the release status of a specified signal." alt="" coords="214,56,300,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,67,198,67,198,72,166,72"/>
+<area shape="rect" id="Node000003" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="358,5,434,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,53,342,35,344,40,297,58"/>
+<area shape="rect" id="Node000004" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="357,56,434,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="301,67,342,67,342,72,301,72"/>
+<area shape="rect" id="Node000005" href="$pwm_8c.html#a06cab9bc7173599612154c458f1d7e1f" title="Disable the PWM generation of a all timer and all channel." alt="" coords="348,107,443,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="297,81,344,98,342,103,295,86"/>
+</map>

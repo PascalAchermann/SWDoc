@@ -1,0 +1,14 @@
+<map id="getTankVolume" name="getTankVolume">
+<area shape="rect" id="Node000001" title="This function is the control loop for the BCU, when the pump is needed." alt="" coords="573,5,684,32"/>
+<area shape="rect" id="Node000002" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="328,5,401,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="557,21,401,21,401,16,557,16"/>
+<area shape="rect" id="Node000006" href="$app_8c.html#ad6f094c81d90b7dadd720d6b032a57a6" title="This function checks if the difference between the tank and the target value from the MNU is bigger t..." alt="" coords="449,31,525,57"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="558,34,526,40,525,35,557,29"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="App Initialization Function." alt="" coords="212,5,280,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="313,21,281,21,281,16,313,16"/>
+<area shape="rect" id="Node000004" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,5,164,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="197,21,164,21,164,16,197,16"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="433,36,400,29,402,23,434,30"/>
+</map>

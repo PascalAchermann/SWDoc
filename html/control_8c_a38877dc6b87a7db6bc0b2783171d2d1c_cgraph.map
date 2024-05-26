@@ -1,0 +1,7 @@
+<map id="DischargeCapacitor" name="DischargeCapacitor">
+<area shape="rect" id="Node000001" title="Discharge the capacitor array." alt="" coords="5,31,140,57"/>
+<area shape="rect" id="Node000002" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="188,5,264,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,30,171,25,172,30,140,36"/>
+<area shape="rect" id="Node000003" href="$analog_8c.html#ac4a51847a4d0dc35b4a609888276350b" title="Set an output Value on the DAC." alt="" coords="193,56,259,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,52,178,59,177,64,139,58"/>
+</map>

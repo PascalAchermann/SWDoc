@@ -1,0 +1,7 @@
+<map id="C:/BAT/BCU_Controller/02_Software/01_SW_BCU/Core/Src/stm32l4xx_hal_timebase_tim.c" name="C:/BAT/BCU_Controller/02_Software/01_SW_BCU/Core/Src/stm32l4xx_hal_timebase_tim.c">
+<area shape="rect" id="Node000001" title="HAL time base based on the hardware TIM." alt="" coords="51,5,228,80"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,128,122,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,82,85,117,81,114,109,79"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="146,128,288,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,79,199,114,195,117,167,82"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="SaveFailureFlash" name="SaveFailureFlash">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,126,230"/>
+<area shape="rect" id="Node000002" href="$system_8c.html#a5882fef510daa922fa6780df47b25791" title="Reads from Flash." alt="" coords="174,203,237,230"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,214,159,214,159,219,126,219"/>
+<area shape="rect" id="Node000010" href="$system_8c.html#a4c3393dd15558bb62e88d6ecb8d604d8" title="This function saves the Address in a 3 Byte&#45;Array." alt="" coords="176,254,235,280"/>
+<area shape="poly" id="edge18_Node000001_Node000010" title=" " alt="" coords="106,228,162,249,160,254,104,233"/>
+<area shape="rect" id="Node000011" href="$system_8c.html#a381199e221a7c089b35760eadbc6577e" title="Write to Flash ive back an error." alt="" coords="174,127,237,154"/>
+<area shape="poly" id="edge19_Node000001_Node000011" title=" " alt="" coords="91,200,165,159,167,164,93,205"/>
+<area shape="rect" id="Node000003" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="419,152,495,179"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,214,296,211,364,200,413,183,415,188,365,206,296,216,237,219"/>
+<area shape="rect" id="Node000004" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="418,102,496,128"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="217,201,246,175,284,150,344,129,402,117,403,123,345,134,286,155,249,179,221,205"/>
+<area shape="rect" id="Node000005" href="$spi_8c.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="418,254,496,280"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="237,220,403,254,402,259,236,225"/>
+<area shape="rect" id="Node000006" href="$app_8c.html#a72d43f87749a58cd3c3a050013d62c34" title="Adds an item to the error queue." alt="" coords="550,228,612,255"/>
+<area shape="poly" id="edge10_Node000002_Node000006" title=" " alt="" coords="225,228,239,240,262,266,287,289,346,323,413,340,458,350,478,349,500,341,522,326,539,308,565,268,570,270,543,311,525,330,503,345,479,354,458,355,412,346,344,328,283,293,258,270,235,243,222,232"/>
+<area shape="rect" id="Node000007" href="$spi_8c.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="412,304,502,331"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="235,228,286,251,402,296,400,301,284,256,233,233"/>
+<area shape="rect" id="Node000008" href="$spi_8c.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="423,38,491,64"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="213,201,241,161,261,139,283,119,314,100,346,84,407,61,409,66,348,89,316,105,287,124,265,143,245,165,217,204"/>
+<area shape="rect" id="Node000009" href="$system_8c.html#a1bf66b4e2c55b3b4b3ba26fee52252b5" title=" " alt="" coords="285,164,364,191"/>
+<area shape="poly" id="edge11_Node000002_Node000009" title=" " alt="" coords="236,204,269,193,271,198,238,209"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="495,256,534,248,535,254,497,262"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="481,301,500,290,545,261,548,266,503,295,484,306"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="479,63,504,88,544,153,571,212,566,214,539,155,500,91,475,67"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="365,171,403,168,404,173,365,177"/>
+<area shape="poly" id="edge13_Node000009_Node000004" title=" " alt="" coords="354,161,412,133,415,138,356,166"/>
+<area shape="poly" id="edge14_Node000009_Node000005" title=" " alt="" coords="348,189,425,242,422,247,345,194"/>
+<area shape="poly" id="edge17_Node000009_Node000006" title=" " alt="" coords="365,185,535,228,534,233,364,190"/>
+<area shape="poly" id="edge15_Node000009_Node000007" title=" " alt="" coords="336,190,367,237,389,265,414,290,417,293,414,297,411,294,385,268,363,240,332,193"/>
+<area shape="poly" id="edge16_Node000009_Node000008" title=" " alt="" coords="337,162,410,88,427,73,430,77,414,92,341,165"/>
+<area shape="poly" id="edge20_Node000011_Node000003" title=" " alt="" coords="238,139,365,150,404,155,403,160,364,155,237,145"/>
+<area shape="poly" id="edge21_Node000011_Node000004" title=" " alt="" coords="237,134,285,128,402,117,403,122,285,134,238,139"/>
+<area shape="poly" id="edge22_Node000011_Node000005" title=" " alt="" coords="222,152,251,176,286,201,346,229,404,250,402,255,344,234,284,205,248,180,219,156"/>
+<area shape="poly" id="edge25_Node000011_Node000006" title=" " alt="" coords="218,125,267,81,302,56,340,32,381,14,423,4,464,6,484,13,503,23,524,42,541,65,565,117,577,169,582,213,576,213,572,170,560,118,537,68,521,46,500,28,482,18,463,11,423,9,383,19,342,37,305,60,271,85,222,129"/>
+<area shape="poly" id="edge23_Node000011_Node000007" title=" " alt="" coords="218,152,252,202,287,242,342,276,398,298,396,303,339,280,283,246,248,205,214,156"/>
+<area shape="poly" id="edge24_Node000011_Node000008" title=" " alt="" coords="236,125,284,107,408,64,409,69,286,112,238,130"/>
+<area shape="poly" id="edge26_Node000011_Node000009" title=" " alt="" coords="238,148,271,158,269,163,237,153"/>
+</map>

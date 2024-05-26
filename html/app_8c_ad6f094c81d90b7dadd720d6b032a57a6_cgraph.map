@@ -1,0 +1,38 @@
+<map id="enControl" name="enControl">
+<area shape="rect" id="Node000001" title="Activate control based on tank volume difference." alt="" coords="5,107,82,133"/>
+<area shape="rect" id="Node000002" href="$measure_8c.html#ae9c5d59d2242734096fcadfda20a0405" title="Get the current ambient pressure." alt="" coords="130,56,226,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,104,125,86,127,91,82,109"/>
+<area shape="rect" id="Node000005" href="$app_8c.html#ae046468c0da5c3a0448e74aa7c9ff430" title="This function is the control loop for the BCU, when the pump is needed." alt="" coords="278,107,389,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="82,117,263,117,263,123,82,123"/>
+<area shape="rect" id="Node000012" href="$app_8c.html#ab3ec4c5dac6aa15eff2d8a7fb17a8cfe" title="Starts the control process." alt="" coords="134,157,222,184"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="82,131,127,149,125,154,80,136"/>
+<area shape="rect" id="Node000003" href="$measure_8c.html#aab67204df94065d39742b93e64d794f0" title=" " alt="" coords="280,5,387,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,53,275,35,277,40,222,58"/>
+<area shape="rect" id="Node000004" href="$measure_8c.html#ae62b15ed6e208e2fc7138de8d4a73d6d" title=" " alt="" coords="274,56,393,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="226,67,258,67,258,72,226,72"/>
+<area shape="rect" id="Node000006" href="$measure_8c.html#a5e53fe7988c101b781293e8cfcc705ee" title="Get the current tank pressure." alt="" coords="444,56,538,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="377,103,432,85,434,90,379,109"/>
+<area shape="rect" id="Node000009" href="$measure_8c.html#a49750fcd702f1219409b7a9ffbd77368" title="Get the current tank temperature." alt="" coords="441,107,541,133"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="390,117,426,117,426,123,390,123"/>
+<area shape="rect" id="Node000007" href="$measure_8c.html#a32e1edeab2e56cce11ac5a2245a8134f" title="Analog Value protection Take mutex." alt="" coords="595,5,700,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="534,53,589,35,590,40,536,58"/>
+<area shape="rect" id="Node000008" href="$measure_8c.html#abc539a112aa3a94095e16c5fe17d50c2" title="Analog Value protection Give mutex." alt="" coords="589,56,706,83"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="538,67,574,67,574,72,538,72"/>
+<area shape="rect" id="Node000010" href="$measure_8c.html#af36acc6dcd4af35b84bde88856cb6ab8" title=" " alt="" coords="596,107,699,133"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="541,117,580,117,580,123,541,123"/>
+<area shape="rect" id="Node000011" href="$measure_8c.html#af5b1d517da45377ea47f7e67455ed602" title=" " alt="" coords="590,157,705,184"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="536,131,590,150,589,155,534,137"/>
+<area shape="poly" id="edge13_Node000012_Node000005" title=" " alt="" coords="221,154,275,136,277,141,222,159"/>
+<area shape="rect" id="Node000013" href="$can_8c.html#adf684b085d5cdf85e92581b5e37b9a1d" title="Sends a CAN message." alt="" coords="298,157,370,184"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="223,168,282,168,282,173,223,173"/>
+<area shape="rect" id="Node000014" href="$control_8c.html#a96c2fc44f420b191b9700486423e9712" title="Sets the release status of a specified signal." alt="" coords="291,208,377,235"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="222,182,277,200,275,205,221,187"/>
+<area shape="rect" id="Node000018" href="$app_8c.html#a642392d6ed2148e30648145bcd0d1c28" title="Set the speed of the motor." alt="" coords="296,259,372,285"/>
+<area shape="poly" id="edge18_Node000012_Node000018" title=" " alt="" coords="195,182,231,213,275,244,284,249,282,254,273,249,227,217,192,186"/>
+<area shape="rect" id="Node000015" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="453,157,529,184"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="376,205,437,185,439,190,378,210"/>
+<area shape="rect" id="Node000016" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="452,208,530,235"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="377,219,437,219,437,224,377,224"/>
+<area shape="rect" id="Node000017" href="$pwm_8c.html#a06cab9bc7173599612154c458f1d7e1f" title="Disable the PWM generation of a all timer and all channel." alt="" coords="443,259,539,285"/>
+<area shape="poly" id="edge17_Node000014_Node000017" title=" " alt="" coords="378,233,434,251,432,256,376,238"/>
+</map>

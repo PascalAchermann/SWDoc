@@ -1,0 +1,38 @@
+<map id="stopControl" name="stopControl">
+<area shape="rect" id="Node000001" title="Stops the control operation." alt="" coords="5,132,93,159"/>
+<area shape="rect" id="Node000002" href="$can_8c.html#adf684b085d5cdf85e92581b5e37b9a1d" title="Sends a CAN message." alt="" coords="172,5,244,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,130,90,87,113,63,139,42,156,32,159,37,142,46,117,67,94,91,61,133"/>
+<area shape="rect" id="Node000003" href="$control_8c.html#a38877dc6b87a7db6bc0b2783171d2d1c" title="Discharge the capacitor array." alt="" coords="141,56,275,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="72,129,139,92,152,87,155,91,142,97,74,134"/>
+<area shape="rect" id="Node000006" href="$app_8c.html#ae046468c0da5c3a0448e74aa7c9ff430" title="This function is the control loop for the BCU, when the pump is needed." alt="" coords="152,208,264,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="74,157,142,194,155,199,152,204,139,198,72,162"/>
+<area shape="rect" id="Node000013" href="$control_8c.html#a6280444563f4376ab0a405e31fb61dd3" title="Resets the hardware blocks and deactivates the output pins for H&#45;Bridges." alt="" coords="174,107,242,133"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="93,136,158,125,159,130,93,141"/>
+<area shape="rect" id="Node000015" href="$control_8c.html#a96c2fc44f420b191b9700486423e9712" title="Sets the release status of a specified signal." alt="" coords="165,157,251,184"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="93,150,150,159,149,164,93,155"/>
+<area shape="rect" id="Node000017" href="$app_8c.html#a642392d6ed2148e30648145bcd0d1c28" title="Set the speed of the motor." alt="" coords="170,259,246,285"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="61,157,94,200,117,224,142,244,157,253,154,257,139,249,113,228,90,203,57,161"/>
+<area shape="rect" id="Node000004" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="335,56,411,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="276,67,319,67,319,72,276,72"/>
+<area shape="rect" id="Node000005" href="$analog_8c.html#ac4a51847a4d0dc35b4a609888276350b" title="Set an output Value on the DAC." alt="" coords="340,5,406,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="253,53,324,31,325,36,255,58"/>
+<area shape="rect" id="Node000007" href="$measure_8c.html#a5e53fe7988c101b781293e8cfcc705ee" title="Get the current tank pressure." alt="" coords="326,208,420,235"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="264,219,310,219,310,224,264,224"/>
+<area shape="rect" id="Node000010" href="$measure_8c.html#a49750fcd702f1219409b7a9ffbd77368" title="Get the current tank temperature." alt="" coords="323,259,422,285"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="255,233,313,251,312,256,253,238"/>
+<area shape="rect" id="Node000008" href="$measure_8c.html#a32e1edeab2e56cce11ac5a2245a8134f" title="Analog Value protection Take mutex." alt="" coords="476,157,582,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="416,205,470,187,472,192,417,210"/>
+<area shape="rect" id="Node000009" href="$measure_8c.html#abc539a112aa3a94095e16c5fe17d50c2" title="Analog Value protection Give mutex." alt="" coords="470,208,588,235"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="420,219,455,219,455,224,420,224"/>
+<area shape="rect" id="Node000011" href="$measure_8c.html#af36acc6dcd4af35b84bde88856cb6ab8" title=" " alt="" coords="477,259,581,285"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="423,269,462,269,462,275,423,275"/>
+<area shape="rect" id="Node000012" href="$measure_8c.html#af5b1d517da45377ea47f7e67455ed602" title=" " alt="" coords="471,309,587,336"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="417,283,472,302,470,307,416,289"/>
+<area shape="poly" id="edge13_Node000013_Node000004" title=" " alt="" coords="242,107,319,83,321,88,243,112"/>
+<area shape="rect" id="Node000014" href="$pwm_8c.html#a06cab9bc7173599612154c458f1d7e1f" title="Disable the PWM generation of a all timer and all channel." alt="" coords="325,107,420,133"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="242,117,309,117,309,123,242,123"/>
+<area shape="poly" id="edge16_Node000015_Node000004" title=" " alt="" coords="250,155,274,143,288,131,297,119,307,106,321,93,327,89,330,93,325,97,311,110,302,122,292,135,276,148,253,160"/>
+<area shape="poly" id="edge18_Node000015_Node000014" title=" " alt="" coords="251,155,312,136,314,141,252,160"/>
+<area shape="rect" id="Node000016" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="334,157,411,184"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="251,168,319,168,319,173,251,173"/>
+</map>

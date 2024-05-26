@@ -1,0 +1,13 @@
+<map id="MX_CAN1_Init" name="MX_CAN1_Init">
+<area shape="rect" id="Node000001" title="CAN1 initialization and Start the CAN." alt="" coords="5,81,110,108"/>
+<area shape="rect" id="Node000002" href="$can_8c.html#a1d7a9d06d4ed1bfd69084a66ffa09163" title=" " alt="" coords="182,31,258,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,78,166,58,167,63,104,83"/>
+<area shape="rect" id="Node000005" href="$can_8c.html#a08c41a9fc0d6c44d2f4df47039ddec0b" title=" " alt="" coords="158,81,282,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="110,92,142,92,142,97,110,97"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="170,132,270,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="104,106,161,124,160,129,102,111"/>
+<area shape="rect" id="Node000003" href="$can_8c.html#adf684b085d5cdf85e92581b5e37b9a1d" title="Sends a CAN message." alt="" coords="332,5,404,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="258,35,317,25,317,30,259,40"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#a789f50b88df19b618b3e7b9c3b5b07c3" title="Get the current speed of the motor." alt="" coords="330,56,406,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="259,48,315,58,314,63,258,53"/>
+</map>

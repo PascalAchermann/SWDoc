@@ -1,0 +1,24 @@
+<map id="CapacitorArrayReady" name="CapacitorArrayReady">
+<area shape="rect" id="Node000001" title="Check if the capacitor array is ready." alt="" coords="5,107,150,133"/>
+<area shape="rect" id="Node000002" href="$can_8c.html#adf684b085d5cdf85e92581b5e37b9a1d" title="Sends a CAN message." alt="" coords="227,5,299,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,104,141,74,196,42,211,35,214,39,199,46,144,78,99,108"/>
+<area shape="rect" id="Node000003" href="$control_8c.html#abf59846dabf313d35a7579cc7aac7a48" title="Check if the capacitor array is loaded." alt="" coords="204,56,322,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,103,196,85,198,90,130,109"/>
+<area shape="rect" id="Node000006" href="$control_8c.html#ab9453adc1e525d07febbb65397902cf1" title="Fully charged capacitor array." alt="" coords="201,107,325,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="150,117,185,117,185,123,150,123"/>
+<area shape="rect" id="Node000008" href="$control_8c.html#aa048c0a962a452954d807ba2cc6a251b" title="Load the capacitor array." alt="" coords="198,208,328,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="99,132,144,162,199,194,210,199,208,204,196,198,141,166,96,136"/>
+<area shape="rect" id="Node000010" href="$control_8c.html#ac8cc169e6a48bad193b7eabef662ad3a" title="Load the capacitor array with the resistors only." alt="" coords="211,157,315,184"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="130,131,198,150,196,155,129,137"/>
+<area shape="rect" id="Node000004" href="$analog_8c.html#a946992b1a38e0049d5cfe0cd1c4a2cd9" title="Get the ADC value." alt="" coords="382,56,448,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="322,67,366,67,366,72,322,72"/>
+<area shape="rect" id="Node000005" href="$app_8c.html#a72d43f87749a58cd3c3a050013d62c34" title="Adds an item to the error queue." alt="" coords="501,56,564,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="448,67,486,67,486,72,448,72"/>
+<area shape="rect" id="Node000007" href="$analog_8c.html#ac4a51847a4d0dc35b4a609888276350b" title="Set an output Value on the DAC." alt="" coords="382,157,448,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="306,131,368,152,366,157,304,137"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="304,205,366,184,368,189,306,210"/>
+<area shape="rect" id="Node000009" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="376,208,453,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="328,219,360,219,360,224,328,224"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="316,168,366,168,366,173,316,173"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="306,182,362,201,360,206,304,187"/>
+</map>

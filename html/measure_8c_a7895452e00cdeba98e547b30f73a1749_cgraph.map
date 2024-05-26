@@ -1,0 +1,38 @@
+<map id="StartNewMeasure" name="StartNewMeasure">
+<area shape="rect" id="Node000001" title="This Function starts a new measure cycle." alt="" coords="5,183,130,209"/>
+<area shape="rect" id="Node000002" href="$measure_8c.html#a5c685b9024fd394d6feb93012a23625d" title="Set the ambient pressure to a new value." alt="" coords="186,56,282,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,180,201,90,204,95,88,185"/>
+<area shape="rect" id="Node000005" href="$measure_8c.html#adb4b48c6ff073131522700766da1e810" title="Set the tank pressure to a new value." alt="" coords="187,157,281,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="130,184,171,177,172,183,131,189"/>
+<area shape="rect" id="Node000008" href="$measure_8c.html#a797efce63335c2d6cbe84a76dc1b9eba" title="Set the tank temperature to a new value." alt="" coords="184,208,284,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="131,203,169,209,168,214,130,208"/>
+<area shape="rect" id="Node000011" href="$measure_8c.html#a803285f1f6fad1e74dae928b03e6824d" title="Starts an analog&#45;to&#45;digital conversion." alt="" coords="178,411,290,437"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="81,208,216,397,212,400,77,211"/>
+<area shape="rect" id="Node000003" href="$measure_8c.html#aab67204df94065d39742b93e64d794f0" title=" " alt="" coords="344,5,451,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="279,53,337,35,339,40,280,58"/>
+<area shape="rect" id="Node000004" href="$measure_8c.html#ae62b15ed6e208e2fc7138de8d4a73d6d" title=" " alt="" coords="338,56,457,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="283,67,323,67,323,72,283,72"/>
+<area shape="rect" id="Node000006" href="$measure_8c.html#a32e1edeab2e56cce11ac5a2245a8134f" title="Analog Value protection Take mutex." alt="" coords="345,107,450,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="279,154,337,136,339,141,280,159"/>
+<area shape="rect" id="Node000007" href="$measure_8c.html#abc539a112aa3a94095e16c5fe17d50c2" title="Analog Value protection Give mutex." alt="" coords="339,157,456,184"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="281,168,323,168,323,173,281,173"/>
+<area shape="rect" id="Node000009" href="$measure_8c.html#af36acc6dcd4af35b84bde88856cb6ab8" title=" " alt="" coords="346,208,449,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="284,219,330,219,330,224,284,224"/>
+<area shape="rect" id="Node000010" href="$measure_8c.html#af5b1d517da45377ea47f7e67455ed602" title=" " alt="" coords="340,259,455,285"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="280,233,339,251,337,256,279,238"/>
+<area shape="rect" id="Node000012" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="360,309,436,336"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="250,408,288,378,337,346,346,341,349,345,339,350,291,382,253,412"/>
+<area shape="rect" id="Node000013" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="359,360,436,387"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="279,407,343,387,345,392,280,413"/>
+<area shape="rect" id="Node000014" href="$spi_8c.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="359,411,436,437"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="291,421,344,421,344,427,291,427"/>
+<area shape="rect" id="Node000015" href="$app_8c.html#a72d43f87749a58cd3c3a050013d62c34" title="Adds an item to the error queue." alt="" coords="505,487,568,513"/>
+<area shape="poly" id="edge19_Node000011_Node000015" title=" " alt="" coords="291,435,491,486,489,491,290,441"/>
+<area shape="rect" id="Node000016" href="$spi_8c.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="353,512,442,539"/>
+<area shape="poly" id="edge15_Node000011_Node000016" title=" " alt="" coords="256,436,339,491,358,502,355,506,337,496,253,440"/>
+<area shape="rect" id="Node000017" href="$spi_8c.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="364,563,432,589"/>
+<area shape="poly" id="edge17_Node000011_Node000017" title=" " alt="" coords="245,436,282,490,309,521,340,549,351,556,348,561,336,553,305,525,278,493,241,439"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="426,436,459,454,499,476,496,481,456,458,423,440"/>
+<area shape="poly" id="edge16_Node000016_Node000015" title=" " alt="" coords="442,515,489,506,490,511,443,520"/>
+<area shape="poly" id="edge18_Node000017_Node000015" title=" " alt="" coords="431,560,456,548,502,520,505,525,459,553,433,565"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="getTankVal" name="getTankVal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,92,57"/>
+<area shape="rect" id="Node000002" href="$a00068.html#ad0dd2de65c7f1e42c5be4082be30f1b9" title="This Function copies all Analog values to the dedicated memory it is protected internal with a Mutex ..." alt="" coords="140,31,219,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,41,124,41,124,47,92,47"/>
+<area shape="rect" id="Node000003" href="$a00068.html#a2b4b60bd2871ab80090b0682c4f53789" title="Analog Value protection Take mutex." alt="" coords="273,5,362,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,34,257,27,258,32,220,39"/>
+<area shape="rect" id="Node000004" href="$a00068.html#aaada862b719ffaecabde8f754ead6e1a" title="Analog Value protection Give mutex." alt="" coords="267,56,368,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="220,49,252,55,251,60,219,54"/>
+</map>

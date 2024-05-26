@@ -1,0 +1,43 @@
+<map id="SetupPWM" name="SetupPWM">
+<area shape="rect" id="Node000001" title="This function reads the flash config for the output configuration and set the default configuration i..." alt="" coords="5,259,94,285"/>
+<area shape="rect" id="Node000002" href="$system_8c.html#a5882fef510daa922fa6780df47b25791" title="Reads from Flash." alt="" coords="336,157,398,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,256,103,237,141,219,235,191,319,174,320,180,236,196,143,224,105,241,73,260"/>
+<area shape="rect" id="Node000010" href="$system_8c.html#a4c3393dd15558bb62e88d6ecb8d604d8" title="This function saves the Address in a 3 Byte&#45;Array." alt="" coords="177,335,236,361"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="80,284,164,325,162,330,78,288"/>
+<area shape="rect" id="Node000011" href="$control_8c.html#ad521a8e30305b1db558fdcf3279e0932" title="Set the configuration of the control module." alt="" coords="319,284,414,311"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="94,273,304,290,303,295,94,278"/>
+<area shape="rect" id="Node000013" href="$system_8c.html#a8f0847cc0870737b19fc0b60c9a22eb2" title="Write the standard configuration of the control Modul in the flash memory." alt="" coords="142,233,271,260"/>
+<area shape="poly" id="edge19_Node000001_Node000013" title=" " alt="" coords="94,262,126,257,127,262,95,268"/>
+<area shape="rect" id="Node000003" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="672,5,749,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,155,416,126,461,98,511,74,564,55,656,28,658,33,565,60,513,79,464,102,419,131,385,159"/>
+<area shape="rect" id="Node000004" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="672,208,749,235"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="399,178,463,193,565,208,656,216,656,221,565,213,462,199,398,183"/>
+<area shape="rect" id="Node000005" href="$spi_8c.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="672,284,749,311"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="392,182,463,219,565,255,657,282,655,287,564,261,461,224,389,187"/>
+<area shape="rect" id="Node000007" href="$spi_8c.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="666,157,755,184"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="398,158,462,143,540,136,618,143,654,150,653,155,617,148,540,141,463,148,399,163"/>
+<area shape="rect" id="Node000008" href="$spi_8c.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="676,107,745,133"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="388,154,421,136,462,121,514,112,568,109,661,112,660,117,568,114,515,118,463,127,424,141,390,159"/>
+<area shape="rect" id="Node000009" href="$system_8c.html#a1bf66b4e2c55b3b4b3ba26fee52252b5" title=" " alt="" coords="500,157,580,184"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="398,168,485,168,485,173,398,173"/>
+<area shape="rect" id="Node000006" href="$app_8c.html#afe8ba5350d73be9fa87e77f461069d92" title="Send item to the back of the queue." alt="" coords="803,157,865,184"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="723,282,807,194,811,197,727,286"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="755,168,787,168,787,173,755,173"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="746,131,790,150,788,155,744,136"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="554,155,681,40,685,44,558,159"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="581,180,658,203,656,208,579,185"/>
+<area shape="poly" id="edge13_Node000009_Node000005" title=" " alt="" coords="561,182,680,272,677,276,558,186"/>
+<area shape="poly" id="edge14_Node000009_Node000007" title=" " alt="" coords="580,168,650,168,650,173,580,173"/>
+<area shape="poly" id="edge15_Node000009_Node000008" title=" " alt="" coords="579,156,661,132,662,137,581,161"/>
+<area shape="rect" id="Node000012" href="$pwm_8c.html#adaa6449a0f5c7ca037c67fc4c3a12c71" title=" " alt="" coords="462,461,618,488"/>
+<area shape="poly" id="edge18_Node000011_Node000012" title=" " alt="" coords="376,310,408,372,433,409,464,441,481,452,478,456,461,445,429,412,403,375,371,313"/>
+<area shape="poly" id="edge20_Node000013_Node000011" title=" " alt="" coords="252,258,308,276,307,281,250,263"/>
+<area shape="rect" id="Node000014" href="$system_8c.html#a381199e221a7c089b35760eadbc6577e" title="Write to Flash ive back an error." alt="" coords="335,233,398,260"/>
+<area shape="poly" id="edge21_Node000013_Node000014" title=" " alt="" coords="271,244,320,244,320,249,271,249"/>
+<area shape="poly" id="edge22_Node000014_Node000003" title=" " alt="" coords="380,231,412,194,426,171,433,150,442,131,461,110,508,78,559,54,611,36,656,25,657,30,612,42,561,59,510,82,464,114,447,133,438,152,430,173,417,198,384,235"/>
+<area shape="poly" id="edge23_Node000014_Node000004" title=" " alt="" coords="396,258,433,276,463,288,506,297,541,302,575,299,617,288,654,269,684,244,688,248,657,273,619,293,576,305,541,307,505,303,462,293,431,281,393,263"/>
+<area shape="poly" id="edge24_Node000014_Node000005" title=" " alt="" coords="396,258,416,270,439,291,449,300,463,307,513,318,564,320,613,316,656,308,657,314,614,321,564,325,512,323,461,312,446,304,435,295,413,274,394,263"/>
+<area shape="poly" id="edge25_Node000014_Node000007" title=" " alt="" coords="398,239,617,193,650,185,651,190,618,199,399,244"/>
+<area shape="poly" id="edge26_Node000014_Node000008" title=" " alt="" coords="379,231,461,143,512,124,566,115,617,112,661,113,661,118,617,117,566,120,513,130,464,148,383,235"/>
+<area shape="poly" id="edge27_Node000014_Node000009" title=" " alt="" coords="398,230,492,188,495,193,400,235"/>
+</map>

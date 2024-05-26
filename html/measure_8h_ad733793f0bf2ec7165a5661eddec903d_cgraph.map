@@ -1,0 +1,5 @@
+<map id="StartMeasure" name="StartMeasure">
+<area shape="rect" id="Node000001" title="Starts the measurement process." alt="" coords="5,5,105,32"/>
+<area shape="rect" id="Node000002" href="$can_8c.html#a412c28559258a2cd5e5b1b0f09320935" title="This Function Enable or Disable the filter bank on the corresponding sensor." alt="" coords="153,5,233,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,16,137,16,137,21,105,21"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="StartRepCANmsg" name="StartRepCANmsg">
+<area shape="rect" id="Node000001" title="This Function set the can timer to Autoreload and start the Timer." alt="" coords="694,31,819,57"/>
+<area shape="rect" id="Node000002" href="$app_8c.html#ac0662e044d34f9404cf8b7a95348f2ed" title="Puts the system into sleep mode." alt="" coords="449,5,535,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="679,39,535,25,536,20,679,34"/>
+<area shape="rect" id="Node000007" href="$app_8c.html#a1094a9e2dc4966d0da3834dd8767e3ec" title="Initialize the system during startup." alt="" coords="583,56,646,83"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="679,61,647,66,647,61,678,55"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="328,31,401,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="434,33,401,39,400,34,433,28"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="212,31,280,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="313,47,281,47,281,41,313,41"/>
+<area shape="rect" id="Node000005" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,31,164,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="197,47,164,47,164,41,197,41"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,47,55,47,55,41,87,41"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="567,53,525,35,527,30,569,48"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="567,67,401,50,401,45,568,62"/>
+</map>

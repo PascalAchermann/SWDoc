@@ -1,0 +1,9 @@
+<map id="AppTask" name="AppTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="328,5,401,32"/>
+<area shape="rect" id="Node000002" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="212,5,280,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,21,281,21,281,16,313,16"/>
+<area shape="rect" id="Node000003" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,5,164,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="197,21,164,21,164,16,197,16"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="setCustConPort" name="setCustConPort">
+<area shape="rect" id="Node000001" title="Write the customized configuration of the analog ports in the flash memory." alt="" coords="136,5,249,32"/>
+<area shape="rect" id="Node000002" href="$bcu_8c.html#a72bb66255e03e83e4deda70682f04c67" title=" " alt="" coords="5,5,88,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,21,88,21,88,16,120,16"/>
+</map>

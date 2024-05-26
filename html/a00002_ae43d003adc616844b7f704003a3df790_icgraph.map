@@ -1,0 +1,13 @@
+<map id="getADC" name="getADC">
+<area shape="rect" id="Node000001" title="Get the input Value on the ADC." alt="" coords="501,31,567,57"/>
+<area shape="rect" id="Node000002" href="$a00056.html#abb70ca197206b69b2724a6929e668fb6" title="This Function starts the Load process of the Capacitro array." alt="" coords="349,5,450,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="485,38,450,31,451,26,486,32"/>
+<area shape="rect" id="Node000003" href="$a00056.html#af4b0e3fe264f62d03d90e0d5eee478f4" title="Timer callback function. It will load the capacitor array for 9ms then wait for 9ms till the array is..." alt="" coords="346,56,453,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="486,56,454,62,453,57,485,50"/>
+<area shape="rect" id="Node000004" href="$a00056.html#ad2b3dfd69a990b69a69c34b19a0e0d98" title="App Initialization Function." alt="" coords="212,56,298,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="331,72,299,72,299,67,331,67"/>
+<area shape="rect" id="Node000005" href="$a00071.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,56,164,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="196,72,165,72,165,67,196,67"/>
+<area shape="rect" id="Node000006" href="$a00065.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,56,55,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,72,55,72,55,67,87,67"/>
+</map>

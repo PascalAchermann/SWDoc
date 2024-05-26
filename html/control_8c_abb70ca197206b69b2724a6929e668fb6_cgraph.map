@@ -1,0 +1,7 @@
+<map id="loadCapacitor" name="loadCapacitor">
+<area shape="rect" id="Node000001" title="This Function starts the Load process of the Capacitro array." alt="" coords="5,31,106,57"/>
+<area shape="rect" id="Node000002" href="$analog_8c.html#a946992b1a38e0049d5cfe0cd1c4a2cd9" title="Get the input Value on the ADC." alt="" coords="154,5,220,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,32,138,25,139,31,107,37"/>
+<area shape="rect" id="Node000003" href="$analog_8c.html#ac4a51847a4d0dc35b4a609888276350b" title="Set an output Value on the DAC." alt="" coords="154,56,220,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,51,139,57,138,63,106,56"/>
+</map>

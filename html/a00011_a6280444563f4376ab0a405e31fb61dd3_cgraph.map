@@ -1,0 +1,5 @@
+<map id="resetHB" name="resetHB">
+<area shape="rect" id="Node000001" title="Reset PWM generation on timer 1&#45;2 for channel 1&#45;3." alt="" coords="5,5,74,32"/>
+<area shape="rect" id="Node000002" href="$a00074.html#a06cab9bc7173599612154c458f1d7e1f" title="Disable the PWM generation of a all timer and all channel." alt="" coords="122,5,217,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,16,106,16,106,21,74,21"/>
+</map>

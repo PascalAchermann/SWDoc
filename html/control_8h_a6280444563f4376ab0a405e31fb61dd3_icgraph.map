@@ -1,0 +1,29 @@
+<map id="resetHB" name="resetHB">
+<area shape="rect" id="Node000001" title="Resets the hardware blocks and deactivates the output pins for H&#45;Bridges." alt="" coords="919,49,987,76"/>
+<area shape="rect" id="Node000002" href="$bcu_8c.html#ac3dda7769238b7cfae22ede98e16f763" title="Writes customized configuration data to flash memory." alt="" coords="477,49,573,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="903,65,574,65,574,60,903,60"/>
+<area shape="rect" id="Node000007" href="$control_8c.html#ad2b3dfd69a990b69a69c34b19a0e0d98" title="App Initialization Function." alt="" coords="328,5,415,32"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="903,53,870,47,741,33,612,25,415,21,415,16,612,20,741,27,871,41,904,48"/>
+<area shape="rect" id="Node000008" href="$app_8c.html#afa0bd8a9fbb18dccdecdaaccfa5e3141" title="Stops the control operation." alt="" coords="783,125,871,152"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="917,87,852,127,849,123,915,82"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="335,100,408,127"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="469,84,409,104,407,99,467,79"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="212,75,280,101"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="319,106,280,97,281,92,320,100"/>
+<area shape="rect" id="Node000005" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,49,164,76"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="196,80,164,72,165,67,198,74"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,49,55,76"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,65,55,65,55,60,87,60"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="314,32,165,60,164,54,313,27"/>
+<area shape="rect" id="Node000009" href="$bcu_8c.html#ad19eaee2ae8d229ef81f6e38037c02b6" title="Handles failure list requests." alt="" coords="645,100,726,127"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="767,131,726,123,727,118,768,126"/>
+<area shape="rect" id="Node000011" href="$app_8c.html#a6d7bf2ac2364bd030f5e0f50105073a3" title="Run the system in the main operational mode." alt="" coords="635,151,735,177"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="769,152,736,158,735,152,768,147"/>
+<area shape="rect" id="Node000012" href="$app_8c.html#ac0662e044d34f9404cf8b7a95348f2ed" title="Puts the system into sleep mode." alt="" coords="482,201,568,228"/>
+<area shape="poly" id="edge14_Node000008_Node000012" title=" " alt="" coords="795,163,767,179,736,192,692,203,647,211,569,217,568,212,647,205,691,198,734,187,765,174,792,158"/>
+<area shape="rect" id="Node000010" href="$app_8c.html#a3ded7d74e59ec620032bef339ca2cd1b" title="Processes incoming CAN messages." alt="" coords="463,100,587,127"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="629,116,587,116,587,111,629,111"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="447,116,408,116,408,111,447,111"/>
+<area shape="poly" id="edge13_Node000011_Node000003" title=" " alt="" coords="619,162,544,154,462,141,407,127,409,122,463,136,545,149,620,157"/>
+<area shape="poly" id="edge15_Node000012_Node000003" title=" " alt="" coords="480,196,461,185,387,129,390,125,464,180,482,191"/>
+</map>

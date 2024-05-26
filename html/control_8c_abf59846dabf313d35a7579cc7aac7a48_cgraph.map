@@ -1,0 +1,7 @@
+<map id="CapArrayLoaded" name="CapArrayLoaded">
+<area shape="rect" id="Node000001" title="Check if the capacitor array is loaded." alt="" coords="5,5,123,32"/>
+<area shape="rect" id="Node000002" href="$analog_8c.html#a946992b1a38e0049d5cfe0cd1c4a2cd9" title="Get the ADC value." alt="" coords="171,5,237,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,16,155,16,155,21,123,21"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#a72d43f87749a58cd3c3a050013d62c34" title="Adds an item to the error queue." alt="" coords="285,5,347,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,16,269,16,269,21,237,21"/>
+</map>

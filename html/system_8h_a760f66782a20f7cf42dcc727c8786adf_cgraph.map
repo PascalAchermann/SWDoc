@@ -1,0 +1,30 @@
+<map id="ReadConfiguration" name="ReadConfiguration">
+<area shape="rect" id="Node000001" title="Read configuration data from a storage device and copy it to the provided buffer." alt="" coords="5,183,132,209"/>
+<area shape="rect" id="Node000002" href="$system_8c.html#a5882fef510daa922fa6780df47b25791" title="Reads from Flash." alt="" coords="180,157,242,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,182,164,176,165,181,133,187"/>
+<area shape="rect" id="Node000010" href="$system_8c.html#a4c3393dd15558bb62e88d6ecb8d604d8" title="This function saves the Address in a 3 Byte&#45;Array." alt="" coords="181,208,241,235"/>
+<area shape="poly" id="edge18_Node000001_Node000010" title=" " alt="" coords="133,205,166,211,165,216,132,210"/>
+<area shape="rect" id="Node000003" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="424,5,500,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="220,156,248,121,288,86,349,53,408,31,410,36,351,58,292,90,252,125,224,159"/>
+<area shape="rect" id="Node000004" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="423,56,501,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="228,155,256,136,289,118,350,94,408,78,409,83,351,99,291,122,259,140,231,159"/>
+<area shape="rect" id="Node000005" href="$spi_8c.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="423,107,501,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="242,157,289,143,407,123,408,128,291,148,243,162"/>
+<area shape="rect" id="Node000006" href="$app_8c.html#a72d43f87749a58cd3c3a050013d62c34" title="Adds an item to the error queue." alt="" coords="555,208,617,235"/>
+<area shape="poly" id="edge10_Node000002_Node000006" title=" " alt="" coords="231,182,244,194,267,224,276,237,292,250,324,270,351,281,418,295,463,303,482,302,506,295,539,273,565,245,569,249,542,277,508,300,483,307,463,308,417,300,349,286,321,274,288,254,272,240,262,227,240,198,227,186"/>
+<area shape="rect" id="Node000007" href="$spi_8c.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="417,208,507,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="243,179,291,193,402,212,401,218,289,199,242,184"/>
+<area shape="rect" id="Node000008" href="$spi_8c.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="428,259,496,285"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="235,182,291,214,354,238,413,257,412,262,352,243,289,218,232,187"/>
+<area shape="rect" id="Node000009" href="$system_8c.html#a1bf66b4e2c55b3b4b3ba26fee52252b5" title=" " alt="" coords="290,157,369,184"/>
+<area shape="poly" id="edge11_Node000002_Node000009" title=" " alt="" coords="242,168,275,168,275,173,242,173"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="485,132,508,150,561,196,557,200,505,154,481,136"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="507,219,539,219,539,224,507,224"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="495,256,539,237,541,242,497,261"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="335,156,366,103,389,71,415,42,419,39,422,43,419,46,393,74,371,106,340,158"/>
+<area shape="poly" id="edge13_Node000009_Node000004" title=" " alt="" coords="343,155,375,125,416,93,421,89,424,94,419,97,379,129,347,159"/>
+<area shape="poly" id="edge14_Node000009_Node000005" title=" " alt="" coords="366,154,410,137,412,142,368,159"/>
+<area shape="poly" id="edge17_Node000009_Node000006" title=" " alt="" coords="370,172,435,180,507,193,540,203,539,208,506,199,434,185,369,177"/>
+<area shape="poly" id="edge15_Node000009_Node000007" title=" " alt="" coords="368,182,412,199,410,204,366,187"/>
+<area shape="poly" id="edge16_Node000009_Node000008" title=" " alt="" coords="347,183,379,212,419,245,424,248,421,252,416,249,375,216,343,186"/>
+</map>

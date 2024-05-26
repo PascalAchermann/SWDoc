@@ -1,0 +1,7 @@
+<map id="setAnalog" name="setAnalog">
+<area shape="rect" id="Node000001" title="This function sets the Channel to the Port and configure the Mode it is protected internal with a Mut..." alt="" coords="5,31,85,57"/>
+<area shape="rect" id="Node000002" href="$measure_8c.html#a2b4b60bd2871ab80090b0682c4f53789" title="Analog Value protection Take mutex." alt="" coords="139,5,228,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,34,123,27,124,32,86,39"/>
+<area shape="rect" id="Node000003" href="$measure_8c.html#aaada862b719ffaecabde8f754ead6e1a" title="Analog Value protection Give mutex." alt="" coords="133,56,234,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="86,49,118,55,117,60,85,54"/>
+</map>

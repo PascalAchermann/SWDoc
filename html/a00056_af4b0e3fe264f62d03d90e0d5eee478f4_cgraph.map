@@ -1,0 +1,9 @@
+<map id="lTimerCallback" name="lTimerCallback">
+<area shape="rect" id="Node000001" title="Timer callback function. It will load the capacitor array for 9ms then wait for 9ms till the array is..." alt="" coords="5,31,112,57"/>
+<area shape="rect" id="Node000002" href="$a00047.html#a946992b1a38e0049d5cfe0cd1c4a2cd9" title="Get the input Value on the ADC." alt="" coords="160,5,226,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,31,144,25,145,30,113,37"/>
+<area shape="rect" id="Node000004" href="$a00047.html#ac4a51847a4d0dc35b4a609888276350b" title="Set an output Value on the DAC." alt="" coords="160,56,226,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="113,51,145,58,144,63,112,57"/>
+<area shape="rect" id="Node000003" href="$a00050.html#afe8ba5350d73be9fa87e77f461069d92" title="Send item to the back of the queue." alt="" coords="274,5,336,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,16,258,16,258,21,226,21"/>
+</map>

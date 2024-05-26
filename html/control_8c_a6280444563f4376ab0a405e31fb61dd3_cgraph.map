@@ -1,0 +1,7 @@
+<map id="resetHB" name="resetHB">
+<area shape="rect" id="Node000001" title="Resets the hardware blocks and deactivates the output pins for H&#45;Bridges." alt="" coords="5,31,74,57"/>
+<area shape="rect" id="Node000002" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="131,5,208,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,35,115,26,116,32,75,40"/>
+<area shape="rect" id="Node000003" href="$pwm_8c.html#a06cab9bc7173599612154c458f1d7e1f" title="Disable the PWM generation of a all timer and all channel." alt="" coords="122,56,217,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="75,48,107,54,106,60,74,53"/>
+</map>

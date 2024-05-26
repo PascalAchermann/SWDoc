@@ -1,0 +1,75 @@
+<map id="FailureList" name="FailureList">
+<area shape="rect" id="Node000001" title="Handles failure list requests." alt="" coords="5,563,87,589"/>
+<area shape="rect" id="Node000002" href="$can_8c.html#adf684b085d5cdf85e92581b5e37b9a1d" title="Sends a CAN message." alt="" coords="301,31,373,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,562,46,497,56,396,67,338,82,280,104,222,132,169,165,131,205,100,247,76,286,58,288,63,249,81,208,104,169,135,137,172,109,225,87,281,72,339,61,396,51,497,50,562"/>
+<area shape="rect" id="Node000003" href="$system_8c.html#ac50d2f0112b26b6d905a69239004938e" title="Erases the complete Flash." alt="" coords="145,563,212,589"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="87,573,130,573,130,579,87,579"/>
+<area shape="rect" id="Node000011" href="$system_8c.html#a5882fef510daa922fa6780df47b25791" title="Reads from Flash." alt="" coords="147,613,210,640"/>
+<area shape="poly" id="edge19_Node000001_Node000011" title=" " alt="" coords="84,587,133,607,131,612,82,592"/>
+<area shape="rect" id="Node000012" href="$system_8c.html#a4c3393dd15558bb62e88d6ecb8d604d8" title="This function saves the Address in a 3 Byte&#45;Array." alt="" coords="149,664,208,691"/>
+<area shape="poly" id="edge27_Node000001_Node000012" title=" " alt="" coords="63,588,136,650,141,653,138,658,133,654,60,592"/>
+<area shape="rect" id="Node000013" href="$app_8c.html#afa0bd8a9fbb18dccdecdaaccfa5e3141" title="Stops the control operation." alt="" coords="135,183,222,209"/>
+<area shape="poly" id="edge28_Node000001_Node000013" title=" " alt="" coords="50,561,165,223,170,225,55,563"/>
+<area shape="rect" id="Node000004" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="464,309,540,336"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="179,562,187,525,204,475,230,423,247,399,268,378,311,351,359,334,406,325,448,320,449,326,407,330,360,340,313,356,272,382,251,402,234,426,209,477,193,526,184,563"/>
+<area shape="rect" id="Node000005" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="463,512,541,539"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="200,560,232,543,269,529,316,521,363,517,448,518,448,523,364,522,317,526,271,535,234,548,203,565"/>
+<area shape="rect" id="Node000006" href="$spi_8c.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="463,740,541,767"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="210,588,224,600,241,627,247,652,253,676,272,698,313,723,360,739,406,747,448,751,448,756,406,753,358,744,311,728,268,702,249,678,241,653,236,629,220,603,207,592"/>
+<area shape="rect" id="Node000007" href="$app_8c.html#a72d43f87749a58cd3c3a050013d62c34" title="Adds an item to the error queue." alt="" coords="627,664,690,691"/>
+<area shape="poly" id="edge11_Node000003_Node000007" title=" " alt="" coords="190,560,223,530,245,516,269,504,348,476,414,462,446,461,479,466,514,478,553,498,573,512,591,529,619,570,640,612,652,648,647,650,635,614,615,572,587,533,570,516,550,502,512,483,478,472,446,466,415,467,349,482,271,509,248,520,227,535,194,564"/>
+<area shape="rect" id="Node000008" href="$spi_8c.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="457,639,547,665"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="204,587,271,624,315,635,360,643,442,649,442,655,359,648,313,641,269,629,202,592"/>
+<area shape="rect" id="Node000009" href="$spi_8c.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="468,689,536,716"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="207,588,224,599,238,614,247,628,256,641,271,652,317,673,365,686,453,699,452,704,364,692,315,678,269,657,252,644,243,631,234,618,220,603,204,592"/>
+<area shape="rect" id="Node000010" href="$system_8c.html#a1bf66b4e2c55b3b4b3ba26fee52252b5" title=" " alt="" coords="298,588,377,615"/>
+<area shape="poly" id="edge12_Node000003_Node000010" title=" " alt="" coords="212,579,283,590,282,595,212,584"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="530,737,614,695,617,700,533,742"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="547,657,612,667,612,673,547,662"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="536,695,611,682,612,687,537,700"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="344,586,483,348,487,351,349,589"/>
+<area shape="poly" id="edge14_Node000010_Node000005" title=" " alt="" coords="367,585,456,543,459,548,369,590"/>
+<area shape="poly" id="edge15_Node000010_Node000006" title=" " alt="" coords="350,613,392,666,422,697,454,726,459,729,455,734,451,730,418,701,388,670,346,617"/>
+<area shape="poly" id="edge18_Node000010_Node000007" title=" " alt="" coords="378,599,459,606,506,613,552,624,589,638,622,654,620,659,587,643,551,629,505,618,458,611,377,605"/>
+<area shape="poly" id="edge16_Node000010_Node000008" title=" " alt="" coords="378,611,443,631,442,636,377,616"/>
+<area shape="poly" id="edge17_Node000010_Node000009" title=" " alt="" coords="359,613,454,675,461,679,459,684,451,680,356,617"/>
+<area shape="poly" id="edge20_Node000011_Node000004" title=" " alt="" coords="205,611,220,599,235,584,245,569,268,537,378,427,471,344,475,348,382,431,272,540,249,573,239,587,224,603,208,615"/>
+<area shape="poly" id="edge21_Node000011_Node000005" title=" " alt="" coords="201,610,269,574,362,546,447,530,448,535,364,551,271,578,204,615"/>
+<area shape="poly" id="edge22_Node000011_Node000006" title=" " alt="" coords="208,638,224,650,238,666,247,681,256,695,271,707,315,727,362,740,407,747,448,751,448,756,407,753,360,745,313,732,269,712,252,698,242,684,234,669,220,654,205,643"/>
+<area shape="poly" id="edge25_Node000011_Node000007" title=" " alt="" coords="210,639,224,650,240,678,246,705,253,729,260,740,272,751,295,766,316,774,355,779,399,776,453,776,503,783,525,783,551,776,577,762,601,743,637,702,641,705,604,747,580,766,553,781,525,789,503,789,452,781,399,782,355,785,314,780,292,770,268,755,256,744,248,731,241,706,235,680,220,654,207,643"/>
+<area shape="poly" id="edge23_Node000011_Node000008" title=" " alt="" coords="206,638,242,656,271,668,315,674,360,674,442,664,443,669,360,680,314,680,269,673,240,661,204,643"/>
+<area shape="poly" id="edge24_Node000011_Node000009" title=" " alt="" coords="204,638,223,650,247,667,271,680,318,692,366,699,452,702,452,708,366,705,317,698,269,685,244,672,221,654,202,643"/>
+<area shape="poly" id="edge26_Node000011_Node000010" title=" " alt="" coords="210,619,282,607,283,613,211,624"/>
+<area shape="poly" id="edge29_Node000013_Node000002" title=" " alt="" coords="184,181,215,127,239,95,268,67,285,57,288,62,272,71,243,99,220,130,188,183"/>
+<area shape="rect" id="Node000014" href="$control_8c.html#a38877dc6b87a7db6bc0b2783171d2d1c" title="Discharge the capacitor array." alt="" coords="270,183,404,209"/>
+<area shape="poly" id="edge30_Node000013_Node000014" title=" " alt="" coords="222,193,255,193,255,199,222,199"/>
+<area shape="rect" id="Node000016" href="$app_8c.html#ae046468c0da5c3a0448e74aa7c9ff430" title="This function is the control loop for the BCU, when the pump is needed." alt="" coords="282,81,393,108"/>
+<area shape="poly" id="edge33_Node000013_Node000016" title=" " alt="" coords="191,180,225,149,269,118,278,112,281,117,271,122,228,153,195,184"/>
+<area shape="rect" id="Node000023" href="$control_8c.html#a6280444563f4376ab0a405e31fb61dd3" title="Resets the hardware blocks and deactivates the output pins for H&#45;Bridges." alt="" coords="303,233,371,260"/>
+<area shape="poly" id="edge40_Node000013_Node000023" title=" " alt="" coords="223,207,289,229,287,234,222,212"/>
+<area shape="rect" id="Node000025" href="$control_8c.html#a96c2fc44f420b191b9700486423e9712" title="Sets the release status of a specified signal." alt="" coords="294,284,380,311"/>
+<area shape="poly" id="edge43_Node000013_Node000025" title=" " alt="" coords="195,208,228,239,271,270,281,275,278,280,269,274,225,243,191,212"/>
+<area shape="rect" id="Node000026" href="$app_8c.html#a642392d6ed2148e30648145bcd0d1c28" title="Set the speed of the motor." alt="" coords="299,132,375,159"/>
+<area shape="poly" id="edge47_Node000013_Node000026" title=" " alt="" coords="222,180,284,159,285,165,223,185"/>
+<area shape="poly" id="edge31_Node000014_Node000004" title=" " alt="" coords="384,208,406,219,432,243,454,270,479,297,476,300,450,274,428,247,403,224,381,212"/>
+<area shape="rect" id="Node000015" href="$analog_8c.html#ac4a51847a4d0dc35b4a609888276350b" title="Set an output Value on the DAC." alt="" coords="469,183,535,209"/>
+<area shape="poly" id="edge32_Node000014_Node000015" title=" " alt="" coords="405,193,453,193,453,199,405,199"/>
+<area shape="rect" id="Node000017" href="$measure_8c.html#a5e53fe7988c101b781293e8cfcc705ee" title="Get the current tank pressure." alt="" coords="455,107,549,133"/>
+<area shape="poly" id="edge34_Node000016_Node000017" title=" " alt="" coords="394,101,440,108,439,113,393,106"/>
+<area shape="rect" id="Node000020" href="$measure_8c.html#a49750fcd702f1219409b7a9ffbd77368" title="Get the current tank temperature." alt="" coords="452,56,552,83"/>
+<area shape="poly" id="edge37_Node000016_Node000020" title=" " alt="" coords="393,83,436,77,437,82,394,89"/>
+<area shape="rect" id="Node000018" href="$measure_8c.html#a32e1edeab2e56cce11ac5a2245a8134f" title="Analog Value protection Take mutex." alt="" coords="606,157,711,184"/>
+<area shape="poly" id="edge35_Node000017_Node000018" title=" " alt="" coords="547,131,601,150,600,155,545,137"/>
+<area shape="rect" id="Node000019" href="$measure_8c.html#abc539a112aa3a94095e16c5fe17d50c2" title="Analog Value protection Give mutex." alt="" coords="600,107,717,133"/>
+<area shape="poly" id="edge36_Node000017_Node000019" title=" " alt="" coords="549,117,585,117,585,123,549,123"/>
+<area shape="rect" id="Node000021" href="$measure_8c.html#af36acc6dcd4af35b84bde88856cb6ab8" title=" " alt="" coords="607,56,710,83"/>
+<area shape="poly" id="edge38_Node000020_Node000021" title=" " alt="" coords="552,67,591,67,591,72,552,72"/>
+<area shape="rect" id="Node000022" href="$measure_8c.html#af5b1d517da45377ea47f7e67455ed602" title=" " alt="" coords="601,5,716,32"/>
+<area shape="poly" id="edge39_Node000020_Node000022" title=" " alt="" coords="545,53,600,35,601,40,547,58"/>
+<area shape="poly" id="edge41_Node000023_Node000004" title=" " alt="" coords="373,256,405,270,464,299,462,304,403,274,371,261"/>
+<area shape="rect" id="Node000024" href="$pwm_8c.html#a06cab9bc7173599612154c458f1d7e1f" title="Disable the PWM generation of a all timer and all channel." alt="" coords="454,233,550,260"/>
+<area shape="poly" id="edge42_Node000023_Node000024" title=" " alt="" coords="372,244,439,244,439,249,372,249"/>
+<area shape="poly" id="edge44_Node000025_Node000004" title=" " alt="" coords="381,301,449,312,449,317,380,307"/>
+<area shape="poly" id="edge45_Node000025_Node000005" title=" " alt="" coords="351,310,484,498,480,501,346,313"/>
+<area shape="poly" id="edge46_Node000025_Node000024" title=" " alt="" coords="380,282,441,262,443,268,381,287"/>
+</map>

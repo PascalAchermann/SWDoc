@@ -1,0 +1,19 @@
+<map id="newRefVal" name="newRefVal">
+<area shape="rect" id="Node000001" title="This function sets the new reference value for the Tank." alt="" coords="5,56,88,83"/>
+<area shape="rect" id="Node000002" href="$can_8c.html#adf684b085d5cdf85e92581b5e37b9a1d" title="Sends a CAN message." alt="" coords="155,31,228,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,60,139,50,140,56,89,65"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#ae046468c0da5c3a0448e74aa7c9ff430" title="This function is the control loop for the BCU, when the pump is needed." alt="" coords="136,81,247,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="89,74,121,80,120,85,88,79"/>
+<area shape="rect" id="Node000004" href="$measure_8c.html#a5e53fe7988c101b781293e8cfcc705ee" title="Get the current tank pressure." alt="" coords="298,56,392,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="247,83,282,77,283,82,248,88"/>
+<area shape="rect" id="Node000007" href="$measure_8c.html#a49750fcd702f1219409b7a9ffbd77368" title="Get the current tank temperature." alt="" coords="295,107,394,133"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="248,101,280,107,279,112,247,107"/>
+<area shape="rect" id="Node000005" href="$measure_8c.html#a32e1edeab2e56cce11ac5a2245a8134f" title="Analog Value protection Take mutex." alt="" coords="448,5,554,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="388,53,442,35,444,40,389,58"/>
+<area shape="rect" id="Node000006" href="$measure_8c.html#abc539a112aa3a94095e16c5fe17d50c2" title="Analog Value protection Give mutex." alt="" coords="442,56,560,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="392,67,427,67,427,72,392,72"/>
+<area shape="rect" id="Node000008" href="$measure_8c.html#af36acc6dcd4af35b84bde88856cb6ab8" title=" " alt="" coords="449,107,553,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="395,117,434,117,434,123,395,123"/>
+<area shape="rect" id="Node000009" href="$measure_8c.html#af5b1d517da45377ea47f7e67455ed602" title=" " alt="" coords="443,157,559,184"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="389,131,444,150,442,155,388,137"/>
+</map>

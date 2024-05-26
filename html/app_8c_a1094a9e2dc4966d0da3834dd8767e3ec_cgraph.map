@@ -1,0 +1,79 @@
+<map id="Startup" name="Startup">
+<area shape="rect" id="Node000001" title="Initialize the system during startup." alt="" coords="5,284,69,311"/>
+<area shape="rect" id="Node000002" href="$can_8c.html#adf684b085d5cdf85e92581b5e37b9a1d" title="Sends a CAN message." alt="" coords="149,5,221,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,284,41,240,53,178,76,111,93,78,115,49,133,34,136,38,119,53,98,81,81,113,58,180,46,241,42,284"/>
+<area shape="rect" id="Node000003" href="$can_8c.html#a412c28559258a2cd5e5b1b0f09320935" title="This Function Enable or Disable the filter bank on the corresponding sensor." alt="" coords="341,81,421,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="36,284,40,244,51,191,61,163,75,136,93,112,115,92,140,79,167,70,223,63,278,66,326,76,325,81,277,72,223,68,168,75,142,84,118,97,97,116,80,139,66,165,57,193,45,245,41,284"/>
+<area shape="rect" id="Node000004" href="$system_8c.html#a760f66782a20f7cf42dcc727c8786adf" title="Read configuration data from a storage device and copy it to the provided buffer." alt="" coords="318,208,444,235"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="53,281,81,261,116,244,163,231,211,223,302,217,302,222,212,228,164,236,118,249,84,266,56,286"/>
+<area shape="rect" id="Node000014" href="$app_8c.html#a642392d6ed2148e30648145bcd0d1c28" title="Set the speed of the motor." alt="" coords="147,259,223,285"/>
+<area shape="poly" id="edge22_Node000001_Node000014" title=" " alt="" coords="69,289,131,278,132,284,70,295"/>
+<area shape="rect" id="Node000015" href="$bcu_8c.html#a1710e68774c85a5bdfb50d04d8f92662" title="This function writes the complete standard configuration in the Flash." alt="" coords="117,157,253,184"/>
+<area shape="poly" id="edge23_Node000001_Node000015" title=" " alt="" coords="45,282,73,243,115,201,132,189,135,194,118,205,77,246,49,285"/>
+<area shape="rect" id="Node000018" href="$bcu_8c.html#af78b12bfabf79a8ba4b30816136883f0" title="Set up control parameters for the pump based on configuration data." alt="" coords="120,309,250,336"/>
+<area shape="poly" id="edge34_Node000001_Node000018" title=" " alt="" coords="70,300,105,306,104,312,69,305"/>
+<area shape="rect" id="Node000020" href="$bcu_8c.html#a37dc0967e4629fcccf279e8e6461d0ae" title="Set up control parameters for the reflow based on configuration data." alt="" coords="118,360,252,387"/>
+<area shape="poly" id="edge36_Node000001_Node000020" title=" " alt="" coords="58,309,118,346,130,351,127,356,115,350,56,313"/>
+<area shape="rect" id="Node000022" href="$bcu_8c.html#a3722215e924005148807c5325d525627" title="Set up the measurement modes for tank pressure, tank temperature, and ambient pressure based on confi..." alt="" coords="132,411,238,437"/>
+<area shape="poly" id="edge38_Node000001_Node000022" title=" " alt="" coords="48,310,75,352,95,376,118,397,125,401,122,405,115,401,91,380,71,355,43,313"/>
+<area shape="rect" id="Node000024" href="$bcu_8c.html#ac36ba122e238bf4a7d362ede099ef956" title="Set up PWM configurations based on configuration data." alt="" coords="141,461,229,488"/>
+<area shape="poly" id="edge40_Node000001_Node000024" title=" " alt="" coords="44,310,68,376,90,414,118,447,128,455,125,459,115,451,85,417,63,378,39,312"/>
+<area shape="rect" id="Node000027" href="$bcu_8c.html#a7e2ef44bc9f468aeac7a8ddd7152df2b" title="Set up tank parameters based on configuration data." alt="" coords="124,512,246,539"/>
+<area shape="poly" id="edge43_Node000001_Node000027" title=" " alt="" coords="42,311,49,348,62,398,84,451,100,476,119,498,122,501,118,505,115,502,96,479,80,454,57,399,43,349,37,312"/>
+<area shape="rect" id="Node000029" href="$measure_8c.html#ad733793f0bf2ec7165a5661eddec903d" title="Starts the measurement process." alt="" coords="135,107,235,133"/>
+<area shape="poly" id="edge45_Node000001_Node000029" title=" " alt="" coords="39,283,63,217,85,178,115,143,120,139,124,143,119,147,90,181,68,219,44,284"/>
+<area shape="rect" id="Node000030" href="$can_8c.html#af33e36ec2bcfe5cbb1ffc5d536b5ae71" title="This Function set the can timer to Autoreload and start the Timer." alt="" coords="123,563,247,589"/>
+<area shape="poly" id="edge47_Node000001_Node000030" title=" " alt="" coords="41,311,45,356,56,419,79,488,96,520,119,549,122,552,118,556,115,552,92,523,74,490,51,420,39,356,36,311"/>
+<area shape="rect" id="Node000005" href="$system_8c.html#a5882fef510daa922fa6780df47b25791" title="Reads from Flash." alt="" coords="555,245,617,272"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="445,230,540,248,539,253,444,235"/>
+<area shape="rect" id="Node000013" href="$system_8c.html#a4c3393dd15558bb62e88d6ecb8d604d8" title="This function saves the Address in a 3 Byte&#45;Array." alt="" coords="556,183,616,209"/>
+<area shape="poly" id="edge21_Node000004_Node000013" title=" " alt="" coords="444,211,541,199,541,204,445,216"/>
+<area shape="rect" id="Node000006" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="846,271,922,297"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="618,259,830,277,830,282,618,264"/>
+<area shape="rect" id="Node000007" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="845,169,922,196"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="615,242,659,223,711,205,772,192,829,185,830,190,773,198,712,211,661,228,617,247"/>
+<area shape="rect" id="Node000008" href="$spi_8c.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="845,321,922,348"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="601,270,647,313,678,335,713,351,742,357,772,358,829,349,830,354,772,363,741,362,711,356,676,339,644,317,598,274"/>
+<area shape="rect" id="Node000009" href="$app_8c.html#a72d43f87749a58cd3c3a050013d62c34" title="Adds an item to the error queue." alt="" coords="976,271,1039,297"/>
+<area shape="poly" id="edge13_Node000005_Node000009" title=" " alt="" coords="598,271,642,329,675,362,713,388,746,402,773,406,839,408,886,416,905,417,927,408,952,389,971,364,996,311,1000,313,975,366,955,393,930,413,906,422,885,422,839,413,773,412,744,407,710,393,671,366,638,333,593,274"/>
+<area shape="rect" id="Node000010" href="$spi_8c.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="839,372,928,399"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="600,271,646,318,677,344,713,364,768,380,824,385,823,390,768,385,711,369,674,348,642,322,596,274"/>
+<area shape="rect" id="Node000011" href="$spi_8c.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="850,93,918,120"/>
+<area shape="poly" id="edge11_Node000005_Node000011" title=" " alt="" coords="616,243,662,219,686,200,710,180,774,147,834,122,836,126,776,152,713,185,689,204,665,224,619,248"/>
+<area shape="rect" id="Node000012" href="$system_8c.html#a1bf66b4e2c55b3b4b3ba26fee52252b5" title=" " alt="" coords="712,220,791,247"/>
+<area shape="poly" id="edge14_Node000005_Node000012" title=" " alt="" coords="617,251,696,239,697,244,618,257"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="917,318,961,300,963,305,919,323"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="909,369,927,358,982,307,985,311,930,362,912,374"/>
+<area shape="poly" id="edge12_Node000011_Node000009" title=" " alt="" coords="900,119,930,156,965,208,993,256,989,258,961,211,926,159,896,122"/>
+<area shape="poly" id="edge15_Node000012_Node000006" title=" " alt="" coords="789,245,833,262,832,267,787,250"/>
+<area shape="poly" id="edge16_Node000012_Node000007" title=" " alt="" coords="787,217,832,200,833,205,789,222"/>
+<area shape="poly" id="edge17_Node000012_Node000008" title=" " alt="" coords="768,245,801,275,841,307,845,310,842,315,837,311,797,279,765,249"/>
+<area shape="poly" id="edge20_Node000012_Node000009" title=" " alt="" coords="792,234,856,243,929,256,962,265,961,271,928,261,855,248,791,240"/>
+<area shape="poly" id="edge18_Node000012_Node000010" title=" " alt="" coords="762,246,792,298,815,330,841,358,844,361,840,365,837,362,811,333,788,301,757,248"/>
+<area shape="poly" id="edge19_Node000012_Node000011" title=" " alt="" coords="765,218,855,129,859,133,768,222"/>
+<area shape="rect" id="Node000016" href="$bcu_8c.html#aac2b5aa7ef2a2c4385d7ea401c15527f" title=" " alt="" coords="317,157,445,184"/>
+<area shape="poly" id="edge24_Node000015_Node000016" title=" " alt="" coords="253,168,301,168,301,173,253,173"/>
+<area shape="poly" id="edge25_Node000016_Node000013" title=" " alt="" coords="445,176,542,188,541,193,445,181"/>
+<area shape="rect" id="Node000017" href="$system_8c.html#a381199e221a7c089b35760eadbc6577e" title="Write to Flash ive back an error." alt="" coords="554,132,618,159"/>
+<area shape="poly" id="edge26_Node000016_Node000017" title=" " alt="" coords="445,160,539,148,539,154,445,165"/>
+<area shape="poly" id="edge27_Node000017_Node000006" title=" " alt="" coords="619,148,699,168,747,185,792,206,829,231,860,258,857,262,826,235,790,210,745,190,698,173,618,153"/>
+<area shape="poly" id="edge28_Node000017_Node000007" title=" " alt="" coords="617,129,653,117,697,106,745,103,792,111,830,131,861,156,858,160,827,135,790,116,745,108,698,112,655,122,619,134"/>
+<area shape="poly" id="edge29_Node000017_Node000008" title=" " alt="" coords="619,148,643,155,665,169,683,191,691,213,698,235,714,257,741,278,771,295,831,319,829,324,769,300,738,282,710,261,693,237,686,215,679,193,662,173,641,160,617,153"/>
+<area shape="poly" id="edge32_Node000017_Node000009" title=" " alt="" coords="603,129,649,97,679,81,711,69,761,66,833,69,929,79,949,97,965,118,988,166,1001,214,1007,255,1002,255,996,215,983,168,961,121,946,101,927,84,833,74,761,71,712,75,681,86,652,102,606,134"/>
+<area shape="poly" id="edge30_Node000017_Node000010" title=" " alt="" coords="619,146,643,154,665,169,680,187,687,205,691,240,694,275,701,293,714,310,738,331,766,348,825,371,823,376,764,353,735,336,710,314,696,295,689,277,686,241,682,206,675,190,662,173,641,159,617,152"/>
+<area shape="poly" id="edge31_Node000017_Node000011" title=" " alt="" coords="610,129,656,107,711,89,743,85,776,85,835,93,834,98,775,91,743,91,712,95,658,112,613,134"/>
+<area shape="poly" id="edge33_Node000017_Node000012" title=" " alt="" coords="619,151,665,168,696,187,724,208,721,212,693,192,662,173,617,156"/>
+<area shape="rect" id="Node000019" href="$app_8c.html#a97b1685f6f69580d11cf92f8ef6bfc51" title="Set the PD&#45;Controler values from Flash." alt="" coords="305,309,457,336"/>
+<area shape="poly" id="edge35_Node000018_Node000019" title=" " alt="" coords="250,320,289,320,289,325,250,325"/>
+<area shape="rect" id="Node000021" href="$app_8c.html#a84cfb27699e720c3a48e170525fc5f41" title="Set the PD&#45;Controler values from Flash." alt="" coords="303,360,459,387"/>
+<area shape="poly" id="edge37_Node000020_Node000021" title=" " alt="" coords="253,371,287,371,287,376,253,376"/>
+<area shape="rect" id="Node000023" href="$measure_8c.html#a65657f97414b70ad00af8b5384f2ebda" title="Set the measurement modes for tank pressure, tank temperature, and ambient pressure." alt="" coords="301,411,460,437"/>
+<area shape="poly" id="edge39_Node000022_Node000023" title=" " alt="" coords="238,421,286,421,286,427,238,427"/>
+<area shape="rect" id="Node000025" href="$control_8c.html#aa2b5bccfe7b559e70e81d4db11d37f21" title="Sets the PWM configuration for a specific output channel." alt="" coords="326,461,436,488"/>
+<area shape="poly" id="edge41_Node000024_Node000025" title=" " alt="" coords="230,472,310,472,310,477,230,477"/>
+<area shape="rect" id="Node000026" href="$pwm_8c.html#adaa6449a0f5c7ca037c67fc4c3a12c71" title=" " alt="" coords="508,461,664,488"/>
+<area shape="poly" id="edge42_Node000025_Node000026" title=" " alt="" coords="436,472,492,472,492,477,436,477"/>
+<area shape="rect" id="Node000028" href="$app_8c.html#a2a2ff4c9a781b8d790a3bc170950f994" title="Set tank configuration parameters." alt="" coords="328,512,433,539"/>
+<area shape="poly" id="edge44_Node000027_Node000028" title=" " alt="" coords="246,523,312,523,312,528,246,528"/>
+<area shape="poly" id="edge46_Node000029_Node000003" title=" " alt="" coords="235,111,325,99,326,104,235,116"/>
+</map>

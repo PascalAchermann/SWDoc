@@ -1,0 +1,18 @@
+<map id="EraseFl" name="EraseFl">
+<area shape="rect" id="Node000001" title="Erases the complete Flash." alt="" coords="750,31,817,57"/>
+<area shape="rect" id="Node000002" href="$bcu_8c.html#ac3dda7769238b7cfae22ede98e16f763" title="Writes customized configuration data to flash memory." alt="" coords="463,5,559,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="735,42,559,26,560,20,735,37"/>
+<area shape="rect" id="Node000007" href="$bcu_8c.html#ad19eaee2ae8d229ef81f6e38037c02b6" title="Handles failure list requests." alt="" coords="621,56,702,83"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="736,57,703,64,702,58,735,51"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="328,31,401,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,32,401,40,400,35,447,27"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="212,31,280,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="313,47,281,47,281,41,313,41"/>
+<area shape="rect" id="Node000005" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,31,164,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="197,47,164,47,164,41,197,41"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,47,55,47,55,41,87,41"/>
+<area shape="rect" id="Node000008" href="$app_8c.html#a3ded7d74e59ec620032bef339ca2cd1b" title="Processes incoming CAN messages." alt="" coords="449,56,573,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="605,72,573,72,573,67,605,67"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="433,59,401,53,402,48,434,53"/>
+</map>

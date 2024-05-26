@@ -1,0 +1,40 @@
+<map id="MeaTask" name="MeaTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,183,80,209"/>
+<area shape="rect" id="Node000002" href="$measure_8c.html#a7895452e00cdeba98e547b30f73a1749" title="This Function starts a new measure cycle." alt="" coords="128,183,252,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,193,112,193,112,199,80,199"/>
+<area shape="rect" id="Node000003" href="$measure_8c.html#a5c685b9024fd394d6feb93012a23625d" title="Set the ambient pressure to a new value." alt="" coords="308,56,404,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,180,323,90,327,95,210,185"/>
+<area shape="rect" id="Node000006" href="$measure_8c.html#adb4b48c6ff073131522700766da1e810" title="Set the tank pressure to a new value." alt="" coords="309,157,403,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="252,184,293,177,294,183,253,189"/>
+<area shape="rect" id="Node000009" href="$measure_8c.html#a797efce63335c2d6cbe84a76dc1b9eba" title="Set the tank temperature to a new value." alt="" coords="307,208,406,235"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="253,203,291,209,290,214,252,208"/>
+<area shape="rect" id="Node000012" href="$measure_8c.html#a803285f1f6fad1e74dae928b03e6824d" title="Starts an analog&#45;to&#45;digital conversion." alt="" coords="300,411,412,437"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="203,208,338,397,334,400,199,211"/>
+<area shape="rect" id="Node000004" href="$measure_8c.html#aab67204df94065d39742b93e64d794f0" title=" " alt="" coords="466,5,574,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="401,53,459,35,461,40,403,58"/>
+<area shape="rect" id="Node000005" href="$measure_8c.html#ae62b15ed6e208e2fc7138de8d4a73d6d" title=" " alt="" coords="460,56,580,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="405,67,445,67,445,72,405,72"/>
+<area shape="rect" id="Node000007" href="$measure_8c.html#a32e1edeab2e56cce11ac5a2245a8134f" title="Analog Value protection Take mutex." alt="" coords="467,107,573,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="401,154,459,136,461,141,403,159"/>
+<area shape="rect" id="Node000008" href="$measure_8c.html#abc539a112aa3a94095e16c5fe17d50c2" title="Analog Value protection Give mutex." alt="" coords="461,157,579,184"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="404,168,446,168,446,173,404,173"/>
+<area shape="rect" id="Node000010" href="$measure_8c.html#af36acc6dcd4af35b84bde88856cb6ab8" title=" " alt="" coords="468,208,572,235"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="406,219,453,219,453,224,406,224"/>
+<area shape="rect" id="Node000011" href="$measure_8c.html#af5b1d517da45377ea47f7e67455ed602" title=" " alt="" coords="462,259,578,285"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="403,233,461,251,459,256,401,238"/>
+<area shape="rect" id="Node000013" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="482,309,558,336"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="372,408,411,378,459,346,469,341,471,345,462,350,414,382,375,412"/>
+<area shape="rect" id="Node000014" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="481,360,559,387"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="401,407,466,387,467,392,403,413"/>
+<area shape="rect" id="Node000015" href="$spi_8c.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="481,411,559,437"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="413,421,466,421,466,427,413,427"/>
+<area shape="rect" id="Node000016" href="$app_8c.html#a72d43f87749a58cd3c3a050013d62c34" title="Adds an item to the error queue." alt="" coords="628,487,690,513"/>
+<area shape="poly" id="edge20_Node000012_Node000016" title=" " alt="" coords="413,435,613,486,612,491,412,441"/>
+<area shape="rect" id="Node000017" href="$spi_8c.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="475,512,565,539"/>
+<area shape="poly" id="edge16_Node000012_Node000017" title=" " alt="" coords="378,436,462,491,480,502,478,506,459,496,375,440"/>
+<area shape="rect" id="Node000018" href="$spi_8c.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="486,563,554,589"/>
+<area shape="poly" id="edge18_Node000012_Node000018" title=" " alt="" coords="368,436,405,490,431,521,462,549,474,556,471,561,459,553,427,525,400,493,363,439"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="548,436,581,454,621,476,619,481,578,458,546,440"/>
+<area shape="poly" id="edge17_Node000017_Node000016" title=" " alt="" coords="565,515,612,506,613,511,566,520"/>
+<area shape="poly" id="edge19_Node000018_Node000016" title=" " alt="" coords="553,560,578,548,625,520,627,525,581,553,556,565"/>
+</map>

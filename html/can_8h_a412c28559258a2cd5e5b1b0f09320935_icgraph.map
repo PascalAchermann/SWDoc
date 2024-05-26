@@ -1,0 +1,30 @@
+<map id="FilterBank" name="FilterBank">
+<area shape="rect" id="Node000001" title="This Function Enable or Disable the filter bank on the corresponding sensor." alt="" coords="913,107,993,133"/>
+<area shape="rect" id="Node000002" href="$bcu_8c.html#ac3dda7769238b7cfae22ede98e16f763" title="Writes customized configuration data to flash memory." alt="" coords="621,5,717,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="929,97,900,69,863,46,827,34,788,26,717,20,718,15,789,20,828,28,866,42,903,65,932,93"/>
+<area shape="rect" id="Node000007" href="$app_8c.html#ac0662e044d34f9404cf8b7a95348f2ed" title="Puts the system into sleep mode." alt="" coords="468,107,554,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="897,123,554,123,554,117,897,117"/>
+<area shape="rect" id="Node000008" href="$measure_8c.html#ad733793f0bf2ec7165a5661eddec903d" title="Starts the measurement process." alt="" coords="765,208,865,235"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="925,146,866,191,840,210,837,205,863,187,922,141"/>
+<area shape="rect" id="Node000010" href="$app_8c.html#a1094a9e2dc4966d0da3834dd8767e3ec" title="Initialize the system during startup." alt="" coords="638,157,701,184"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="898,135,865,141,702,169,701,163,864,136,897,129"/>
+<area shape="rect" id="Node000011" href="$measure_8c.html#a5a9f334540e8a40753b1443683b79c5e" title="Stops the measurement process." alt="" coords="766,56,864,83"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="899,103,853,86,854,81,901,98"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="328,132,401,159"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="607,39,531,64,450,97,387,134,385,129,447,92,529,59,605,34"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="212,132,280,159"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="313,148,281,148,281,143,313,143"/>
+<area shape="rect" id="Node000005" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,132,164,159"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="197,148,164,148,164,143,197,143"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,132,55,159"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,148,55,148,55,143,87,143"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="453,133,402,142,401,136,452,127"/>
+<area shape="rect" id="Node000009" href="$app_8c.html#a3ded7d74e59ec620032bef339ca2cd1b" title="Processes incoming CAN messages." alt="" coords="449,208,573,235"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="750,224,573,224,573,219,750,219"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="759,205,700,184,702,179,761,200"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="469,203,447,192,391,162,393,157,450,187,471,198"/>
+<area shape="poly" id="edge12_Node000010_Node000003" title=" " alt="" coords="622,169,401,151,401,146,622,164"/>
+<area shape="poly" id="edge13_Node000010_Node000007" title=" " alt="" coords="622,159,554,136,555,131,624,154"/>
+<area shape="poly" id="edge16_Node000011_Node000002" title=" " alt="" coords="759,53,709,35,711,30,761,48"/>
+<area shape="poly" id="edge17_Node000011_Node000007" title=" " alt="" coords="751,82,621,104,555,115,554,110,621,99,750,77"/>
+</map>

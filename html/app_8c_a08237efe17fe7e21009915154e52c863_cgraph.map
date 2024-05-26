@@ -1,0 +1,34 @@
+<map id="SetupPWM" name="SetupPWM">
+<area shape="rect" id="Node000001" title="This function Reads the Flash config for the Port configuration and set the default configuration if ..." alt="" coords="5,157,94,184"/>
+<area shape="rect" id="Node000002" href="$system_8c.html#ae161b6ad6bae76b771597ec9fc8bf60f" title="This function extract a 32bit Value out of a 8bit array from a specific index. The value is saved MSB..." alt="" coords="147,81,232,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,155,140,118,148,113,151,118,143,122,77,159"/>
+<area shape="rect" id="Node000003" href="$system_8c.html#a5882fef510daa922fa6780df47b25791" title="Reads from Flash." alt="" coords="158,132,221,159"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="94,160,143,151,143,156,95,165"/>
+<area shape="rect" id="Node000011" href="$system_8c.html#a4c3393dd15558bb62e88d6ecb8d604d8" title="This function saves the Address in a 3 Byte&#45;Array." alt="" coords="160,183,219,209"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="95,176,145,185,144,191,94,181"/>
+<area shape="rect" id="Node000012" href="$control_8c.html#a28d7a3c07ea69777aafa68bab9334d83" title="Set the configuration of the control modul." alt="" coords="142,259,237,285"/>
+<area shape="poly" id="edge18_Node000001_Node000012" title=" " alt="" coords="71,182,159,247,156,251,68,186"/>
+<area shape="rect" id="Node000004" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="495,183,571,209"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="221,147,480,186,479,191,221,152"/>
+<area shape="rect" id="Node000005" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="494,233,572,260"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="219,157,286,185,388,215,480,235,479,240,387,220,284,191,217,162"/>
+<area shape="rect" id="Node000006" href="$spi_8c.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="494,5,572,32"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="220,130,235,118,250,98,257,77,265,57,284,39,332,18,383,8,434,5,479,8,478,13,434,11,384,13,333,23,286,44,269,60,262,79,254,100,239,122,223,134"/>
+<area shape="rect" id="Node000008" href="$spi_8c.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="488,56,578,83"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="218,129,235,118,249,104,257,91,267,78,284,67,332,53,382,48,431,49,473,54,473,59,430,54,382,53,333,58,286,72,271,82,262,94,253,107,239,122,221,134"/>
+<area shape="rect" id="Node000009" href="$spi_8c.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="499,107,567,133"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="221,140,483,121,484,126,221,146"/>
+<area shape="rect" id="Node000010" href="$system_8c.html#a1bf66b4e2c55b3b4b3ba26fee52252b5" title=" " alt="" coords="323,81,402,108"/>
+<area shape="poly" id="edge11_Node000003_Node000010" title=" " alt="" coords="220,134,307,108,309,113,222,139"/>
+<area shape="rect" id="Node000007" href="$app_8c.html#afe8ba5350d73be9fa87e77f461069d92" title="Send item to the back of the queue." alt="" coords="626,56,688,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="568,30,612,48,610,53,566,35"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="578,67,610,67,610,72,578,72"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="566,104,610,85,612,90,568,109"/>
+<area shape="poly" id="edge12_Node000010_Node000004" title=" " alt="" coords="388,106,497,172,495,177,386,111"/>
+<area shape="poly" id="edge13_Node000010_Node000005" title=" " alt="" coords="377,107,424,159,490,219,494,223,491,227,487,223,420,162,373,110"/>
+<area shape="poly" id="edge14_Node000010_Node000006" title=" " alt="" coords="394,78,486,36,488,41,396,83"/>
+<area shape="poly" id="edge15_Node000010_Node000008" title=" " alt="" coords="402,86,473,76,473,81,403,91"/>
+<area shape="poly" id="edge16_Node000010_Node000009" title=" " alt="" coords="403,98,484,110,483,115,402,103"/>
+<area shape="rect" id="Node000013" href="$pwm_8c.html#adaa6449a0f5c7ca037c67fc4c3a12c71" title=" " alt="" coords="285,284,440,311"/>
+<area shape="poly" id="edge19_Node000012_Node000013" title=" " alt="" coords="238,276,270,281,269,286,237,282"/>
+</map>

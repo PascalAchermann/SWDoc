@@ -1,0 +1,26 @@
+<map id="Control_Init" name="Control_Init">
+<area shape="rect" id="Node000001" title="App Initialization Function." alt="" coords="5,132,92,159"/>
+<area shape="rect" id="Node000002" href="$a00056.html#af4b0e3fe264f62d03d90e0d5eee478f4" title="Timer callback function. It will load the capacitor array for 9ms then wait for 9ms till the array is..." alt="" coords="140,56,246,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,129,138,92,148,88,150,92,141,97,75,134"/>
+<area shape="rect" id="Node000006" href="$a00056.html#a6280444563f4376ab0a405e31fb61dd3" title="Reset PWM generation on timer 1&#45;2 for channel 1&#45;3." alt="" coords="159,157,227,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="92,150,144,159,143,165,91,155"/>
+<area shape="rect" id="Node000008" href="$a00056.html#a28d7a3c07ea69777aafa68bab9334d83" title="Set the configuration of the control modul." alt="" coords="145,107,241,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="91,135,130,128,131,134,92,140"/>
+<area shape="rect" id="Node000010" href="$a00056.html#a96c2fc44f420b191b9700486423e9712" title="Set the Release Outputs if the signal is not in range the Release will be reset." alt="" coords="150,208,236,235"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="75,157,141,194,150,198,148,203,138,198,72,162"/>
+<area shape="rect" id="Node000003" href="$a00047.html#a946992b1a38e0049d5cfe0cd1c4a2cd9" title="Get the input Value on the ADC." alt="" coords="339,5,405,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,53,323,30,324,35,244,58"/>
+<area shape="rect" id="Node000005" href="$a00047.html#ac4a51847a4d0dc35b4a609888276350b" title="Set an output Value on the DAC." alt="" coords="339,56,405,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="247,67,323,67,323,72,247,72"/>
+<area shape="rect" id="Node000004" href="$a00050.html#afe8ba5350d73be9fa87e77f461069d92" title="Send item to the back of the queue." alt="" coords="497,5,560,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="405,16,482,16,482,21,405,21"/>
+<area shape="rect" id="Node000007" href="$a00074.html#a06cab9bc7173599612154c458f1d7e1f" title="Disable the PWM generation of a all timer and all channel." alt="" coords="324,157,419,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="227,168,308,168,308,173,227,173"/>
+<area shape="rect" id="Node000009" href="$a00074.html#adaa6449a0f5c7ca037c67fc4c3a12c71" title=" " alt="" coords="294,107,449,133"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="241,117,278,117,278,123,241,123"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="236,207,308,186,310,191,237,212"/>
+<area shape="rect" id="Node000011" href="$a00062.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="334,208,410,235"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="236,219,318,219,318,224,236,224"/>
+<area shape="rect" id="Node000012" href="$a00062.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="333,259,410,285"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="237,231,319,254,317,260,236,236"/>
+</map>

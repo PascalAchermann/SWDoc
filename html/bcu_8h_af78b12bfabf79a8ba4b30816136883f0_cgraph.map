@@ -1,0 +1,5 @@
+<map id="SetupControlPump" name="SetupControlPump">
+<area shape="rect" id="Node000001" title="Set up control parameters for the pump based on configuration data." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="Node000002" href="$app_8c.html#a97b1685f6f69580d11cf92f8ef6bfc51" title="Set the PD&#45;Controler values from Flash." alt="" coords="184,5,336,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,16,168,16,168,21,136,21"/>
+</map>

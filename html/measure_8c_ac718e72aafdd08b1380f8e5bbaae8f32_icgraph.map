@@ -1,0 +1,69 @@
+<map id="AnalogUnlock" name="AnalogUnlock">
+<area shape="rect" id="Node000001" title="Analog Value protection Give mutex." alt="" coords="1259,396,1361,423"/>
+<area shape="rect" id="Node000002" href="$measure_8c.html#ae9c5d59d2242734096fcadfda20a0405" title="Get the current ambient pressure." alt="" coords="803,42,899,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1298,382,1266,307,1241,265,1209,228,1173,197,1133,169,1048,124,966,91,899,70,901,64,968,86,1050,119,1136,164,1176,192,1213,224,1245,262,1271,304,1303,380"/>
+<area shape="rect" id="Node000009" href="$measure_8c.html#a5e53fe7988c101b781293e8cfcc705ee" title="Get the current tank pressure." alt="" coords="1115,238,1209,264"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1284,387,1174,267,1178,263,1288,383"/>
+<area shape="rect" id="Node000018" href="$measure_8c.html#a49750fcd702f1219409b7a9ffbd77368" title="Get the current tank temperature." alt="" coords="1112,332,1211,359"/>
+<area shape="poly" id="edge28_Node000001_Node000018" title=" " alt="" coords="1262,392,1193,362,1196,357,1264,387"/>
+<area shape="rect" id="Node000019" href="$measure_8c.html#a5c685b9024fd394d6feb93012a23625d" title="Set the ambient pressure to a new value." alt="" coords="652,498,748,524"/>
+<area shape="poly" id="edge32_Node000001_Node000019" title=" " alt="" coords="1244,423,749,506,748,500,1244,418"/>
+<area shape="rect" id="Node000023" href="$measure_8c.html#adb4b48c6ff073131522700766da1e810" title="Set the tank pressure to a new value." alt="" coords="653,548,747,575"/>
+<area shape="poly" id="edge38_Node000001_Node000023" title=" " alt="" coords="1263,432,1212,450,1081,485,951,516,748,556,747,551,950,511,1080,480,1211,444,1261,427"/>
+<area shape="rect" id="Node000024" href="$measure_8c.html#a797efce63335c2d6cbe84a76dc1b9eba" title="Set the tank temperature to a new value." alt="" coords="650,599,749,626"/>
+<area shape="poly" id="edge41_Node000001_Node000024" title=" " alt="" coords="1282,435,1250,459,1213,480,1150,506,1086,529,956,566,839,592,750,608,749,603,838,587,955,561,1084,524,1148,501,1210,475,1247,454,1279,431"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#ad6f094c81d90b7dadd720d6b032a57a6" title="This function checks if the difference between the tank and the target value from the MNU is bigger t..." alt="" coords="662,92,738,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="795,76,739,95,737,90,793,71"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#a6d7bf2ac2364bd030f5e0f50105073a3" title=" " alt="" coords="490,143,590,170"/>
+<area shape="poly" id="edge8_Node000002_Node000004" title=" " alt="" coords="788,58,721,65,685,72,651,83,624,96,598,112,558,144,554,140,595,108,621,91,649,78,684,67,720,59,787,53"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="648,125,585,145,583,140,646,120"/>
+<area shape="rect" id="Node000005" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="356,346,429,372"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="522,184,406,347,401,344,518,181"/>
+<area shape="rect" id="Node000006" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="226,358,294,384"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="341,366,295,371,294,365,341,361"/>
+<area shape="rect" id="Node000007" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,408,164,435"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="212,393,166,412,164,407,210,388"/>
+<area shape="rect" id="Node000008" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,408,55,435"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="87,424,55,424,55,419,87,419"/>
+<area shape="poly" id="edge26_Node000009_Node000004" title=" " alt="" coords="1140,227,1102,182,1047,126,980,72,943,50,904,32,834,12,804,8,776,9,719,23,651,53,620,73,592,98,553,144,549,141,588,94,617,69,649,49,717,18,775,4,804,3,835,7,906,27,945,45,983,68,1051,122,1106,178,1144,224"/>
+<area shape="rect" id="Node000010" href="$app_8c.html#ae046468c0da5c3a0448e74aa7c9ff430" title="This function is the control loop for the BCU, when the pump is needed." alt="" coords="953,194,1064,220"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1099,236,1057,223,1058,218,1100,231"/>
+<area shape="rect" id="Node000013" href="$bcu_8c.html#a029dd10d21133439a5512bb7ee3ed66d" title=" " alt="" coords="797,396,905,423"/>
+<area shape="poly" id="edge27_Node000009_Node000013" title=" " alt="" coords="1121,274,954,360,880,398,878,393,951,355,1119,269"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="950,191,737,120,739,115,951,186"/>
+<area shape="poly" id="edge14_Node000010_Node000004" title=" " alt="" coords="937,202,590,164,591,159,937,197"/>
+<area shape="rect" id="Node000011" href="$app_8c.html#ac042b826215d1a1cc0f17e28c2fa01b2" title="This function sets the new reference value for the Tank." alt="" coords="499,346,581,372"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="996,235,961,289,936,315,906,336,864,354,820,366,775,373,730,377,647,376,581,369,582,363,647,370,730,372,774,368,819,361,862,349,903,331,932,311,957,285,992,233"/>
+<area shape="rect" id="Node000012" href="$app_8c.html#ab3ec4c5dac6aa15eff2d8a7fb17a8cfe" title="This function starts the control. It also enable the release of the signals." alt="" coords="807,92,895,119"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="974,187,903,140,874,122,877,117,906,135,977,183"/>
+<area shape="poly" id="edge17_Node000010_Node000013" title=" " alt="" coords="994,235,907,379,882,398,879,394,903,376,989,232"/>
+<area shape="rect" id="Node000015" href="$app_8c.html#afa0bd8a9fbb18dccdecdaaccfa5e3141" title="Stops the control operation." alt="" coords="807,295,895,322"/>
+<area shape="poly" id="edge20_Node000010_Node000015" title=" " alt="" coords="975,231,875,297,872,292,972,227"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="483,362,429,362,429,356,483,356"/>
+<area shape="poly" id="edge16_Node000012_Node000003" title=" " alt="" coords="791,108,738,108,738,103,791,103"/>
+<area shape="rect" id="Node000014" href="$app_8c.html#a3ded7d74e59ec620032bef339ca2cd1b" title="Processes incoming CAN messages." alt="" coords="478,447,602,474"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="786,430,750,438,603,458,602,452,749,432,785,425"/>
+<area shape="poly" id="edge19_Node000014_Node000005" title=" " alt="" coords="505,440,412,375,415,371,508,436"/>
+<area shape="poly" id="edge23_Node000015_Node000004" title=" " alt="" coords="795,292,725,263,649,228,600,199,559,172,562,168,602,195,651,223,727,259,797,287"/>
+<area shape="rect" id="Node000016" href="$bcu_8c.html#ad19eaee2ae8d229ef81f6e38037c02b6" title="Handles failure list requests." alt="" coords="659,396,740,423"/>
+<area shape="poly" id="edge21_Node000015_Node000016" title=" " alt="" coords="819,333,723,398,720,394,816,328"/>
+<area shape="rect" id="Node000017" href="$app_8c.html#ac82d82e2be7db0d06e08beb25b9098bb" title="Puts the system into sleep mode." alt="" coords="497,295,583,322"/>
+<area shape="poly" id="edge24_Node000015_Node000017" title=" " alt="" coords="792,311,583,311,583,306,792,306"/>
+<area shape="poly" id="edge22_Node000016_Node000014" title=" " alt="" coords="645,430,585,449,583,444,643,425"/>
+<area shape="poly" id="edge25_Node000017_Node000005" title=" " alt="" coords="485,330,430,349,428,344,483,325"/>
+<area shape="poly" id="edge30_Node000018_Node000004" title=" " alt="" coords="1099,330,586,173,588,168,1101,325"/>
+<area shape="poly" id="edge29_Node000018_Node000010" title=" " alt="" coords="1139,322,1105,282,1062,241,1035,223,1038,219,1066,237,1109,278,1143,319"/>
+<area shape="poly" id="edge31_Node000018_Node000013" title=" " alt="" coords="1097,361,906,401,904,396,1096,356"/>
+<area shape="poly" id="edge33_Node000019_Node000014" title=" " alt="" coords="640,495,584,477,585,472,641,490"/>
+<area shape="rect" id="Node000020" href="$measure_8c.html#a7895452e00cdeba98e547b30f73a1749" title="This Function starts a new measure cycle." alt="" coords="478,523,602,550"/>
+<area shape="poly" id="edge34_Node000019_Node000020" title=" " alt="" coords="637,524,603,529,602,524,636,518"/>
+<area shape="rect" id="Node000021" href="$measure_8c.html#a1c670a1da5230da1982844e03cfde494" title=" " alt="" coords="355,484,430,511"/>
+<area shape="poly" id="edge35_Node000020_Node000021" title=" " alt="" coords="471,521,429,510,431,505,472,516"/>
+<area shape="rect" id="Node000022" href="$measure_8c.html#a32913a2fd3fbc590a2a91763acb95592" title="App Initialization Function." alt="" coords="212,434,307,460"/>
+<area shape="poly" id="edge36_Node000021_Node000022" title=" " alt="" coords="340,481,296,463,298,458,342,476"/>
+<area shape="poly" id="edge37_Node000022_Node000007" title=" " alt="" coords="196,437,164,430,165,425,197,432"/>
+<area shape="poly" id="edge39_Node000023_Node000014" title=" " alt="" coords="656,543,649,539,558,476,561,472,651,534,659,538"/>
+<area shape="poly" id="edge40_Node000023_Node000020" title=" " alt="" coords="636,554,602,549,603,544,637,549"/>
+<area shape="poly" id="edge42_Node000024_Node000014" title=" " alt="" coords="652,592,648,589,632,569,622,551,614,533,600,513,559,476,562,472,604,509,619,530,627,549,636,566,652,585,655,588"/>
+<area shape="poly" id="edge43_Node000024_Node000020" title=" " alt="" coords="655,594,569,553,571,548,657,589"/>
+</map>

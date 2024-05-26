@@ -1,0 +1,18 @@
+<map id="setCtrlConfig" name="setCtrlConfig">
+<area shape="rect" id="Node000001" title="Set the configuration of the control module." alt="" coords="874,31,969,57"/>
+<area shape="rect" id="Node000002" href="$system_8c.html#a8f0847cc0870737b19fc0b60c9a22eb2" title="Write the standard configuration of the control Modul in the flash memory." alt="" coords="696,5,826,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="858,37,826,32,827,26,859,31"/>
+<area shape="rect" id="Node000003" href="$bcu_8c.html#a416368fe663bec4b225152c4440969c1" title="This function reads the flash config for the output configuration and set the default configuration i..." alt="" coords="560,31,648,57"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="858,47,649,47,649,41,858,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="681,34,649,40,648,34,681,29"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#a1094a9e2dc4966d0da3834dd8767e3ec" title="This function read information from the Flash and load the configuration into the modules." alt="" coords="449,31,512,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="544,47,513,47,513,41,544,41"/>
+<area shape="rect" id="Node000005" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="328,31,401,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="433,47,401,47,401,41,433,41"/>
+<area shape="rect" id="Node000006" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="App Initialization Function." alt="" coords="212,31,280,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="313,47,281,47,281,41,313,41"/>
+<area shape="rect" id="Node000007" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,31,164,57"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="197,47,164,47,164,41,197,41"/>
+<area shape="rect" id="Node000008" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="87,47,55,47,55,41,87,41"/>
+</map>

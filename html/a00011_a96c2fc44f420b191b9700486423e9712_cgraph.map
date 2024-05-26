@@ -1,0 +1,9 @@
+<map id="setRelease" name="setRelease">
+<area shape="rect" id="Node000001" title="Set the Release Outputs if the signal is not in range the Release will be reset." alt="" coords="5,56,92,83"/>
+<area shape="rect" id="Node000002" href="$a00062.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="149,5,226,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,53,134,35,136,40,88,58"/>
+<area shape="rect" id="Node000003" href="$a00062.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="149,56,226,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="92,67,133,67,133,72,92,72"/>
+<area shape="rect" id="Node000004" href="$a00074.html#a06cab9bc7173599612154c458f1d7e1f" title="Disable the PWM generation of a all timer and all channel." alt="" coords="140,107,235,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="88,81,136,98,134,103,86,86"/>
+</map>

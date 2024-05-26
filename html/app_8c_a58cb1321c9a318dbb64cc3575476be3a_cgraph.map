@@ -1,0 +1,67 @@
+<map id="Configuration" name="Configuration">
+<area shape="rect" id="Node000001" title="This function writes the customized configuration of in the flash." alt="" coords="5,436,102,463"/>
+<area shape="rect" id="Node000002" href="$can_8c.html#adf684b085d5cdf85e92581b5e37b9a1d" title="Put a msg in the Mailbox of the CAN Controller." alt="" coords="175,132,248,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,435,60,388,76,320,104,245,124,208,148,176,160,164,164,168,152,179,128,211,109,247,81,322,66,389,59,436"/>
+<area shape="rect" id="Node000004" href="$system_8c.html#a71d078a24d29441a06ad1eb4b4c7177d" title="Erases the complete Flash." alt="" coords="507,132,574,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="56,435,66,401,85,357,112,311,148,270,492,158,494,163,151,274,116,314,89,360,71,403,61,436"/>
+<area shape="rect" id="Node000012" href="$can_8c.html#a412c28559258a2cd5e5b1b0f09320935" title="This Function Enable or Disable the filter bank on the corresponding sensor." alt="" coords="171,487,252,513"/>
+<area shape="poly" id="edge18_Node000001_Node000012" title=" " alt="" coords="98,461,157,480,156,485,97,466"/>
+<area shape="rect" id="Node000013" href="$pwm_8c.html#a06cab9bc7173599612154c458f1d7e1f" title="Disable the PWM generation of a all timer and all channel." alt="" coords="343,537,438,564"/>
+<area shape="poly" id="edge19_Node000001_Node000013" title=" " alt="" coords="102,444,185,448,230,457,274,472,290,482,300,493,309,505,323,516,342,528,339,532,319,521,305,509,296,497,286,486,272,477,229,462,184,454,102,449"/>
+<area shape="rect" id="Node000014" href="$bcu_8h.html#a4a250cee8e18f0011e79f4deeadc8964" title="This function writes the customized config for the Port in the Flash." alt="" coords="170,537,253,564"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="71,461,106,491,151,523,160,528,157,533,148,528,103,496,68,465"/>
+<area shape="rect" id="Node000015" href="$bcu_8c.html#a742b170a6b57468bd180d2e13af18a55" title="This function writes the customized config for the Port Measure in the Flash." alt="" coords="158,284,265,311"/>
+<area shape="poly" id="edge21_Node000001_Node000015" title=" " alt="" coords="60,434,93,380,118,349,148,321,154,316,157,320,151,325,122,352,97,383,64,437"/>
+<area shape="rect" id="Node000019" href="$bcu_8c.html#a0ab911dd17f37a70554d16e8772c9e9a" title="This function writes the customized config for the PWM in the Flash." alt="" coords="166,335,257,361"/>
+<area shape="poly" id="edge31_Node000001_Node000019" title=" " alt="" coords="68,434,103,403,148,371,157,366,160,371,151,376,106,407,71,438"/>
+<area shape="rect" id="Node000021" href="$can_8c.html#ac5a99d23a6c8684eb655ff34459008f3" title="Reset the CAN Queue." alt="" coords="163,588,260,615"/>
+<area shape="poly" id="edge35_Node000001_Node000021" title=" " alt="" coords="64,462,97,515,122,546,151,574,157,578,154,583,148,578,118,550,93,518,60,464"/>
+<area shape="rect" id="Node000022" href="$control_8c.html#a96c2fc44f420b191b9700486423e9712" title="Set the Release Outputs if the signal is not in range the Release will be reset." alt="" coords="168,385,255,412"/>
+<area shape="poly" id="edge36_Node000001_Node000022" title=" " alt="" coords="97,433,153,415,154,420,98,438"/>
+<area shape="rect" id="Node000023" href="$measure_8c.html#a5a9f334540e8a40753b1443683b79c5e" title="This Function stops the measure timer." alt="" coords="162,639,261,665"/>
+<area shape="poly" id="edge40_Node000001_Node000023" title=" " alt="" coords="61,462,72,495,91,538,117,584,152,625,156,628,152,632,148,629,113,587,86,540,67,496,56,464"/>
+<area shape="rect" id="Node000024" href="$can_8c.html#a76f21c6be5e1eb95e2a1517789c0065b" title="This Function stops the can timer." alt="" coords="150,689,273,716"/>
+<area shape="poly" id="edge41_Node000001_Node000024" title=" " alt="" coords="59,463,68,503,84,560,112,621,130,650,152,675,155,678,151,682,148,679,126,653,107,624,79,562,63,505,54,464"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="340,132,440,159"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,143,324,143,324,148,248,148"/>
+<area shape="rect" id="Node000005" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="756,245,832,272"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="574,157,750,236,747,241,571,162"/>
+<area shape="rect" id="Node000006" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="755,360,832,387"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="558,157,623,219,767,348,764,352,620,223,554,161"/>
+<area shape="rect" id="Node000007" href="$spi_8c.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="755,5,832,32"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="553,130,582,102,620,75,681,47,739,29,741,34,683,52,623,80,586,106,557,134"/>
+<area shape="rect" id="Node000009" href="$spi_8c.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="749,81,838,108"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="559,129,587,112,621,97,678,88,733,87,734,92,679,93,622,103,590,116,562,134"/>
+<area shape="rect" id="Node000010" href="$spi_8c.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="760,132,828,159"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="574,130,621,117,661,114,701,117,745,127,744,132,701,123,661,119,622,123,575,135"/>
+<area shape="rect" id="Node000011" href="$system_8c.html#a1bf66b4e2c55b3b4b3ba26fee52252b5" title=" " alt="" coords="622,132,701,159"/>
+<area shape="poly" id="edge12_Node000004_Node000011" title=" " alt="" coords="574,143,606,143,606,148,574,148"/>
+<area shape="rect" id="Node000008" href="$app_8c.html#afe8ba5350d73be9fa87e77f461069d92" title="Send item to the back of the queue." alt="" coords="886,81,949,108"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="819,30,883,71,880,75,816,35"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="839,92,871,92,871,97,839,97"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="827,129,871,111,873,116,829,134"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="681,157,703,175,767,232,764,236,699,179,678,161"/>
+<area shape="poly" id="edge14_Node000011_Node000006" title=" " alt="" coords="673,158,780,346,775,348,668,161"/>
+<area shape="poly" id="edge15_Node000011_Node000007" title=" " alt="" coords="675,130,765,41,769,45,678,134"/>
+<area shape="poly" id="edge16_Node000011_Node000009" title=" " alt="" coords="697,129,742,112,743,117,699,134"/>
+<area shape="poly" id="edge17_Node000011_Node000010" title=" " alt="" coords="702,143,744,143,744,148,702,148"/>
+<area shape="rect" id="Node000016" href="$system_8c.html#a4c3393dd15558bb62e88d6ecb8d604d8" title="This function saves the Address in a 3 Byte&#45;Array." alt="" coords="361,284,420,311"/>
+<area shape="poly" id="edge22_Node000015_Node000016" title=" " alt="" coords="266,295,345,295,345,300,266,300"/>
+<area shape="rect" id="Node000017" href="$system_8c.html#a8ae7396995d88cc19f1ca2b9cf43705b" title="Write the customized configuration of the analog ports Measurement in the flash memory." alt="" coords="321,233,459,260"/>
+<area shape="poly" id="edge23_Node000015_Node000017" title=" " alt="" coords="261,281,325,262,327,267,262,286"/>
+<area shape="rect" id="Node000018" href="$system_8c.html#a381199e221a7c089b35760eadbc6577e" title="Write to Flash ive back an error." alt="" coords="509,233,572,260"/>
+<area shape="poly" id="edge24_Node000017_Node000018" title=" " alt="" coords="460,244,493,244,493,249,460,249"/>
+<area shape="poly" id="edge25_Node000018_Node000005" title=" " alt="" coords="573,253,622,263,683,265,740,262,740,268,683,271,621,268,572,258"/>
+<area shape="poly" id="edge26_Node000018_Node000006" title=" " alt="" coords="570,258,752,350,750,355,568,263"/>
+<area shape="poly" id="edge27_Node000018_Node000007" title=" " alt="" coords="545,232,579,155,600,115,620,87,648,66,678,50,739,28,741,33,681,54,650,71,624,91,605,117,583,157,550,234"/>
+<area shape="poly" id="edge28_Node000018_Node000009" title=" " alt="" coords="544,232,569,175,591,144,620,118,647,104,676,95,733,89,734,94,677,101,649,109,623,122,595,147,574,178,549,234"/>
+<area shape="poly" id="edge29_Node000018_Node000010" title=" " alt="" coords="572,232,744,162,746,167,574,237"/>
+<area shape="poly" id="edge30_Node000018_Node000011" title=" " alt="" coords="556,231,631,167,635,171,560,235"/>
+<area shape="poly" id="edge32_Node000019_Node000016" title=" " alt="" coords="257,333,345,307,346,312,258,338"/>
+<area shape="rect" id="Node000020" href="$system_8c.html#a52637391fa1df5f93b71985beae6c85f" title="Write the customized configuration of the control Modul in the flash memory." alt="" coords="329,335,451,361"/>
+<area shape="poly" id="edge33_Node000019_Node000020" title=" " alt="" coords="258,345,314,345,314,351,258,351"/>
+<area shape="poly" id="edge34_Node000020_Node000018" title=" " alt="" coords="435,332,458,320,490,296,516,270,520,274,493,300,461,325,438,337"/>
+<area shape="poly" id="edge37_Node000022_Node000005" title=" " alt="" coords="255,395,349,388,459,371,539,350,618,324,745,276,747,281,619,329,540,355,460,376,350,393,255,400"/>
+<area shape="poly" id="edge38_Node000022_Node000006" title=" " alt="" coords="256,405,321,415,447,422,573,415,661,401,739,384,740,390,662,407,574,420,447,428,321,420,255,410"/>
+<area shape="poly" id="edge39_Node000022_Node000013" title=" " alt="" coords="248,410,275,429,292,452,299,474,307,495,323,517,337,527,334,532,319,521,302,498,294,476,287,455,271,433,245,415"/>
+</map>

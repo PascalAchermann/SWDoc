@@ -1,0 +1,23 @@
+<map id="StartNewMeasure" name="StartNewMeasure">
+<area shape="rect" id="Node000001" title="This Function starts a new measure cycle." alt="" coords="5,56,130,83"/>
+<area shape="rect" id="Node000002" href="$a00068.html#a2b4b60bd2871ab80090b0682c4f53789" title="Analog Value protection Take mutex." alt="" coords="189,5,279,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,53,173,34,175,39,115,58"/>
+<area shape="rect" id="Node000003" href="$a00068.html#aaada862b719ffaecabde8f754ead6e1a" title="Analog Value protection Give mutex." alt="" coords="183,56,285,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,67,168,67,168,72,130,72"/>
+<area shape="rect" id="Node000004" href="$a00068.html#a437344a6bdccbb89475deb2899566e80" title="This functions starts a SPI communication with the external AD Converter." alt="" coords="178,107,290,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="115,81,174,99,172,104,113,86"/>
+<area shape="rect" id="Node000005" href="$a00062.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="345,5,421,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="269,104,288,93,303,80,312,68,336,42,341,38,344,43,340,46,316,72,307,84,292,97,272,108"/>
+<area shape="rect" id="Node000006" href="$a00062.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="344,56,421,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="275,104,328,85,330,90,276,109"/>
+<area shape="rect" id="Node000007" href="$a00077.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="344,107,421,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="290,117,329,117,329,123,290,123"/>
+<area shape="rect" id="Node000009" href="$a00077.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="338,157,427,184"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="276,131,328,149,326,154,275,136"/>
+<area shape="rect" id="Node000010" href="$a00077.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="349,208,417,235"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="254,132,340,194,345,197,342,202,336,198,251,136"/>
+<area shape="rect" id="Node000008" href="$a00050.html#afe8ba5350d73be9fa87e77f461069d92" title="Send item to the back of the queue." alt="" coords="475,157,538,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="418,131,462,150,460,155,416,136"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="428,168,460,168,460,173,428,173"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="416,205,460,187,462,192,418,210"/>
+</map>

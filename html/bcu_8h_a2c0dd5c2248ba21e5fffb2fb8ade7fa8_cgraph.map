@@ -1,0 +1,45 @@
+<map id="SetupPortMea" name="SetupPortMea">
+<area shape="rect" id="Node000001" title="This function Reads the Flash config for the Port Measure and set the default configuration if no con..." alt="" coords="5,360,110,387"/>
+<area shape="rect" id="Node000002" href="$system_8c.html#a5882fef510daa922fa6780df47b25791" title="Reads from Flash." alt="" coords="369,157,431,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,357,361,190,364,194,84,362"/>
+<area shape="rect" id="Node000010" href="$system_8c.html#a4c3393dd15558bb62e88d6ecb8d604d8" title="This function saves the Address in a 3 Byte&#45;Array." alt="" coords="201,436,260,463"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="91,385,187,428,185,433,89,390"/>
+<area shape="rect" id="Node000011" href="$measure_8c.html#a0ebc7563ff4bd7a200e3bd3a503973ac" title="This Function set the channel which should be read. it is protected internal with a Mutex to avoid er..." alt="" coords="351,423,448,449"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="111,380,336,422,335,427,110,385"/>
+<area shape="rect" id="Node000014" href="$system_8c.html#a3a45d3dc4d4dfa9320b2450fb08169ee" title="Write the standard configuration of the analog ports Measurement in the flash memory." alt="" coords="158,335,303,361"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="109,363,142,358,143,364,110,368"/>
+<area shape="rect" id="Node000003" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="652,5,729,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="417,155,452,128,495,100,568,64,637,35,639,40,571,69,498,105,455,133,420,159"/>
+<area shape="rect" id="Node000004" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="652,107,729,133"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="422,155,456,137,496,123,569,113,636,113,636,118,569,118,497,128,458,142,424,159"/>
+<area shape="rect" id="Node000005" href="$spi_8c.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="652,157,729,184"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="430,158,496,143,547,138,598,143,637,151,636,156,597,148,547,144,497,148,432,163"/>
+<area shape="rect" id="Node000007" href="$spi_8c.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="646,208,735,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="432,177,497,193,630,213,630,218,496,199,431,182"/>
+<area shape="rect" id="Node000008" href="$spi_8c.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="656,284,725,311"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="429,182,497,215,643,276,641,281,495,220,427,187"/>
+<area shape="rect" id="Node000009" href="$system_8c.html#a1bf66b4e2c55b3b4b3ba26fee52252b5" title=" " alt="" coords="507,157,587,184"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="431,168,492,168,492,173,431,173"/>
+<area shape="rect" id="Node000006" href="$app_8c.html#afe8ba5350d73be9fa87e77f461069d92" title="Send item to the back of the queue." alt="" coords="783,208,845,235"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="726,182,770,200,768,205,724,187"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="735,219,767,219,767,224,735,224"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="712,281,777,241,779,245,715,286"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="559,155,664,42,668,45,563,159"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="586,154,636,136,638,141,588,159"/>
+<area shape="poly" id="edge13_Node000009_Node000005" title=" " alt="" coords="587,168,636,168,636,173,587,173"/>
+<area shape="poly" id="edge14_Node000009_Node000007" title=" " alt="" coords="588,182,637,200,635,205,586,187"/>
+<area shape="poly" id="edge15_Node000009_Node000008" title=" " alt="" coords="565,182,664,272,661,276,562,186"/>
+<area shape="rect" id="Node000012" href="$measure_8c.html#a2b4b60bd2871ab80090b0682c4f53789" title="Analog Value protection Take mutex." alt="" coords="502,512,592,539"/>
+<area shape="poly" id="edge18_Node000011_Node000012" title=" " alt="" coords="422,448,498,498,505,502,503,507,495,502,419,452"/>
+<area shape="rect" id="Node000013" href="$measure_8c.html#aaada862b719ffaecabde8f754ead6e1a" title="Analog Value protection Give mutex." alt="" coords="496,461,598,488"/>
+<area shape="poly" id="edge19_Node000011_Node000013" title=" " alt="" coords="449,446,482,455,481,460,448,451"/>
+<area shape="poly" id="edge21_Node000014_Node000011" title=" " alt="" coords="266,360,304,378,365,412,362,417,302,382,264,364"/>
+<area shape="rect" id="Node000015" href="$system_8c.html#a381199e221a7c089b35760eadbc6577e" title="Write to Flash ive back an error." alt="" coords="368,259,431,285"/>
+<area shape="poly" id="edge22_Node000014_Node000015" title=" " alt="" coords="261,332,353,290,355,295,263,336"/>
+<area shape="poly" id="edge23_Node000015_Node000003" title=" " alt="" coords="408,257,446,195,467,151,477,132,494,111,528,85,565,63,637,32,639,37,568,68,531,89,498,115,481,135,471,153,451,197,412,259"/>
+<area shape="poly" id="edge24_Node000015_Node000004" title=" " alt="" coords="407,257,449,194,473,163,495,143,530,128,567,119,636,114,636,119,567,124,531,133,498,148,477,166,453,197,412,259"/>
+<area shape="poly" id="edge25_Node000015_Node000005" title=" " alt="" coords="431,259,636,187,638,192,433,264"/>
+<area shape="poly" id="edge26_Node000015_Node000007" title=" " alt="" coords="433,280,467,289,509,296,553,296,597,288,634,269,664,244,668,248,637,273,599,293,554,302,508,301,466,294,431,285"/>
+<area shape="poly" id="edge27_Node000015_Node000008" title=" " alt="" coords="409,285,422,309,441,339,466,368,498,390,524,400,547,403,569,400,597,390,619,377,639,359,671,322,675,325,643,363,622,381,599,394,571,405,547,409,523,405,495,394,463,372,437,342,417,312,405,287"/>
+<area shape="poly" id="edge28_Node000015_Node000009" title=" " alt="" coords="419,256,512,191,515,195,422,261"/>
+</map>

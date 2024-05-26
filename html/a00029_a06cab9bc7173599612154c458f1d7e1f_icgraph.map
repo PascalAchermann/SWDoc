@@ -1,0 +1,22 @@
+<map id="PWM_Reset" name="PWM_Reset">
+<area shape="rect" id="Node000001" title="Disable the PWM generation of a all timer and all channel." alt="" coords="717,56,813,83"/>
+<area shape="rect" id="Node000002" href="$a00056.html#a6280444563f4376ab0a405e31fb61dd3" title="Reset PWM generation on timer 1&#45;2 for channel 1&#45;3." alt="" coords="592,5,660,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="711,53,660,34,662,29,713,48"/>
+<area shape="rect" id="Node000006" href="$a00056.html#a96c2fc44f420b191b9700486423e9712" title="Set the Release Outputs if the signal is not in range the Release will be reset." alt="" coords="583,56,669,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="702,72,670,72,670,67,702,67"/>
+<area shape="rect" id="Node000007" href="$a00050.html#a1094a9e2dc4966d0da3834dd8767e3ec" title="This function read information from the Flash and load the configuration into the modules." alt="" coords="460,81,524,108"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="707,90,670,97,591,102,524,100,524,94,591,97,669,92,706,85"/>
+<area shape="rect" id="Node000003" href="$a00056.html#ad2b3dfd69a990b69a69c34b19a0e0d98" title="App Initialization Function." alt="" coords="449,31,535,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="577,31,536,38,535,33,576,25"/>
+<area shape="rect" id="Node000004" href="$a00071.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,56,164,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="433,51,165,70,164,65,433,45"/>
+<area shape="rect" id="Node000005" href="$a00065.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,56,55,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,72,55,72,55,67,87,67"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="567,61,535,55,536,50,568,56"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="568,83,524,91,523,86,567,78"/>
+<area shape="rect" id="Node000008" href="$a00050.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="328,81,401,108"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="445,97,401,97,401,92,445,92"/>
+<area shape="rect" id="Node000009" href="$a00050.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Reset the Application Queue." alt="" coords="212,81,280,108"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="313,97,281,97,281,92,313,92"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="196,86,164,79,165,74,198,81"/>
+</map>

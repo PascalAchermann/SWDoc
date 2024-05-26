@@ -1,0 +1,37 @@
+<map id="Error_Handler" name="Error_Handler">
+<area shape="rect" id="Node000001" title="This function is executed in case of error occurrence." alt="" coords="502,259,603,285"/>
+<area shape="rect" id="Node000002" href="$stm32l4xx__hal__msp_8c.html#aa30863492d5c3103e3e8ce8a63dadd07" title="ADC MSP Initialization This function configures the hardware resources used in this example." alt="" coords="309,5,438,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="544,244,535,201,517,147,490,93,473,68,453,46,436,35,439,30,456,42,477,65,495,90,522,145,540,199,550,243"/>
+<area shape="rect" id="Node000003" href="$stm32l4xx__hal__msp_8c.html#a0e553b32211877322f949b14801bbfa7" title="UART MSP Initialization This function configures the hardware resources used in this example." alt="" coords="306,56,442,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="541,245,528,211,510,171,485,131,453,97,434,85,437,81,456,93,489,128,514,168,533,209,546,243"/>
+<area shape="rect" id="Node000004" href="$analog_8c.html#acccd58aa70215a6b184ad242312ffd0c" title="App Initialization Function." alt="" coords="322,107,426,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="535,246,501,196,479,170,453,148,425,134,427,129,456,143,483,166,506,193,539,244"/>
+<area shape="rect" id="Node000007" href="$can_8c.html#a030a62a0956ab83394eb8354a0e97902" title="CAN1 initialization and Start the CAN." alt="" coords="322,157,426,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="525,250,492,223,453,198,425,187,428,182,456,194,495,219,528,246"/>
+<area shape="rect" id="Node000008" href="$analog_8c.html#a412c7f55d05196232830230c74d702b2" title="App Initialization Function." alt="" coords="322,208,426,235"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="487,256,423,238,424,233,489,251"/>
+<area shape="rect" id="Node000009" href="$main_8c.html#a07b18455c043aa6d999242217d69a0f9" title="IWDG Initialization Function." alt="" coords="121,461,227,488"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="547,301,536,337,518,378,491,419,456,452,428,466,399,477,338,489,278,490,226,486,227,481,278,485,337,483,398,472,426,462,453,447,487,415,513,376,531,335,542,300"/>
+<area shape="rect" id="Node000010" href="$spi_8c.html#af81398f9775695df0b172367651ca3e6" title="SPI Initialization Function." alt="" coords="325,259,423,285"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="487,275,423,275,423,269,487,269"/>
+<area shape="rect" id="Node000011" href="$pwm_8c.html#ad1f9d42690163f73f73e5b820c81ca14" title="Timer 1 Initialization Function." alt="" coords="325,309,423,336"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="489,293,424,311,423,306,487,288"/>
+<area shape="rect" id="Node000012" href="$pwm_8c.html#a4b8ff887fd3fdf26605e35927e4ff202" title="Timer 2 Initialization Function." alt="" coords="325,360,423,387"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="528,298,495,325,456,350,424,363,422,359,453,346,492,321,525,294"/>
+<area shape="rect" id="Node000013" href="$usart_8c.html#a57d1167735baafab8e3288526c424929" title="USART1 Initialization Function." alt="" coords="293,411,454,437"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="539,300,506,351,483,378,456,401,434,412,432,408,453,396,479,374,501,348,535,298"/>
+<area shape="rect" id="Node000014" href="$main_8c.html#a70af21c671abfcc773614a9a4f63d920" title="System Clock Configuration." alt="" coords="103,512,245,539"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="550,301,542,346,525,400,497,453,478,477,456,497,432,512,406,523,351,537,295,541,245,539,245,533,295,535,350,531,404,518,429,507,453,493,474,473,493,450,520,397,536,345,545,300"/>
+<area shape="rect" id="Node000005" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="143,284,205,311"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="308,140,295,147,257,181,225,219,184,285,180,282,221,216,253,177,291,143,306,135"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,461,55,488"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="154,324,44,462,40,459,150,321"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="308,191,294,198,263,219,233,243,189,285,186,282,230,239,260,215,292,194,306,187"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="312,243,294,249,206,286,204,281,292,244,311,238"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="106,477,55,477,55,472,106,472"/>
+<area shape="poly" id="edge13_Node000010_Node000005" title=" " alt="" coords="309,283,205,296,205,291,309,277"/>
+<area shape="poly" id="edge15_Node000011_Node000005" title=" " alt="" coords="309,317,205,304,205,299,309,312"/>
+<area shape="poly" id="edge17_Node000012_Node000005" title=" " alt="" coords="311,357,292,350,204,314,206,309,294,346,312,352"/>
+<area shape="poly" id="edge19_Node000013_Node000005" title=" " alt="" coords="303,407,292,401,260,380,230,356,186,313,189,309,233,352,263,376,294,396,306,402"/>
+<area shape="poly" id="edge21_Node000014_Node000006" title=" " alt="" coords="119,509,54,486,56,481,120,504"/>
+</map>

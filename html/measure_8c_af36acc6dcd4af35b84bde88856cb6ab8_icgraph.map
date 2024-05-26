@@ -1,0 +1,52 @@
+<map id="AnalogTTLock" name="AnalogTTLock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1259,309,1363,336"/>
+<area shape="rect" id="Node000002" href="$measure_8c.html#a49750fcd702f1219409b7a9ffbd77368" title="Get the current tank temperature." alt="" coords="1112,233,1211,260"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1268,304,1189,262,1191,258,1271,299"/>
+<area shape="rect" id="Node000017" href="$measure_8c.html#a797efce63335c2d6cbe84a76dc1b9eba" title="Set the tank temperature to a new value." alt="" coords="650,436,749,462"/>
+<area shape="poly" id="edge25_Node000001_Node000017" title=" " alt="" coords="1244,339,750,441,749,436,1243,333"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#ae046468c0da5c3a0448e74aa7c9ff430" title="This function is the control loop for the BCU, when the pump is needed." alt="" coords="953,182,1064,209"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1104,230,1050,212,1052,207,1105,225"/>
+<area shape="rect" id="Node000005" href="$app_8c.html#a6d7bf2ac2364bd030f5e0f50105073a3" title="Run the system in the main operational mode." alt="" coords="490,132,590,158"/>
+<area shape="poly" id="edge23_Node000002_Node000005" title=" " alt="" coords="1140,222,1102,175,1048,118,981,62,943,39,904,21,853,9,802,11,751,23,701,42,656,66,616,91,559,133,556,129,613,86,653,61,699,37,749,18,801,6,854,4,906,16,946,34,984,58,1052,114,1106,171,1144,219"/>
+<area shape="rect" id="Node000012" href="$bcu_8c.html#a029dd10d21133439a5512bb7ee3ed66d" title=" " alt="" coords="797,284,905,310"/>
+<area shape="poly" id="edge24_Node000002_Node000012" title=" " alt="" coords="1097,259,905,291,905,286,1096,254"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#ad6f094c81d90b7dadd720d6b032a57a6" title="Activate control based on tank volume difference." alt="" coords="662,81,738,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="978,175,944,150,904,129,861,115,816,106,738,98,739,93,817,101,862,110,906,124,947,145,982,170"/>
+<area shape="poly" id="edge11_Node000003_Node000005" title=" " alt="" coords="937,191,590,153,591,148,937,185"/>
+<area shape="rect" id="Node000010" href="$app_8c.html#ac042b826215d1a1cc0f17e28c2fa01b2" title="This function sets the new reference value for the Tank." alt="" coords="499,208,581,234"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="937,202,582,221,581,216,937,197"/>
+<area shape="rect" id="Node000011" href="$app_8c.html#ab3ec4c5dac6aa15eff2d8a7fb17a8cfe" title="Starts the control process." alt="" coords="807,30,895,57"/>
+<area shape="poly" id="edge12_Node000003_Node000011" title=" " alt="" coords="987,171,950,125,903,78,877,60,880,55,906,74,954,122,991,168"/>
+<area shape="poly" id="edge14_Node000003_Node000012" title=" " alt="" coords="980,221,906,274,885,285,882,281,903,269,977,217"/>
+<area shape="rect" id="Node000014" href="$app_8c.html#afa0bd8a9fbb18dccdecdaaccfa5e3141" title="Stops the control operation." alt="" coords="807,233,895,260"/>
+<area shape="poly" id="edge17_Node000003_Node000014" title=" " alt="" coords="951,217,896,235,894,230,949,212"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="648,113,585,134,583,128,646,108"/>
+<area shape="rect" id="Node000006" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="356,284,429,310"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="510,170,480,197,438,244,406,285,402,281,434,241,476,194,507,166"/>
+<area shape="rect" id="Node000007" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="226,293,294,320"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="341,303,295,306,294,301,341,298"/>
+<area shape="rect" id="Node000008" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,337,164,364"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="212,326,165,342,164,337,210,321"/>
+<area shape="rect" id="Node000009" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,337,55,364"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="87,353,55,353,55,348,87,348"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="500,244,421,285,419,281,497,240"/>
+<area shape="poly" id="edge13_Node000011_Node000004" title=" " alt="" coords="795,65,739,84,737,79,793,60"/>
+<area shape="rect" id="Node000013" href="$app_8c.html#a3ded7d74e59ec620032bef339ca2cd1b" title="Processes incoming CAN messages." alt="" coords="478,360,602,386"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="829,323,794,352,750,375,713,384,674,388,602,386,603,380,674,383,712,379,748,370,791,348,826,319"/>
+<area shape="poly" id="edge16_Node000013_Node000006" title=" " alt="" coords="497,354,419,313,421,308,500,350"/>
+<area shape="poly" id="edge20_Node000014_Node000005" title=" " alt="" coords="792,230,583,161,584,156,794,225"/>
+<area shape="rect" id="Node000015" href="$bcu_8c.html#ad19eaee2ae8d229ef81f6e38037c02b6" title="Handles failure list requests." alt="" coords="659,334,740,361"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="805,269,799,274,785,286,775,298,751,324,732,336,730,332,748,320,771,295,781,283,796,269,802,265"/>
+<area shape="rect" id="Node000016" href="$app_8c.html#ac0662e044d34f9404cf8b7a95348f2ed" title="Puts the system into sleep mode." alt="" coords="657,284,743,310"/>
+<area shape="poly" id="edge21_Node000014_Node000016" title=" " alt="" coords="795,268,743,285,741,280,794,263"/>
+<area shape="poly" id="edge19_Node000015_Node000013" title=" " alt="" coords="644,359,603,366,602,360,643,354"/>
+<area shape="poly" id="edge22_Node000016_Node000006" title=" " alt="" coords="641,300,429,300,429,294,641,294"/>
+<area shape="poly" id="edge26_Node000017_Node000013" title=" " alt="" coords="655,431,569,389,571,384,657,426"/>
+<area shape="rect" id="Node000018" href="$measure_8c.html#a7895452e00cdeba98e547b30f73a1749" title="This Function starts a new measure cycle." alt="" coords="478,422,602,449"/>
+<area shape="poly" id="edge27_Node000017_Node000018" title=" " alt="" coords="634,446,602,443,602,438,635,441"/>
+<area shape="rect" id="Node000019" href="$measure_8c.html#a1c670a1da5230da1982844e03cfde494" title=" " alt="" coords="355,400,430,426"/>
+<area shape="poly" id="edge28_Node000018_Node000019" title=" " alt="" coords="462,426,430,421,431,416,462,421"/>
+<area shape="rect" id="Node000020" href="$measure_8c.html#a32913a2fd3fbc590a2a91763acb95592" title="Initializes the measurement module." alt="" coords="212,362,307,389"/>
+<area shape="poly" id="edge29_Node000019_Node000020" title=" " alt="" coords="340,401,307,392,309,386,341,396"/>
+<area shape="poly" id="edge30_Node000020_Node000008" title=" " alt="" coords="196,366,164,359,165,354,197,360"/>
+</map>

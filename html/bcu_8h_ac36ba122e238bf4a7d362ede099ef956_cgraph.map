@@ -1,0 +1,7 @@
+<map id="SetupPWM" name="SetupPWM">
+<area shape="rect" id="Node000001" title="Set up PWM configurations based on configuration data." alt="" coords="5,5,94,32"/>
+<area shape="rect" id="Node000002" href="$control_8c.html#aa2b5bccfe7b559e70e81d4db11d37f21" title="Sets the PWM configuration for a specific output channel." alt="" coords="142,5,252,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,16,126,16,126,21,94,21"/>
+<area shape="rect" id="Node000003" href="$pwm_8c.html#adaa6449a0f5c7ca037c67fc4c3a12c71" title=" " alt="" coords="300,5,455,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,16,285,16,285,21,253,21"/>
+</map>

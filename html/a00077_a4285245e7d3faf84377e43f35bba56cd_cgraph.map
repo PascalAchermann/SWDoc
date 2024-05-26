@@ -1,0 +1,5 @@
+<map id="spiTxRx" name="spiTxRx">
+<area shape="rect" id="Node000001" title="Send and Receive SPI nonblocking." alt="" coords="5,5,74,32"/>
+<area shape="rect" id="Node000002" href="$a00050.html#afe8ba5350d73be9fa87e77f461069d92" title="Send item to the back of the queue." alt="" coords="122,5,184,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,16,106,16,106,21,74,21"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MX_SPI1_Init" name="MX_SPI1_Init">
+<area shape="rect" id="Node000001" title="SPI Initialization Function." alt="" coords="5,31,104,57"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="152,5,252,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,33,136,27,137,33,104,38"/>
+<area shape="rect" id="Node000003" href="$spi_8c.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="157,56,247,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,50,142,56,141,62,104,55"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#a72d43f87749a58cd3c3a050013d62c34" title="Adds an item to the error queue." alt="" coords="300,56,362,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="247,67,284,67,284,72,247,72"/>
+</map>

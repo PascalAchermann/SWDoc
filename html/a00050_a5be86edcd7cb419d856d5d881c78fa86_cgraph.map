@@ -1,0 +1,34 @@
+<map id="SetupPortMea" name="SetupPortMea">
+<area shape="rect" id="Node000001" title="This function Reads the Flash config for the Port Measure and set the default configuration if no con..." alt="" coords="5,208,110,235"/>
+<area shape="rect" id="Node000002" href="$a00095.html#a5882fef510daa922fa6780df47b25791" title="Reads from Flash." alt="" coords="175,132,238,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,205,164,164,166,169,87,210"/>
+<area shape="rect" id="Node000010" href="$a00095.html#a4c3393dd15558bb62e88d6ecb8d604d8" title="This function saves the Address in a 3 Byte&#45;Array." alt="" coords="177,208,236,235"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="110,219,161,219,161,224,110,224"/>
+<area shape="rect" id="Node000011" href="$a00068.html#a0ebc7563ff4bd7a200e3bd3a503973ac" title="This Function set the channel which should be read. it is protected internal with a Mutex to avoid er..." alt="" coords="158,284,255,311"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="87,233,166,274,164,279,84,238"/>
+<area shape="rect" id="Node000003" href="$a00062.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="459,56,535,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="217,130,252,96,276,79,302,67,338,58,375,54,443,58,443,63,375,60,339,63,304,72,279,84,255,100,221,134"/>
+<area shape="rect" id="Node000004" href="$a00062.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="458,107,536,133"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="238,140,443,122,443,127,238,145"/>
+<area shape="rect" id="Node000005" href="$a00077.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="458,157,536,184"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="238,145,443,163,443,169,238,151"/>
+<area shape="rect" id="Node000007" href="$a00077.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="452,208,542,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="239,151,438,203,436,208,237,156"/>
+<area shape="rect" id="Node000008" href="$a00077.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="463,5,531,32"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="214,130,248,86,273,62,302,43,338,29,376,20,447,14,447,19,377,25,340,34,304,48,276,66,252,89,218,133"/>
+<area shape="rect" id="Node000009" href="$a00095.html#a1bf66b4e2c55b3b4b3ba26fee52252b5" title=" " alt="" coords="314,81,393,108"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="237,132,299,111,301,116,239,137"/>
+<area shape="rect" id="Node000006" href="$a00050.html#afe8ba5350d73be9fa87e77f461069d92" title="Send item to the back of the queue." alt="" coords="590,157,652,184"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="536,168,574,168,574,173,536,173"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="530,205,574,187,576,192,532,210"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="528,30,543,42,565,66,583,93,610,142,605,145,579,96,561,70,540,46,525,35"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="393,85,443,76,444,81,394,90"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="394,99,443,108,442,113,393,104"/>
+<area shape="poly" id="edge13_Node000009_Node000005" title=" " alt="" coords="382,106,458,147,455,152,380,111"/>
+<area shape="poly" id="edge14_Node000009_Node000007" title=" " alt="" coords="368,107,405,148,454,194,458,197,455,202,451,198,401,152,364,110"/>
+<area shape="poly" id="edge15_Node000009_Node000008" title=" " alt="" coords="380,78,455,37,458,42,382,83"/>
+<area shape="rect" id="Node000012" href="$a00068.html#a2b4b60bd2871ab80090b0682c4f53789" title="Analog Value protection Take mutex." alt="" coords="309,284,398,311"/>
+<area shape="poly" id="edge18_Node000011_Node000012" title=" " alt="" coords="255,295,293,295,293,300,255,300"/>
+<area shape="rect" id="Node000013" href="$a00068.html#aaada862b719ffaecabde8f754ead6e1a" title="Analog Value protection Give mutex." alt="" coords="303,335,404,361"/>
+<area shape="poly" id="edge19_Node000011_Node000013" title=" " alt="" coords="248,309,299,327,297,332,247,314"/>
+</map>

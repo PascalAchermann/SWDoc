@@ -1,0 +1,43 @@
+<map id="Error_Handler" name="Error_Handler">
+<area shape="rect" id="Node000001" title="This function is executed in case of error occurrence." alt="" coords="991,259,1092,285"/>
+<area shape="rect" id="Node000002" href="$a00053.html#a7bf7ab3afb95f4ab5331918340367b55" title=" " alt="" coords="839,5,911,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1033,244,1023,201,1005,148,979,93,961,68,942,46,927,36,911,29,913,24,930,31,945,42,966,65,983,91,1010,146,1028,199,1038,243"/>
+<area shape="rect" id="Node000008" href="$a00080.html#aa30863492d5c3103e3e8ce8a63dadd07" title="ADC MSP Initialization This function configures the hardware resources used in this example." alt="" coords="811,56,940,83"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1029,245,1017,211,998,171,973,131,942,97,924,85,927,81,945,93,977,128,1003,169,1021,209,1034,243"/>
+<area shape="rect" id="Node000009" href="$a00080.html#a0e553b32211877322f949b14801bbfa7" title="UART MSP Initialization This function configures the hardware resources used in this example." alt="" coords="807,107,943,133"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1022,247,988,200,942,154,912,136,914,132,945,150,992,197,1026,244"/>
+<area shape="rect" id="Node000010" href="$a00047.html#acccd58aa70215a6b184ad242312ffd0c" title="App Initialization Function." alt="" coords="445,157,550,184"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1014,250,981,225,942,205,890,189,836,178,727,166,628,164,550,168,550,163,628,159,728,161,837,173,892,184,944,200,984,221,1017,246"/>
+<area shape="rect" id="Node000011" href="$a00053.html#a030a62a0956ab83394eb8354a0e97902" title="CAN1 initialization and Start the CAN." alt="" coords="293,208,397,235"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="976,261,943,256,788,241,634,231,398,224,398,219,634,226,788,236,944,251,976,256"/>
+<area shape="rect" id="Node000012" href="$a00047.html#a412c7f55d05196232830230c74d702b2" title="App Initialization Function." alt="" coords="626,259,731,285"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="976,275,731,275,731,269,976,269"/>
+<area shape="rect" id="Node000013" href="$a00077.html#af81398f9775695df0b172367651ca3e6" title="SPI Initialization Function." alt="" coords="629,309,728,336"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="976,284,728,319,727,313,975,278"/>
+<area shape="rect" id="Node000014" href="$a00074.html#ad1f9d42690163f73f73e5b820c81ca14" title="Timer 1 Initialization Function." alt="" coords="296,360,394,387"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="995,294,944,312,868,331,789,347,634,366,496,375,395,377,395,371,496,369,633,361,788,341,867,326,943,307,993,289"/>
+<area shape="rect" id="Node000015" href="$a00074.html#a4b8ff887fd3fdf26605e35927e4ff202" title="Timer 2 Initialization Function." alt="" coords="448,411,547,437"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="1029,301,996,350,972,375,945,394,893,416,839,431,784,441,729,445,627,444,547,435,548,430,627,438,729,440,783,435,838,426,892,411,942,390,969,371,992,347,1025,298"/>
+<area shape="rect" id="Node000016" href="$a00101.html#a57d1167735baafab8e3288526c424929" title="USART1 Initialization Function." alt="" coords="598,461,759,488"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="1035,301,1023,335,1005,375,979,413,945,445,901,467,853,480,804,485,759,486,759,480,804,480,852,474,899,462,942,440,975,410,1000,372,1019,333,1030,299"/>
+<area shape="rect" id="Node000017" href="$a00065.html#a70af21c671abfcc773614a9a4f63d920" title="System Clock Configuration." alt="" coords="103,436,245,463"/>
+<area shape="poly" id="edge23_Node000001_Node000017" title=" " alt="" coords="1039,301,1029,344,1012,396,985,447,967,470,945,490,911,512,880,526,850,534,820,536,757,532,680,528,496,528,414,521,334,505,264,485,209,466,211,461,265,480,336,500,415,516,496,523,680,523,758,527,820,531,849,528,878,521,908,508,942,486,963,467,980,444,1007,394,1024,343,1034,300"/>
+<area shape="rect" id="Node000003" href="$a00050.html#a1094a9e2dc4966d0da3834dd8767e3ec" title="This function read information from the Flash and load the configuration into the modules." alt="" coords="647,19,710,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="824,25,710,33,710,27,823,19"/>
+<area shape="rect" id="Node000004" href="$a00050.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="461,44,534,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="632,41,534,55,534,50,631,36"/>
+<area shape="rect" id="Node000005" href="$a00050.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Reset the Application Queue." alt="" coords="311,56,379,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="446,64,380,69,379,64,445,59"/>
+<area shape="rect" id="Node000006" href="$a00071.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="143,309,205,336"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="328,97,186,311,182,308,324,95"/>
+<area shape="rect" id="Node000007" href="$a00065.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,411,55,437"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="143,347,52,412,49,408,140,343"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="430,170,362,177,327,185,294,198,258,223,227,254,185,311,181,307,223,251,254,219,292,194,325,180,361,171,429,165"/>
+<area shape="poly" id="edge12_Node000011_Node000006" title=" " alt="" coords="309,245,199,311,197,307,307,241"/>
+<area shape="poly" id="edge14_Node000012_Node000006" title=" " alt="" coords="611,279,465,290,293,307,206,320,205,315,293,301,465,284,611,273"/>
+<area shape="poly" id="edge16_Node000013_Node000006" title=" " alt="" coords="614,325,205,325,205,320,614,320"/>
+<area shape="poly" id="edge18_Node000014_Node000006" title=" " alt="" coords="282,358,204,334,206,329,283,352"/>
+<area shape="poly" id="edge20_Node000015_Node000006" title=" " alt="" coords="433,426,364,419,292,401,262,388,234,371,190,339,193,334,237,367,265,383,294,396,365,414,433,421"/>
+<area shape="poly" id="edge22_Node000016_Node000006" title=" " alt="" coords="582,481,516,479,441,471,365,455,292,429,258,409,228,384,184,338,188,335,231,380,261,405,294,424,366,450,442,466,516,474,582,476"/>
+<area shape="poly" id="edge24_Node000017_Node000007" title=" " alt="" coords="87,437,54,431,55,426,88,431"/>
+</map>

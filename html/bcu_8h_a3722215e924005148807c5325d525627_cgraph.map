@@ -1,0 +1,5 @@
+<map id="SetupMeasure" name="SetupMeasure">
+<area shape="rect" id="Node000001" title="Set up the measurement modes for tank pressure, tank temperature, and ambient pressure based on confi..." alt="" coords="5,5,111,32"/>
+<area shape="rect" id="Node000002" href="$measure_8c.html#a65657f97414b70ad00af8b5384f2ebda" title="Set the measurement modes for tank pressure, tank temperature, and ambient pressure." alt="" coords="159,5,318,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,16,143,16,143,21,111,21"/>
+</map>

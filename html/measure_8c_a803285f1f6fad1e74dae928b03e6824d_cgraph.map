@@ -1,0 +1,18 @@
+<map id="StartConversion" name="StartConversion">
+<area shape="rect" id="Node000001" title="Starts an analog&#45;to&#45;digital conversion." alt="" coords="5,132,118,159"/>
+<area shape="rect" id="Node000002" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="172,5,249,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,130,112,88,164,42,169,38,172,43,167,46,115,92,77,133"/>
+<area shape="rect" id="Node000003" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="172,56,249,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="88,129,168,88,170,93,91,134"/>
+<area shape="rect" id="Node000004" href="$spi_8c.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="172,107,249,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="118,133,156,126,157,132,119,138"/>
+<area shape="rect" id="Node000005" href="$app_8c.html#a72d43f87749a58cd3c3a050013d62c34" title="Adds an item to the error queue." alt="" coords="303,183,365,209"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="119,153,288,185,287,190,118,158"/>
+<area shape="rect" id="Node000006" href="$spi_8c.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="166,208,255,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="91,157,170,198,168,203,88,162"/>
+<area shape="rect" id="Node000007" href="$spi_8c.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="176,259,245,285"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="77,157,115,198,167,245,172,248,169,252,164,249,112,202,73,161"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="235,132,299,172,297,176,232,136"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="255,210,287,203,288,208,256,215"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="235,256,254,244,298,216,301,220,256,249,237,260"/>
+</map>

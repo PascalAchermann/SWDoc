@@ -1,0 +1,33 @@
+<map id="stm32l4xx_hal_conf.h" name="stm32l4xx_hal_conf.h">
+<area shape="rect" id="Node000001" title="HAL configuration template file. This file should be copied to the application folder and renamed to ..." alt="" coords="1200,5,1347,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,147,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1200,24,764,40,468,58,162,82,162,77,467,52,764,35,1199,19"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="170,80,318,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1199,25,831,44,586,60,333,82,333,77,586,55,831,39,1199,20"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="342,80,490,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1199,27,900,47,506,82,505,77,900,42,1199,22"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="514,80,673,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1199,30,689,82,688,77,1199,24"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="697,80,842,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1200,33,858,82,857,77,1199,28"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="865,80,1010,107"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1215,35,1012,79,1011,74,1214,30"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1033,80,1178,107"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1245,35,1150,76,1148,71,1243,30"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1201,80,1346,107"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1276,33,1276,64,1271,64,1271,33"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1370,80,1521,107"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1304,30,1402,71,1400,76,1302,35"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1544,80,1693,107"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1334,30,1544,74,1543,79,1333,35"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1718,80,1861,107"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1348,28,1703,77,1702,82,1347,33"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1885,80,2025,107"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1348,24,1577,45,1870,77,1869,82,1576,50,1347,29"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="2049,80,2191,107"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1347,22,1643,42,2034,77,2033,82,1643,47,1347,27"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="2215,80,2361,107"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1348,20,1710,39,1951,55,2200,77,2200,82,1951,61,1710,44,1347,26"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="2385,80,2540,107"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1348,19,1777,36,2069,53,2370,77,2369,82,2069,59,1777,42,1347,25"/>
+</map>

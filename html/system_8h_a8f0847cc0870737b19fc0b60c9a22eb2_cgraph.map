@@ -1,0 +1,30 @@
+<map id="setStandConPWM" name="setStandConPWM">
+<area shape="rect" id="Node000001" title="Write the standard configuration of the control Modul in the flash memory." alt="" coords="5,132,135,159"/>
+<area shape="rect" id="Node000002" href="$control_8c.html#ad521a8e30305b1db558fdcf3279e0932" title="Set the configuration of the control module." alt="" coords="183,56,278,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,129,186,87,188,92,101,134"/>
+<area shape="rect" id="Node000004" href="$system_8c.html#a381199e221a7c089b35760eadbc6577e" title="Write to Flash ive back an error." alt="" coords="199,157,262,184"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="135,153,184,161,183,166,135,158"/>
+<area shape="rect" id="Node000003" href="$pwm_8c.html#adaa6449a0f5c7ca037c67fc4c3a12c71" title=" " alt="" coords="326,5,481,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,53,340,34,342,39,279,58"/>
+<area shape="rect" id="Node000005" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="536,240,612,267"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="264,182,327,204,430,228,521,244,520,249,429,233,325,209,262,187"/>
+<area shape="rect" id="Node000006" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="535,303,613,329"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="248,182,282,212,327,242,377,263,428,281,521,304,519,309,427,286,375,268,325,246,279,217,244,187"/>
+<area shape="rect" id="Node000007" href="$spi_8c.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="535,63,613,89"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="252,154,285,135,325,117,376,103,428,91,520,78,521,83,429,96,377,108,327,123,288,140,254,159"/>
+<area shape="rect" id="Node000009" href="$spi_8c.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="529,113,619,140"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="262,158,326,143,425,131,514,125,514,131,425,136,326,148,263,163"/>
+<area shape="rect" id="Node000010" href="$spi_8c.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="540,164,608,191"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="263,178,326,193,404,199,481,193,524,186,525,192,482,199,404,205,326,199,262,184"/>
+<area shape="rect" id="Node000011" href="$system_8c.html#a1bf66b4e2c55b3b4b3ba26fee52252b5" title=" " alt="" coords="364,157,443,184"/>
+<area shape="poly" id="edge12_Node000004_Node000011" title=" " alt="" coords="263,168,349,168,349,173,263,173"/>
+<area shape="rect" id="Node000008" href="$app_8c.html#afe8ba5350d73be9fa87e77f461069d92" title="Send item to the back of the queue." alt="" coords="667,113,729,140"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="609,87,653,106,651,111,607,92"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="619,124,651,124,651,129,619,129"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="607,161,651,143,653,148,609,166"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="434,182,532,230,530,235,432,187"/>
+<area shape="poly" id="edge14_Node000011_Node000006" title=" " alt="" coords="422,182,531,277,547,290,543,294,528,281,419,186"/>
+<area shape="poly" id="edge15_Node000011_Node000007" title=" " alt="" coords="428,154,534,95,536,100,431,159"/>
+<area shape="poly" id="edge16_Node000011_Node000009" title=" " alt="" coords="443,158,513,140,515,145,445,163"/>
+<area shape="poly" id="edge17_Node000011_Node000010" title=" " alt="" coords="444,170,525,173,524,178,444,175"/>
+</map>

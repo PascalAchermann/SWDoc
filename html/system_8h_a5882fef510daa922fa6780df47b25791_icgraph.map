@@ -1,0 +1,31 @@
+<map id="ReadFl" name="ReadFl">
+<area shape="rect" id="Node000001" title="Reads from Flash." alt="" coords="940,81,1002,108"/>
+<area shape="rect" id="Node000002" href="$bcu_8c.html#ad19eaee2ae8d229ef81f6e38037c02b6" title="Handles failure list requests." alt="" coords="788,19,869,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="924,77,859,48,862,43,926,72"/>
+<area shape="rect" id="Node000008" href="$system_8c.html#a760f66782a20f7cf42dcc727c8786adf" title="Read configuration data from a storage device and copy it to the provided buffer." alt="" coords="765,81,892,108"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="924,97,892,97,892,92,924,92"/>
+<area shape="rect" id="Node000012" href="$system_8c.html#a2c11d3b6b48df11909543d42e3c1aa6c" title=" " alt="" coords="768,157,889,184"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="932,118,857,159,854,154,929,114"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#a3ded7d74e59ec620032bef339ca2cd1b" title="Processes incoming CAN messages." alt="" coords="593,5,717,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="772,30,718,26,718,21,773,25"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="328,107,401,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="578,20,514,27,481,35,450,46,428,60,408,76,378,108,374,105,404,72,425,55,448,42,479,30,513,22,577,14"/>
+<area shape="rect" id="Node000005" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="212,107,280,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="313,123,281,123,281,117,313,117"/>
+<area shape="rect" id="Node000006" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,107,164,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="197,123,164,123,164,117,197,117"/>
+<area shape="rect" id="Node000007" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,107,55,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="87,123,55,123,55,117,87,117"/>
+<area shape="rect" id="Node000009" href="$bcu_8c.html#ac3dda7769238b7cfae22ede98e16f763" title="Writes customized configuration data to flash memory." alt="" coords="449,56,545,83"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="750,91,545,76,545,70,750,86"/>
+<area shape="rect" id="Node000010" href="$app_8c.html#a1094a9e2dc4966d0da3834dd8767e3ec" title="Initialize the system during startup." alt="" coords="624,107,687,133"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="750,109,688,118,687,113,750,103"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="447,91,402,109,400,104,445,86"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="608,123,401,123,401,117,608,117"/>
+<area shape="rect" id="Node000011" href="$app_8c.html#ac0662e044d34f9404cf8b7a95348f2ed" title="Puts the system into sleep mode." alt="" coords="454,157,540,184"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="610,137,541,159,540,154,608,132"/>
+<area shape="poly" id="edge13_Node000011_Node000004" title=" " alt="" coords="445,154,400,136,402,131,447,149"/>
+<area shape="rect" id="Node000013" href="$app_8c.html#a9a66f3620567543476df33e786486c01" title="Handles errors received from the error queue." alt="" coords="465,208,529,235"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="753,185,530,219,529,214,753,179"/>
+<area shape="poly" id="edge16_Node000013_Node000004" title=" " alt="" coords="453,202,447,198,407,166,377,135,380,132,411,162,450,194,456,198"/>
+</map>

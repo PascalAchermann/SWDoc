@@ -1,0 +1,11 @@
+<map id="loadCapacitor" name="loadCapacitor">
+<area shape="rect" id="Node000001" title="This fuctions check if the capacitors are loaded. It starts the load process and send CAN msg." alt="" coords="5,56,106,83"/>
+<area shape="rect" id="Node000002" href="$can_8c.html#adf684b085d5cdf85e92581b5e37b9a1d" title="Sends a CAN message." alt="" coords="154,5,226,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,53,138,35,140,40,94,58"/>
+<area shape="rect" id="Node000003" href="$analog_8c.html#a946992b1a38e0049d5cfe0cd1c4a2cd9" title="Get the input Value on the ADC." alt="" coords="157,56,223,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,67,141,67,141,72,106,72"/>
+<area shape="rect" id="Node000005" href="$analog_8c.html#ac4a51847a4d0dc35b4a609888276350b" title="Set an output Value on the DAC." alt="" coords="157,107,223,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="94,81,143,100,141,105,92,86"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#a72d43f87749a58cd3c3a050013d62c34" title="Adds an item to the error queue." alt="" coords="274,56,336,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="223,67,259,67,259,72,223,72"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="C:/BAT/BCU_Controller/02_Software/01_SW_BCU/Core/Inc/spi.h" name="C:/BAT/BCU_Controller/02_Software/01_SW_BCU/Core/Inc/spi.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="184,5,361,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,112,70,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,67,85,109,84,104,195,62"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="94,112,168,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,67,165,106,162,101,225,62"/>
+<area shape="rect" id="Node000004" href="$a00020.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="193,112,253,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="259,66,240,100,235,97,254,63"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="277,112,366,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="290,63,309,97,305,100,286,66"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="390,112,483,139"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="327,62,401,102,398,107,324,67"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="507,112,582,139"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="361,62,492,104,491,109,360,67"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="165,187,281,213"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="226,139,226,171,220,171,220,139"/>
+</map>

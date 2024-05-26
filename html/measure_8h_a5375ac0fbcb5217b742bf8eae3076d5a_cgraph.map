@@ -1,0 +1,7 @@
+<map id="getNewMeasureTankPres" name="getNewMeasureTankPres">
+<area shape="rect" id="Node000001" title="Checks if a new measurement of tank pressure is available." alt="" coords="5,31,175,57"/>
+<area shape="rect" id="Node000002" href="$measure_8c.html#a32e1edeab2e56cce11ac5a2245a8134f" title="Analog Value protection Take mutex." alt="" coords="229,5,334,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,30,213,25,214,30,176,35"/>
+<area shape="rect" id="Node000003" href="$measure_8c.html#abc539a112aa3a94095e16c5fe17d50c2" title="Analog Value protection Give mutex." alt="" coords="223,56,340,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,53,208,57,207,62,175,58"/>
+</map>

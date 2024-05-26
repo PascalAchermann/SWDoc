@@ -1,0 +1,17 @@
+<map id="stopControl" name="stopControl">
+<area shape="rect" id="Node000001" title="This function stops the control. It also disable the release of the signals." alt="" coords="5,81,93,108"/>
+<area shape="rect" id="Node000002" href="$can_8c.html#adf684b085d5cdf85e92581b5e37b9a1d" title="Put a msg in the Mailbox of the CAN Controller." alt="" coords="148,19,220,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,78,138,50,141,55,81,83"/>
+<area shape="rect" id="Node000004" href="$control_8c.html#a96c2fc44f420b191b9700486423e9712" title="Set the Release Outputs if the signal is not in range the Release will be reset." alt="" coords="141,81,227,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="93,92,125,92,125,97,93,97"/>
+<area shape="rect" id="Node000008" href="$app_8c.html#a642392d6ed2148e30648145bcd0d1c28" title=" " alt="" coords="146,132,222,159"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="88,106,133,124,131,129,86,111"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="275,5,375,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="220,26,259,22,260,28,221,31"/>
+<area shape="rect" id="Node000005" href="$gpio_8c.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="287,56,363,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="227,84,271,76,272,81,228,90"/>
+<area shape="rect" id="Node000006" href="$gpio_8c.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="287,107,364,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="228,100,271,108,270,113,227,105"/>
+<area shape="rect" id="Node000007" href="$pwm_8c.html#a06cab9bc7173599612154c458f1d7e1f" title="Disable the PWM generation of a all timer and all channel." alt="" coords="278,157,373,184"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="211,106,276,143,285,148,282,152,274,148,208,111"/>
+</map>

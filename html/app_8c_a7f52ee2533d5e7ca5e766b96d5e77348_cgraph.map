@@ -1,0 +1,7 @@
+<map id="controlMotor" name="controlMotor">
+<area shape="rect" id="Node000001" title="Set the motor in the correct State based on certain conditions." alt="" coords="5,31,99,57"/>
+<area shape="rect" id="Node000002" href="$can_8c.html#adf684b085d5cdf85e92581b5e37b9a1d" title="Sends a CAN message." alt="" coords="149,5,221,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,32,133,26,134,31,100,38"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#a642392d6ed2148e30648145bcd0d1c28" title="Set the speed of the motor." alt="" coords="147,56,223,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,50,132,57,131,62,99,56"/>
+</map>

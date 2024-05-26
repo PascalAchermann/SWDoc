@@ -1,0 +1,7 @@
+<map id="setMChannel" name="setMChannel">
+<area shape="rect" id="Node000001" title="This Function set the channel which should be read. it is protected internal with a Mutex to avoid er..." alt="" coords="5,31,103,57"/>
+<area shape="rect" id="Node000002" href="$measure_8c.html#a2b4b60bd2871ab80090b0682c4f53789" title="Analog Value protection Take mutex." alt="" coords="157,5,246,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,33,141,26,142,32,104,38"/>
+<area shape="rect" id="Node000003" href="$measure_8c.html#aaada862b719ffaecabde8f754ead6e1a" title="Analog Value protection Give mutex." alt="" coords="151,56,252,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,50,136,55,135,61,103,55"/>
+</map>

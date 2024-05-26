@@ -1,0 +1,7 @@
+<map id="setTankTemp" name="setTankTemp">
+<area shape="rect" id="Node000001" title="Set the tank temperature to a new value." alt="" coords="5,31,105,57"/>
+<area shape="rect" id="Node000002" href="$measure_8c.html#af36acc6dcd4af35b84bde88856cb6ab8" title=" " alt="" coords="159,5,262,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,33,143,27,144,32,105,39"/>
+<area shape="rect" id="Node000003" href="$measure_8c.html#af5b1d517da45377ea47f7e67455ed602" title=" " alt="" coords="153,56,268,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="105,49,138,55,137,60,105,55"/>
+</map>

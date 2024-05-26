@@ -1,0 +1,31 @@
+<map id="AnalogAPUnlock" name="AnalogAPUnlock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="961,132,1080,159"/>
+<area shape="rect" id="Node000002" href="$measure_8c.html#ae9c5d59d2242734096fcadfda20a0405" title="Get the current ambient pressure." alt="" coords="816,56,913,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="976,127,893,86,895,81,979,122"/>
+<area shape="rect" id="Node000009" href="$measure_8c.html#a32913a2fd3fbc590a2a91763acb95592" title="Initializes the measurement module." alt="" coords="328,157,424,184"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="949,165,913,173,790,198,693,211,596,211,471,199,419,187,420,182,472,193,596,206,693,205,790,192,912,168,948,160"/>
+<area shape="rect" id="Node000010" href="$measure_8c.html#a5c685b9024fd394d6feb93012a23625d" title="Set the ambient pressure to a new value." alt="" coords="816,132,913,159"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="945,148,913,148,913,143,945,143"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#ad6f094c81d90b7dadd720d6b032a57a6" title="Activate control based on tank volume difference." alt="" coords="668,5,744,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="805,53,744,33,745,28,807,48"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#a6d7bf2ac2364bd030f5e0f50105073a3" title="Run the system in the main operational mode." alt="" coords="484,56,584,83"/>
+<area shape="poly" id="edge8_Node000002_Node000004" title=" " alt="" coords="801,72,585,72,585,67,801,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="654,37,583,58,581,53,653,31"/>
+<area shape="rect" id="Node000005" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="340,107,412,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="476,90,414,111,412,106,475,85"/>
+<area shape="rect" id="Node000006" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="212,107,280,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="324,123,281,123,281,117,324,117"/>
+<area shape="rect" id="Node000007" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,132,164,159"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="198,134,165,141,164,136,196,128"/>
+<area shape="rect" id="Node000008" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,132,55,159"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="87,148,55,148,55,143,87,143"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="313,167,164,151,165,146,313,162"/>
+<area shape="rect" id="Node000011" href="$app_8c.html#a3ded7d74e59ec620032bef339ca2cd1b" title="Processes incoming CAN messages." alt="" coords="472,107,596,133"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="801,143,596,127,597,122,801,138"/>
+<area shape="rect" id="Node000012" href="$measure_8c.html#a7895452e00cdeba98e547b30f73a1749" title="This Function starts a new measure cycle." alt="" coords="644,157,768,184"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="801,158,769,163,768,158,801,153"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="456,123,413,123,413,117,456,117"/>
+<area shape="rect" id="Node000013" href="$measure_8c.html#a1c670a1da5230da1982844e03cfde494" title=" " alt="" coords="497,157,571,184"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="629,173,572,173,572,168,629,168"/>
+<area shape="poly" id="edge16_Node000013_Node000009" title=" " alt="" coords="481,173,424,173,424,168,481,168"/>
+</map>

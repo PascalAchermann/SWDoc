@@ -1,0 +1,12 @@
+<map id="setHB" name="setHB">
+<area shape="rect" id="Node000001" title="Set a value in the PWM Timer Moudule if the HB is enabled and the safety signal is released." alt="" coords="5,81,63,108"/>
+<area shape="rect" id="Node000002" href="$control_8c.html#a9db5ae322fe9fbfe5348f38cc3033174" title="This function recalculate the value to be in boundrey from valmin and valmax." alt="" coords="161,5,219,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,78,109,42,144,28,146,33,112,46,54,83"/>
+<area shape="rect" id="Node000003" href="$pwm_8c.html#ab323ae0cec4f67e625bf18146587f42e" title=" " alt="" coords="111,56,269,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="63,87,95,82,96,87,64,93"/>
+<area shape="rect" id="Node000004" href="$pwm_8c.html#a130be5c16985e42236c37f9a591d8321" title="Set the val of a timer channel." alt="" coords="149,107,231,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="64,97,134,108,134,114,63,102"/>
+<area shape="rect" id="Node000005" href="$app_8c.html#afe8ba5350d73be9fa87e77f461069d92" title="Send item to the back of the queue." alt="" coords="317,132,379,159"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="52,106,78,127,112,143,161,153,212,156,302,150,302,156,212,162,160,158,110,148,75,131,48,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="231,124,302,135,301,141,230,129"/>
+</map>

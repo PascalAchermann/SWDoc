@@ -1,0 +1,11 @@
+<map id="C:/BAT/BCU_Controller/02_Software/01_SW_BCU/Core/Src/freertos.c" name="C:/BAT/BCU_Controller/02_Software/01_SW_BCU/Core/Src/freertos.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="63,5,241,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,112,99,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,66,79,104,76,100,118,62"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="123,112,181,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,64,155,96,149,96,149,64"/>
+<area shape="rect" id="Node000004" href="$a00020.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="205,112,265,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,63,214,99,211,102,177,66"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="177,187,293,213"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="237,139,237,171,232,171,232,139"/>
+</map>

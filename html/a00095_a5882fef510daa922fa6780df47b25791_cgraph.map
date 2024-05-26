@@ -1,0 +1,24 @@
+<map id="ReadFl" name="ReadFl">
+<area shape="rect" id="Node000001" title="Reads from Flash." alt="" coords="5,125,68,152"/>
+<area shape="rect" id="Node000002" href="$a00062.html#a9ff9403d81abaaf32eb5e221b9e92929" title="Reset GPIOx Pin." alt="" coords="250,5,326,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,123,74,92,114,60,175,36,234,22,235,28,176,41,117,65,78,96,50,127"/>
+<area shape="rect" id="Node000003" href="$a00062.html#abd08e12472f3cc9ae4eb84f3b6fc1587" title="Set GPIOx Pin." alt="" coords="249,63,326,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="52,123,80,102,115,85,176,73,234,70,234,76,176,78,117,91,83,107,55,127"/>
+<area shape="rect" id="Node000004" href="$a00077.html#a8fdd75058510475a2faf2f48c0bcf7ec" title="SPI Bus protection Take mutex." alt="" coords="249,125,326,152"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="68,136,234,136,234,141,68,141"/>
+<area shape="rect" id="Node000006" href="$a00077.html#a679e2cc25c6a093224f919d28dfaec80" title="SPI Bus protection Give mutex." alt="" coords="243,176,332,203"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="69,142,228,175,227,180,68,147"/>
+<area shape="rect" id="Node000007" href="$a00077.html#a4285245e7d3faf84377e43f35bba56cd" title="Send and Receive SPI nonblocking." alt="" coords="254,227,322,253"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="66,150,117,174,240,221,238,226,115,178,64,155"/>
+<area shape="rect" id="Node000008" href="$a00095.html#a1bf66b4e2c55b3b4b3ba26fee52252b5" title=" " alt="" coords="116,100,195,127"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="67,130,100,122,101,128,68,135"/>
+<area shape="rect" id="Node000005" href="$a00050.html#afe8ba5350d73be9fa87e77f461069d92" title="Send item to the back of the queue." alt="" coords="380,176,443,203"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="323,150,367,168,365,173,321,155"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="333,187,365,187,365,192,333,192"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="321,224,365,205,367,210,323,229"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="174,97,254,39,257,44,177,102"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="195,100,233,89,235,94,196,105"/>
+<area shape="poly" id="edge12_Node000008_Node000004" title=" " alt="" coords="196,118,234,126,233,131,195,124"/>
+<area shape="poly" id="edge13_Node000008_Node000006" title=" " alt="" coords="182,125,244,162,251,166,248,170,242,166,179,130"/>
+<area shape="poly" id="edge14_Node000008_Node000007" title=" " alt="" coords="168,125,200,167,245,213,248,216,245,220,241,217,196,170,164,129"/>
+</map>
