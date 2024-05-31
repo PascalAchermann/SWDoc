@@ -22,7 +22,7 @@
 <area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="539,300,506,351,483,378,456,401,434,412,432,408,453,396,479,374,501,348,535,298"/>
 <area shape="rect" id="Node000014" href="$main_8c.html#a70af21c671abfcc773614a9a4f63d920" title="System Clock Configuration." alt="" coords="103,512,245,539"/>
 <area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="550,301,542,346,525,400,497,453,478,477,456,497,432,512,406,523,351,537,295,541,245,539,245,533,295,535,350,531,404,518,429,507,453,493,474,473,493,450,520,397,536,345,545,300"/>
-<area shape="rect" id="Node000005" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="143,284,205,311"/>
+<area shape="rect" id="Node000005" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title="Platform initialization." alt="" coords="143,284,205,311"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="308,140,295,147,257,181,225,219,184,285,180,282,221,216,253,177,291,143,306,135"/>
 <area shape="rect" id="Node000006" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,461,55,488"/>
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="154,324,44,462,40,459,150,321"/>

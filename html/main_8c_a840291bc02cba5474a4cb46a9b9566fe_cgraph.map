@@ -2,7 +2,7 @@
 <area shape="rect" id="Node000001" title="The application entry point." alt="" coords="5,1120,55,1147"/>
 <area shape="rect" id="Node000002" href="$main_8c.html#a07b18455c043aa6d999242217d69a0f9" title="IWDG Initialization Function." alt="" coords="121,1120,227,1147"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,1131,106,1131,106,1136,55,1136"/>
-<area shape="rect" id="Node000004" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="143,816,205,843"/>
+<area shape="rect" id="Node000004" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title="Platform initialization." alt="" coords="143,816,205,843"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="35,1118,157,856,162,858,40,1121"/>
 <area shape="rect" id="Node000110" href="$main_8c.html#a70af21c671abfcc773614a9a4f63d920" title="System Clock Configuration." alt="" coords="103,1171,245,1197"/>
 <area shape="poly" id="edge76_Node000001_Node000110" title=" " alt="" coords="56,1139,121,1163,119,1168,54,1144"/>
@@ -32,7 +32,7 @@
 <area shape="poly" id="edge72_Node000004_Node000108" title=" " alt="" coords="183,842,198,875,222,919,254,965,295,1005,301,1009,298,1013,291,1009,250,968,217,922,193,878,178,844"/>
 <area shape="rect" id="Node000109" href="$system_8c.html#a2d83fc2a9b232bc80dde93d2f128d99a" title="App Initialization Function." alt="" coords="881,715,971,741"/>
 <area shape="poly" id="edge74_Node000004_Node000109" title=" " alt="" coords="180,814,197,788,222,756,254,724,292,700,326,694,383,692,543,697,865,720,865,725,543,702,383,697,327,699,294,705,257,728,226,759,201,791,185,817"/>
-<area shape="rect" id="Node000006" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="541,233,614,260"/>
+<area shape="rect" id="Node000006" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title="Main application task." alt="" coords="541,233,614,260"/>
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="408,286,526,257,527,262,409,292"/>
 <area shape="rect" id="Node000007" href="$bcu_8c.html#ac3dda7769238b7cfae22ede98e16f763" title="Writes customized configuration data to flash memory." alt="" coords="715,309,811,336"/>
 <area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="613,258,715,301,713,305,611,263"/>

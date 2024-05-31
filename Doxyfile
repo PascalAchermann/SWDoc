@@ -61,20 +61,20 @@ PROJECT_BRIEF          = "BCU: Buoyancy Control Unit"
 # pixels and the maximum width should not exceed 200 pixels. Doxygen will copy
 # the logo to the output directory.
 
-PROJECT_LOGO           = C:/BAT/BCU_Controller/00_Administration/00_ARIS/ARIS_space_to_grow_LOGO-white_small.png
+PROJECT_LOGO           = ./../03_Doc/Pic/ARIS_space_to_grow_LOGO-white_small.png
 
 # With the PROJECT_ICON tag one can specify an icon that is included in the tabs
 # when the HTML document is shown. Doxygen will copy the logo to the output
 # directory.
 
-PROJECT_ICON           = C:/BAT/BCU_Controller/00_Administration/00_ARIS/Batch_Nautilus.png
+PROJECT_ICON           = ./../03_Doc/Pic/Batch_Nautilus.png
 
 # The OUTPUT_DIRECTORY tag is used to specify the (relative or absolute) path
 # into which the generated documentation will be written. If a relative path is
 # entered, it will be relative to the location where doxygen was started. If
 # left blank the current directory will be used.
 
-OUTPUT_DIRECTORY       = C:/BAT/BCU_Controller/02_Software/03_Doc
+OUTPUT_DIRECTORY       = ./../03_Doc
 
 # If the CREATE_SUBDIRS tag is set to YES then doxygen will create up to 4096
 # sub-directories (in 2 levels) under the output directory of each output format
@@ -949,7 +949,7 @@ WARN_LOGFILE           =
 # spaces. See also FILE_PATTERNS and EXTENSION_MAPPING
 # Note: If this tag is empty the current directory is searched.
 
-INPUT                  = C:/BAT/BCU_Controller/02_Software/01_SW_BCU/Core
+INPUT                  = ./..//01_SW_BCU/Core
 
 # This tag can be used to specify the character encoding of the source files
 # that doxygen parses. Internally doxygen uses the UTF-8 encoding. Doxygen uses

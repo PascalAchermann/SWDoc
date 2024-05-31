@@ -8,11 +8,11 @@
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="904,55,863,47,765,33,679,25,680,20,766,28,864,41,905,49"/>
 <area shape="rect" id="Node000008" href="$bcu_8c.html#a1710e68774c85a5bdfb50d04d8f92662" title="This function writes the complete standard configuration in the Flash." alt="" coords="727,56,864,83"/>
 <area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="896,72,864,72,864,67,896,67"/>
-<area shape="rect" id="Node000004" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="328,75,401,101"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title="Main application task." alt="" coords="328,75,401,101"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="568,35,449,64,402,79,400,73,448,59,567,29"/>
 <area shape="rect" id="Node000005" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="212,75,280,101"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="313,91,281,91,281,85,313,85"/>
-<area shape="rect" id="Node000006" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,75,164,101"/>
+<area shape="rect" id="Node000006" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title="Platform initialization." alt="" coords="103,75,164,101"/>
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="197,91,164,91,164,85,197,85"/>
 <area shape="rect" id="Node000007" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,75,55,101"/>
 <area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="87,91,55,91,55,85,87,85"/>

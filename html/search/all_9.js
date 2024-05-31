@@ -12,8 +12,7 @@ var searchData=
   ['disable_5fall_9',['Disable_all',['../control_8h.html#aed7c64528cbc538018a2dd477ab95098ae9e069f4232b71f214be5cd23e11084b',1,'control.h']]],
   ['dischargecapacitor_10',['DischargeCapacitor',['../control_8h.html#a38877dc6b87a7db6bc0b2783171d2d1c',1,'DischargeCapacitor(void):&#160;control.c'],['../control_8c.html#a38877dc6b87a7db6bc0b2783171d2d1c',1,'DischargeCapacitor(void):&#160;control.c']]],
   ['documentation_11',['BCU - Software Documentation',['../index.html',1,'']]],
-  ['does_20the_20sw_12',['What does the SW?',['../index.html#autotoc_md1',1,'']]],
-  ['dual_5fio_5ffast_5fread_13',['DUAL_IO_FAST_READ',['../system_8c.html#a8a7cd737a886eabac97ed133418be8d6',1,'system.c']]],
-  ['dual_5fio_5ffast_5fread_5fcontinuous_5fmode_14',['DUAL_IO_FAST_READ_CONTINUOUS_MODE',['../system_8c.html#ac5d0f926199b2310ca7d278e90ec3f41',1,'system.c']]],
-  ['dual_5foutput_5ffast_5fread_15',['DUAL_OUTPUT_FAST_READ',['../system_8c.html#a38808e12bec3aa2813d5c332e2d2106f',1,'system.c']]]
+  ['dual_5fio_5ffast_5fread_12',['DUAL_IO_FAST_READ',['../system_8c.html#a8a7cd737a886eabac97ed133418be8d6',1,'system.c']]],
+  ['dual_5fio_5ffast_5fread_5fcontinuous_5fmode_13',['DUAL_IO_FAST_READ_CONTINUOUS_MODE',['../system_8c.html#ac5d0f926199b2310ca7d278e90ec3f41',1,'system.c']]],
+  ['dual_5foutput_5ffast_5fread_14',['DUAL_OUTPUT_FAST_READ',['../system_8c.html#a38808e12bec3aa2813d5c332e2d2106f',1,'system.c']]]
 ];

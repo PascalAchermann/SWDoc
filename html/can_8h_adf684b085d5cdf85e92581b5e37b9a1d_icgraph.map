@@ -24,13 +24,13 @@
 <area shape="poly" id="edge29_Node000001_Node000020" title=" " alt="" coords="1013,298,954,344,919,362,917,357,951,339,1009,294"/>
 <area shape="rect" id="Node000003" href="$can_8c.html#a030a62a0956ab83394eb8354a0e97902" title="CAN1 initialization and Start the CAN." alt="" coords="328,25,433,52"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="827,23,433,39,433,34,827,18"/>
-<area shape="rect" id="Node000004" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,107,164,133"/>
+<area shape="rect" id="Node000004" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title="Platform initialization." alt="" coords="103,107,164,133"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="324,60,165,113,164,108,322,55"/>
 <area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,107,55,133"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,123,55,123,55,117,87,117"/>
 <area shape="rect" id="Node000007" href="$app_8c.html#a6d7bf2ac2364bd030f5e0f50105073a3" title="Run the system in the main operational mode." alt="" coords="493,208,593,235"/>
 <area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="792,224,593,224,593,219,792,219"/>
-<area shape="rect" id="Node000008" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="344,208,417,235"/>
+<area shape="rect" id="Node000008" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title="Main application task." alt="" coords="344,208,417,235"/>
 <area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="477,224,417,224,417,219,477,219"/>
 <area shape="rect" id="Node000009" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="212,132,280,159"/>
 <area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="340,202,270,161,273,157,343,197"/>

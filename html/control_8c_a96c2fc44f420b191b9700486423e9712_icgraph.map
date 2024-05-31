@@ -10,11 +10,11 @@
 <area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="968,166,886,135,888,130,970,161"/>
 <area shape="rect" id="Node000015" href="$app_8c.html#a3d201cee0d357546610c3688dffd7cd3" title="Stop the motor control supply if conditions are met." alt="" coords="769,169,930,196"/>
 <area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="962,185,930,185,930,180,962,180"/>
-<area shape="rect" id="Node000003" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="335,144,408,171"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title="Main application task." alt="" coords="335,144,408,171"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="486,42,464,58,418,104,385,145,381,142,415,100,461,54,483,38"/>
 <area shape="rect" id="Node000004" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="212,156,280,183"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="320,165,281,169,281,163,319,160"/>
-<area shape="rect" id="Node000005" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,207,164,233"/>
+<area shape="rect" id="Node000005" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title="Platform initialization." alt="" coords="103,207,164,233"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="202,192,165,209,163,204,200,187"/>
 <area shape="rect" id="Node000006" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,207,55,233"/>
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,223,55,223,55,217,87,217"/>

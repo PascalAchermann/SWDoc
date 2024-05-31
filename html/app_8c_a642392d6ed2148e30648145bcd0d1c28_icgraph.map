@@ -12,11 +12,11 @@
 <area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="887,193,844,210,842,205,885,188"/>
 <area shape="rect" id="Node000003" href="$app_8c.html#a3ded7d74e59ec620032bef339ca2cd1b" title="Processes incoming CAN messages." alt="" coords="449,107,573,133"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="635,43,535,108,532,104,632,38"/>
-<area shape="rect" id="Node000004" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="328,209,401,236"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title="Main application task." alt="" coords="328,209,401,236"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="475,144,450,161,384,211,381,207,447,156,473,140"/>
 <area shape="rect" id="Node000005" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="212,209,280,236"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="313,225,281,225,281,220,313,220"/>
-<area shape="rect" id="Node000006" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,209,164,236"/>
+<area shape="rect" id="Node000006" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title="Platform initialization." alt="" coords="103,209,164,236"/>
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="197,225,164,225,164,220,197,220"/>
 <area shape="rect" id="Node000007" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,209,55,236"/>
 <area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="87,225,55,225,55,220,87,220"/>

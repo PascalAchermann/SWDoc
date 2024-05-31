@@ -1,5 +1,5 @@
 <map id="AppTask" name="AppTask">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,1120,78,1147"/>
+<area shape="rect" id="Node000001" title="Main application task." alt="" coords="5,1120,78,1147"/>
 <area shape="rect" id="Node000002" href="$bcu_8c.html#ac3dda7769238b7cfae22ede98e16f763" title="Writes customized configuration data to flash memory." alt="" coords="503,208,599,235"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,1119,46,1006,60,828,71,734,85,645,102,570,123,516,159,460,193,415,229,379,266,350,353,301,465,244,487,235,489,240,467,249,356,306,269,355,232,383,197,419,163,463,128,519,107,572,90,646,76,734,65,829,51,1006,46,1120"/>
 <area shape="rect" id="Node000025" href="$app_8c.html#a3ded7d74e59ec620032bef339ca2cd1b" title="Processes incoming CAN messages." alt="" coords="126,841,250,868"/>

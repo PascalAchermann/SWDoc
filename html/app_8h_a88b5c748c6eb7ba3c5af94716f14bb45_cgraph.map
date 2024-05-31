@@ -1,6 +1,6 @@
 <map id="App_Init" name="App_Init">
 <area shape="rect" id="Node000001" title="Initializes the application." alt="" coords="5,642,74,669"/>
-<area shape="rect" id="Node000002" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="122,642,194,669"/>
+<area shape="rect" id="Node000002" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title="Main application task." alt="" coords="122,642,194,669"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,653,106,653,106,658,74,658"/>
 <area shape="rect" id="Node000003" href="$bcu_8c.html#ac3dda7769238b7cfae22ede98e16f763" title="Writes customized configuration data to flash memory." alt="" coords="619,440,716,466"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="182,639,282,587,413,526,513,492,604,466,605,471,515,497,415,531,284,591,185,644"/>

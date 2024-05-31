@@ -47,7 +47,7 @@ var searchData=
   ['hbenable_44',['hbenable',['../control_8c.html#a5b0fe93f7b683514959d2e651ac9f010',1,'control.c']]],
   ['hbmotor_45',['HBMotor',['../app_8c.html#ab82ec4357a4573315d11d3d4c9b53362',1,'app.c']]],
   ['hcan1_46',['hcan1',['../can_8c.html#a1618d731d18d69e906e8a357b7cd3c8d',1,'hcan1:&#160;can.c'],['../stm32l4xx__it_8c.html#a1618d731d18d69e906e8a357b7cd3c8d',1,'hcan1:&#160;can.c']]],
-  ['hclk_20hz_204000000_47',['HCLK(Hz)                               | 4000000',['../system__stm32l4xx_8c.html#autotoc_md14',1,'']]],
+  ['hclk_20hz_204000000_47',['HCLK(Hz)                               | 4000000',['../system__stm32l4xx_8c.html#autotoc_md16',1,'']]],
   ['hdac1_48',['hdac1',['../analog_8c.html#aa25a57382819e79fbde3687939c0fd0b',1,'hdac1:&#160;analog.c'],['../stm32l4xx__it_8c.html#aa25a57382819e79fbde3687939c0fd0b',1,'hdac1:&#160;analog.c']]],
   ['hiwdg_49',['hiwdg',['../main_8c.html#a80f055e38f52ca3c57e183fc685ea477',1,'main.c']]],
   ['hse_5fstartup_5ftimeout_50',['HSE_STARTUP_TIMEOUT',['../stm32l4xx__hal__conf_8h.html#a68ecbc9b0a1a40a1ec9d18d5e9747c4f',1,'stm32l4xx_hal_conf.h']]],
@@ -60,5 +60,5 @@ var searchData=
   ['htim2_57',['htim2',['../pwm_8c.html#a2c80fd5510e2990a59a5c90d745c716c',1,'pwm.c']]],
   ['huart1_58',['huart1',['../usart_8c.html#a2cf715bef37f7e8ef385a30974a5f0d5',1,'usart.c']]],
   ['hwwdg_59',['hwwdg',['../stm32l4xx__it_8c.html#a7e427387d3abc84f062262a98d09104a',1,'stm32l4xx_it.c']]],
-  ['hz_204000000_60',['Hz 4000000',['../system__stm32l4xx_8c.html#autotoc_md14',1,'HCLK(Hz)                               | 4000000'],['../system__stm32l4xx_8c.html#autotoc_md13',1,'SYSCLK(Hz)                             | 4000000']]]
+  ['hz_204000000_60',['Hz 4000000',['../system__stm32l4xx_8c.html#autotoc_md16',1,'HCLK(Hz)                               | 4000000'],['../system__stm32l4xx_8c.html#autotoc_md15',1,'SYSCLK(Hz)                             | 4000000']]]
 ];

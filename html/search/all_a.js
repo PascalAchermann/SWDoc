@@ -10,7 +10,6 @@ var searchData=
   ['error_5fhandler_7',['Error_Handler',['../main_8h.html#a1730ffe1e560465665eb47d9264826f9',1,'Error_Handler(void):&#160;main.c'],['../main_8c.html#a1730ffe1e560465665eb47d9264826f9',1,'Error_Handler(void):&#160;main.c']]],
   ['event_8',['Event',['../can_8c.html#a9993a50b52b53cf7943ea90f5d2cb863',1,'can.c']]],
   ['eventflags_9',['EventFlags',['../system_8c.html#aa3325728efa834bf031bf6d854da4855',1,'system.c']]],
-  ['example_20folder_20contents_10',['Example folder contents',['../index.html#autotoc_md8',1,'']]],
-  ['external_5fsai1_5fclock_5fvalue_11',['EXTERNAL_SAI1_CLOCK_VALUE',['../stm32l4xx__hal__conf_8h.html#a3e840e13854bdb68608b69a2ecf996ab',1,'stm32l4xx_hal_conf.h']]],
-  ['external_5fsai2_5fclock_5fvalue_12',['EXTERNAL_SAI2_CLOCK_VALUE',['../stm32l4xx__hal__conf_8h.html#a8f8fce2496d8c61b71331907e08c24c7',1,'stm32l4xx_hal_conf.h']]]
+  ['external_5fsai1_5fclock_5fvalue_10',['EXTERNAL_SAI1_CLOCK_VALUE',['../stm32l4xx__hal__conf_8h.html#a3e840e13854bdb68608b69a2ecf996ab',1,'stm32l4xx_hal_conf.h']]],
+  ['external_5fsai2_5fclock_5fvalue_11',['EXTERNAL_SAI2_CLOCK_VALUE',['../stm32l4xx__hal__conf_8h.html#a8f8fce2496d8c61b71331907e08c24c7',1,'stm32l4xx_hal_conf.h']]]
 ];

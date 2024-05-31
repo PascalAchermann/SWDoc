@@ -1,5 +1,5 @@
 <map id="PL_Init" name="PL_Init">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,767,67,794"/>
+<area shape="rect" id="Node000001" title="Platform initialization." alt="" coords="5,767,67,794"/>
 <area shape="rect" id="Node000002" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="161,337,230,363"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,766,42,713,55,634,78,541,93,495,112,450,139,408,168,373,172,376,143,411,117,452,98,497,83,543,60,635,47,714,41,767"/>
 <area shape="rect" id="Node000088" href="$control_8c.html#ad2b3dfd69a990b69a69c34b19a0e0d98" title="App Initialization Function." alt="" coords="541,755,628,782"/>
@@ -24,7 +24,7 @@
 <area shape="poly" id="edge76_Node000001_Node000106" title=" " alt="" coords="57,792,116,829,130,835,128,840,113,834,54,797"/>
 <area shape="rect" id="Node000107" href="$system_8c.html#a2d83fc2a9b232bc80dde93d2f128d99a" title="App Initialization Function." alt="" coords="703,933,793,959"/>
 <area shape="poly" id="edge78_Node000001_Node000107" title=" " alt="" coords="39,794,39,842,48,908,57,943,71,977,91,1007,116,1032,135,1042,160,1049,223,1055,299,1050,383,1037,552,1000,688,962,689,967,554,1005,384,1043,300,1055,223,1060,159,1054,133,1047,113,1036,86,1010,66,979,52,945,43,909,34,842,34,794"/>
-<area shape="rect" id="Node000003" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="363,261,435,287"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title="Main application task." alt="" coords="363,261,435,287"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="229,335,348,290,350,295,231,340"/>
 <area shape="rect" id="Node000004" href="$bcu_8c.html#ac3dda7769238b7cfae22ede98e16f763" title="Writes customized configuration data to flash memory." alt="" coords="536,426,633,453"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="426,286,476,323,501,351,524,380,559,414,555,417,520,384,497,354,473,327,422,290"/>

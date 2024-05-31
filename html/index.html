@@ -25,7 +25,7 @@
  <tr id="projectrow">
   <td id="projectlogo"><img alt="Logo" src="ARIS_space_to_grow_LOGO-white_small.png"/></td>
   <td id="projectalign">
-   <div id="projectname">Nautilus<span id="projectnumber">&#160;AB</span>
+   <div id="projectname">Nautilus<span id="projectnumber">&#160;Version: AB</span>
    </div>
    <div id="projectbrief">BCU: Buoyancy Control Unit</div>
   </td>
@@ -77,86 +77,99 @@ $(function() {
   <div class="headertitle"><div class="title">BCU - Software Documentation </div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p><a class="anchor" id="md__c_1_2_b_a_t_2_b_c_u___controller_202___software_201___s_w___b_c_u_2_core_2_r_e_a_d_m_e"></a> </p>
+<div class="textblock"><p><a class="anchor" id="md__c_1_2_b_a_t_2_b_c_u___controller_202___software_201___s_w___b_c_u_2_core_2_r_e_a_d_m_e"></a></p>
+<p>The developed hardware requires corresponding software. In software projects conducted by individuals, documentation is often neglected, hindering further development. To prevent this, comprehensive software documentation was created using automated code documentation software (Doxygen). The code is documented in comments using Markdown syntax. Maintaining the documentation requires a high level of discipline. It is noteworthy that the code documentation was created with the assistance of an artificial intelligence chatbot (ChatGPT), enabling efficient and clean work. The software documentation is available as a PDF and HTML page in the electronic appendix or via this <a href="https://pascalachermann.github.io/SWDoc/html/index.html">link</a>.</p>
 <h1><a class="anchor" id="autotoc_md1"></a>
-What does the SW?</h1>
-<p>This software is designed for the STM32L432KCUX</p>
+Technology Stack</h1>
 <ul>
-<li>install 'Espressif IDF' extension from Expressif Systems</li>
-<li>launch code from the project root folder</li>
-<li>select Kit (might need to rescan for kits), Eelect GCC 12.2.0. xtensa-esp32-elf</li>
-<li>bottom toolbar: select COM port and project<ul>
-<li>ESP32-WROOM-32E, 4 MB Flash</li>
-<li>ESP32, ESP32 chip via ESP-Prog</li>
+<li><b>Microcontroller:</b> STM32L432KCUX</li>
+<li><b>Programming Language:</b> C</li>
+<li><b>RTOS:</b> Real-Time Operating System for task management</li>
+<li><b>Debugging Tools:</b> STLINK-V3MINIE by STM and J-Link EDU mini by Segger</li>
+<li><b>Communication Protocol:</b> Real-Time Transfer (RTT) for enhanced analysis using SystemView</li>
+<li><b>Programming Interface:</b> Serial Wire Debug (SWD)</li>
+</ul>
+<h1><a class="anchor" id="autotoc_md2"></a>
+System Architecture</h1>
+<p>The Buoyancy Control Unit (BCU) is part of a larger system. The software interacts with the Motor Control Unit (MNU) and the motor controller via CAN. It controls valves and its main task is to regulate the tank volume by measuring temperature and pressure within the tank. It can activate the motor controller and pump oil into or out of the tank as needed. The software can be adjusted for different motors and valves through various parameter settings. Status information is communicated by the BCU after every event.</p>
+<h1><a class="anchor" id="autotoc_md3"></a>
+Software Architecture</h1>
+<p>The software features a <code><a class="el" href="platform_8h.html">platform.h</a></code> file through which the system is configured. This file contains macros that include or exclude code sections from the build process via the preprocessor. Additionally, it defines important system constants. The software is built around three main tasks. The <code>Measure Task</code> handles measurements and their storage. The <code>CAN Task</code> manages message sending and storage. The <code>Application Task</code> is the main application, where messages are processed and responded to.</p><ul>
+<li><b>Measurement Storage:</b> Stores each measurement in a structured manner, ensuring efficient data management.</li>
+<li><b>CAN Communication:</b> Ensures reliable message transmission and reception, crucial for real-time system updates.</li>
+<li><b>Application Logic:</b> Executes the main logic for tank volume regulation and other control processes based on sensor data and configuration settings.</li>
+</ul>
+<h1><a class="anchor" id="autotoc_md4"></a>
+Modules</h1>
+<h2><a class="anchor" id="autotoc_md5"></a>
+Receive CAN Messages</h2>
+<ul>
+<li><b>Function:</b> <code>newCANMessage</code></li>
+<li><b>Purpose:</b> Processes incoming CAN messages based on their IDs (e.g., setting running mode, switching operational modes, updating sensor values).</li>
+<li><b>Handled IDs:</b> Level, Information, Configuration, Ambient Pressure, Tank Pressure, Tank Temperature, Motor Heartbeat, Motor Velocity.</li>
+</ul>
+<h2><a class="anchor" id="autotoc_md6"></a>
+Start Up</h2>
+<ul>
+<li><b>Function:</b> <code>Startup</code></li>
+<li><b>Purpose:</b> Reconfigures the BCU, reads configurations from Flash, and sets up modules. Invoked after a restart or when waking from sleep mode.</li>
+</ul>
+<h2><a class="anchor" id="autotoc_md7"></a>
+Running Mode</h2>
+<ul>
+<li><b>Purpose:</b> Executes various checks and controls, such as:<ul>
+<li>Verifying if the motor controller can be turned off.</li>
+<li>Checking sensor values.</li>
+<li>Performing necessary regulatory actions.</li>
 </ul>
 </li>
 </ul>
-<p>Flash via JTAG:</p><ul>
-<li>config -&gt; security featues -&gt; set Flash to 4 MB</li>
-<li>select JTAG (Flash)</li>
-<li>run UsbDriverTool: WinUSB for USB Verbundgerät, VID 0403, DID 6010</li>
-<li>run OpenOCD (bottom toolbar)</li>
-</ul>
-<p>Debug: <a href="https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/tutorial/debugging.md">https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/tutorial/debugging.md</a></p><ul>
-<li>Debug toolbar, create launch.json, select ESP-IDF type</li>
-</ul>
-<h1><a class="anchor" id="autotoc_md2"></a>
-freeRTOS</h1>
-<p>The Sw use freeRTOS. The Stack size <b>12</b> The Heap size <b>14</b> Use of Timer Task Queues Semaphore and Events</p>
-<h1><a class="anchor" id="autotoc_md3"></a>
-SW architecture</h1>
-<h2><a class="anchor" id="autotoc_md4"></a>
-Measurement</h2>
-<h2><a class="anchor" id="autotoc_md5"></a>
-Controler</h2>
-<h2><a class="anchor" id="autotoc_md6"></a>
-CAN</h2>
-<h2><a class="anchor" id="autotoc_md7"></a>
-Flash</h2>
-<p>Follow detailed instructions provided specifically for this example.</p>
-<p>Select the instructions depending on Espressif chip installed on your development board:</p>
-<ul>
-<li><a href="https://docs.espressif.com/projects/esp-idf/en/stable/get-started/index.html">ESP32 Getting Started Guide</a></li>
-<li><a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/index.html">ESP32-S2 Getting Started Guide</a></li>
-</ul>
 <h2><a class="anchor" id="autotoc_md8"></a>
-Example folder contents</h2>
-<p>The project <b>hello_world</b> contains one source file in C language <a href="main/hello_world_main.c">hello_world_main.c</a>. The file is located in folder [main](main).</p>
-<p>ESP-IDF projects are built using CMake. The project build configuration is contained in <code>CMakeLists.txt</code> files that provide set of directives and instructions describing the project's source files and targets (executable, library, or both).</p>
+Flash Memory Management</h2>
+<ul>
+<li><b>Functions:</b> <code>EraseFl</code>, <code>ReadFl</code>, <code>WriteFl</code>, <code>SaveFailureFlash</code>, <code>ReadConfiguration</code></li>
+<li><b>Purpose:</b> Manages configuration and error codes in the Flash memory, with predefined address ranges for different data types.</li>
+</ul>
+<h2><a class="anchor" id="autotoc_md9"></a>
+Capacitor Array Management</h2>
+<ul>
+<li><b>Functions:</b> <code>LoadCapacitor</code>, <code>FastLoadCapacitor</code></li>
+<li><b>Purpose:</b> Handles the charging of the capacitor array through slow or fast methods, with configurations managed in <code><a class="el" href="platform_8h.html">platform.h</a></code>.</li>
+</ul>
+<h1><a class="anchor" id="autotoc_md10"></a>
+Folder contents</h1>
 <p>Below is short explanation of remaining files in the project folder.</p>
 <div class="fragment"><div class="line">├── Core</div>
 <div class="line">│   ├── Inc           Include files</div>
 <div class="line">│   │   ├── analog.h    </div>
 <div class="line">│   │   ├── app.h           </div>
-<div class="line">│   │   └── bcu.h</div>
+<div class="line">│   │   ├── platform.h</div>
+<div class="line">│   │   ├── ....h  </div>
+<div class="line">│   │   └── main.h</div>
 <div class="line">│   ├── Src             Source files</div>
-<div class="line">│   │   ├── analog.h</div>
-<div class="line">│   │   ├── app.h</div>
-<div class="line">│   │   ├── bcu.h</div>
-<div class="line">│   │   ├── ...h</div>
-<div class="line">│   │   └── main.h          Program start</div>
+<div class="line">│   │   ├── analog.c</div>
+<div class="line">│   │   ├── app.c</div>
+<div class="line">│   │   ├── platform.c</div>
+<div class="line">│   │   ├── ...c</div>
+<div class="line">│   │   └── main.c          Program start</div>
 <div class="line">│   ├── Startup         Controller startup</div>
 <div class="line">│   ├── README.md       **This is the file you are currently reading**</div>
 <div class="line">│   └── LICENSE.txt     License Apache 2.0</div>
 <div class="line">├── Middleware      freeRTOS</div>
+<div class="line">├── SystemView      Segger RTT</div>
 <div class="line">├── Drivers         HAL from STM</div>
 </div><!-- fragment --> <dl class="section attention"><dt>Attention</dt><dd>The License is saved in the LICENSE.TXT file in the Core folder.</dd></dl>
-<p>For more information on structure and contents of ESP-IDF projects, please refer to Section <a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/build-system.html">Build System</a> of the ESP-IDF Programming Guide.</p>
-<h2><a class="anchor" id="autotoc_md9"></a>
-Troubleshooting</h2>
+<h1><a class="anchor" id="autotoc_md11"></a>
+Troubleshooting</h1>
 <ul>
-<li>Program upload failure<ul>
-<li>Hardware connection is not correct: run <code>idf.py -p PORT monitor</code>, and reboot your board to see if there are any output logs.</li>
-<li>The baud rate for downloading is too high: lower your baud rate in the <code>menuconfig</code> menu, and try again.</li>
+<li>No troubleshooting till yet.</li>
 </ul>
-</li>
-</ul>
-<h2><a class="anchor" id="autotoc_md10"></a>
-Technical support and feedback</h2>
+<h1><a class="anchor" id="autotoc_md12"></a>
+Technical support and feedback</h1>
 <p>Please use the following feedback channels:</p>
 <ul>
-<li>For technical queries, go to the <a href="https://esp32.com/">esp32.com</a> forum</li>
-<li>For a feature request or bug report, create a <a href="https://github.com/espressif/esp-idf/issues">GitHub issue</a></li>
+<li>For technical queries, www.aris-space.ch</li>
+<li>For a feature request or bug report send a mail to <a href="#" onclick="location.href='mai'+'lto:'+'pas'+'ca'+'l.a'+'ch'+'erm'+'an'+'n@a'+'ri'+'s-s'+'pa'+'ce.'+'ch'; return false;">pasca<span class="obfuscator">.nosp@m.</span>l.ac<span class="obfuscator">.nosp@m.</span>herma<span class="obfuscator">.nosp@m.</span>nn@a<span class="obfuscator">.nosp@m.</span>ris-s<span class="obfuscator">.nosp@m.</span>pace<span class="obfuscator">.nosp@m.</span>.ch</a></li>
 </ul>
 <p>We will get back to you as soon as possible. </p>
 </div></div><!-- PageDoc -->

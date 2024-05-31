@@ -26,11 +26,11 @@
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1104,539,1059,638,1031,686,1017,704,1003,715,972,728,940,734,906,735,873,730,811,712,763,692,766,687,813,707,874,725,906,729,939,729,971,723,1000,711,1013,700,1026,683,1054,636,1099,537"/>
 <area shape="rect" id="Node000008" href="$bcu_8c.html#ad19eaee2ae8d229ef81f6e38037c02b6" title="Handles failure list requests." alt="" coords="697,472,778,498"/>
 <area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1065,510,778,490,778,485,1066,504"/>
-<area shape="rect" id="Node000004" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title=" " alt="" coords="355,472,428,498"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#ab7cd561feb9150366a3bae1506d29f03" title="Main application task." alt="" coords="355,472,428,498"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="673,672,629,665,579,652,529,634,483,608,453,583,429,553,397,500,402,497,433,550,457,579,486,604,532,629,581,647,630,659,674,667"/>
 <area shape="rect" id="Node000005" href="$app_8c.html#a88b5c748c6eb7ba3c5af94716f14bb45" title="Initializes the application." alt="" coords="221,370,289,397"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="359,464,273,399,276,395,362,460"/>
-<area shape="rect" id="Node000006" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title=" " alt="" coords="103,168,164,194"/>
+<area shape="rect" id="Node000006" href="$platform_8c.html#a0651118fc777b5c63724b9ec785c86f3" title="Platform initialization." alt="" coords="103,168,164,194"/>
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="236,358,140,196,145,193,240,355"/>
 <area shape="rect" id="Node000007" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,168,55,194"/>
 <area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="87,184,55,184,55,178,87,178"/>
