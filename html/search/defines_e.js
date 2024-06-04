@@ -13,7 +13,6 @@ var searchData=
   ['segger_5frtt_5fprintf_5fbuffer_5fsize_10',['SEGGER_RTT_PRINTF_BUFFER_SIZE',['../_s_e_g_g_e_r___r_t_t___conf_8h.html#a077a1988b454a012aeafa0f7f0a63c95',1,'SEGGER_RTT_Conf.h']]],
   ['segger_5frtt_5funlock_11',['SEGGER_RTT_UNLOCK',['../_s_e_g_g_e_r___r_t_t___conf_8h.html#a23e2c84120db13475b1f31d3ba707d58',1,'SEGGER_RTT_Conf.h']]],
   ['set_5fburst_5fwith_5fwrap_12',['SET_BURST_WITH_WRAP',['../system_8c.html#ad8a743e63e0c2b50bb1331ae427451c1',1,'system.c']]],
-  ['spi_5ffin_5fbit_13',['SPI_FIN_BIT',['../app_8h.html#ae6544adfed415c18696ee12ebf18b4a7',1,'app.h']]],
-  ['spi_5fmax_5flength_14',['SPI_MAX_LENGTH',['../system_8c.html#a3bc253b0b2c9219bd1a2e6e5ad1e2d40',1,'system.c']]],
-  ['start_5fbit_15',['START_BIT',['../measure_8c.html#a047737489bcc993e33016da6e77ce082',1,'measure.c']]]
+  ['spi_5fmax_5flength_13',['SPI_MAX_LENGTH',['../system_8c.html#a3bc253b0b2c9219bd1a2e6e5ad1e2d40',1,'system.c']]],
+  ['start_5fbit_14',['START_BIT',['../measure_8c.html#a047737489bcc993e33016da6e77ce082',1,'measure.c']]]
 ];
